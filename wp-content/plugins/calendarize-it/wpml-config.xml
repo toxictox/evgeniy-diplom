@@ -1,0 +1,62 @@
+<wpml-config>
+
+	<custom-types>
+		<custom-type translate="1">events</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">calendar</taxonomy>
+		<taxonomy translate="1">venue</taxonomy>
+		<taxonomy translate="1">organizer</taxonomy>
+	</taxonomies>
+	
+	<admin-texts>
+		<key name="rhc_options">
+			
+			
+			<key name="parent_venue_label"></key>
+			
+			<key name="cal_monthnames"></key>
+			<key name="cal_monthnamesshort"></key>
+			<key name="cal_daynames"></key>
+			<key name="cal_daynamesshort"></key>
+			<key name="cal_button_text_today"></key>
+			<key name="cal_button_text_month"></key>
+			<key name="cal_button_text_day"></key>
+			<key name="cal_button_text_week"></key>
+			<key name="cal_button_text_calendar"></key>
+			<key name="cal_button_text_event"></key>
+			<key name="cal_fixed_title"></key>
+			<key name="cal_alldaytext"></key>
+			<key name="cal_eventlistnoeventstext"></key>
+			<key name="cal_icalendar_button"></key>
+			<key name="cal_icalendar_title"></key>
+			<key name="cal_icalendar_description"></key>
+			
+			<key name="gmap_fullscreen_label"></key>
+			<key name="gmap_button_label"></key>
+			<key name="gmap_exit_fullscreen_label"></key>
+			<key name="gmap_sidelist_label"></key>
+			<key name="directory_label"></key>
+			
+			<key name="ce_notify_subject"></key>
+			<key name="ce_notify_body"></key>
+			<key name="custom_label*"></key>
+			<key name="custom_image_label*"></key>
+			
+			
+			
+			
+			<key name="postinfo_boxes">
+				<key name="*">
+					<key name="data">
+						<key name="*">
+							<key name="label"></key>	
+							<key name="value"></key>						
+						</key>
+					</key>
+				</key>
+			</key>
+		
+		</key>
+	</admin-texts>
+</wpml-config>

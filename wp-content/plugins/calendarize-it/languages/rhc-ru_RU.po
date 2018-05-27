@@ -1,0 +1,5874 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Project-Id-Version: rhc\n"
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+msgid "_blank"
+msgstr "_blank"
+
+msgid "_blank new window or tab"
+msgstr "_blank в новом окне или вкладке"
+
+msgid "_parent"
+msgstr "_parent"
+
+msgid "_self"
+msgstr "_self"
+
+msgid "_self same window or tab"
+msgstr "_self в том же окне или вкладке"
+
+msgid "_top"
+msgstr "_top"
+
+msgid "--any--"
+msgstr "--любой--"
+
+msgid "--choose--"
+msgstr "--выбрать--"
+
+msgid "--no options--"
+msgstr "--без вариантов--"
+
+msgid "--none--"
+msgstr "--нет--"
+
+msgid ".htaccess content"
+msgstr "содержание .htaccess"
+
+msgid "*Overwrites event taxonomies filter."
+msgstr "*Переписывает фильтр таксономий событий."
+
+msgid "%s content columns. Holder proportion: %s"
+msgstr "%s содержание столбцов. Пропорция: %s"
+
+msgid "%s database table exists. Contains %s records."
+msgstr "%s таблица базы данных существует. Содержит %s записей."
+
+msgid "%s database table not found."
+msgstr "%s таблица базы данных не найдена."
+
+msgid ""
+"%s if you would prefer the theme to render the content of events in archive."
+msgstr ""
+"%s если вы предпочитаете, чтобы тема представляла содержание событий в "
+"архиве."
+
+msgid "%s or %s"
+msgstr "%s или %s"
+
+msgid "%s page Template"
+msgstr "Шаблон %s страницы"
+
+msgid "%s( %s )"
+msgstr "%s( %s )"
+
+msgid "<b>Cause:</b>  Another script is trying to redirect the user on login"
+msgstr ""
+"<b>Причина:</b>  Другой скрипт пытается перенаправить пользователя на вход"
+
+msgid ""
+"<b>comma separated</b> and <b>no space</b> labels on each setting in section"
+msgstr ""
+"ярлыки <b>через запятую</b> и <b>без пробелов</b> на каждый параметр в "
+"разделе"
+
+msgid ""
+"<b>Custom Days per page:</b>  By default when clicking next or previous, the "
+"view will go to the next month, behaving in a similar way to the month "
+"view.  You can specify the number of days to advance with this option."
+msgstr ""
+"<b>Произвольных дней на странице:</b> По умолчанию при нажатии Следующий или "
+"Предыдущий, обзор перейдет на следующий месяц, ведя себя подобным образом в "
+"месячном режиме просмотра. Вы можете указать количество дней для перехода с "
+"этой опцией."
+
+msgid ""
+"<b>Days ahead:</b>  Similar to months ahead, but allows specifying days "
+"intead of months.  This option overwrites the months option."
+msgstr ""
+"<b>Дней вперед:</b> Подобно месяцам вперед, но позволяет указывать дни "
+"вместо месяцев. Этот параметр переопределяет параметр месяцев."
+
+msgid ""
+"<b>Max displayed events:</b>  Optionally limit the number of events "
+"displayed."
+msgstr ""
+"<b>Макс. отображаемых событий:</b> Позволяет при необходимости ограничить "
+"количество отображаемых событий."
+
+msgid ""
+"<b>Months ahead:</b>  By default the events view show up to one month of "
+"upcoming events.  Use this option to show more events."
+msgstr ""
+"<b>Месяцев вперед:</b> По умолчанию показывается до одного месяца "
+"предстоящих событий. Используйте эту опцию, чтобы показать больше событий."
+
+msgid ""
+"<b>Remove ended:</b> Remove event if it has ended.  Event end date is "
+"compared against the time in the client side."
+msgstr ""
+"<b>Удалить завершенные:</b> Удалить событие, если оно закончилось. Дата "
+"окончания событий сравнивается со временем на стороне клиента."
+
+msgid "<b>Reverse order:</b>  choose yes to invert the order of events"
+msgstr ""
+"<b>В обратном порядке:</b> Выберите Да, чтобы инвертировать порядок событий"
+
+msgid ""
+"<b>Show multi month events:</b> By default long spanning events that started "
+"on a diferent month will not be displayed in the event list.  Check yes to "
+"show them."
+msgstr ""
+"<b>Показать многомесячные события:</b> По умолчанию длительные события, "
+"которые начались в другом месяце не отображаются в списке событий. Выберите "
+"Да, чтобы показывать их."
+
+msgid ""
+"<b>Show same date header:</b>  choose yes to show a label with the date "
+"before events on the same date."
+msgstr ""
+"<b>Показать тот же самый заголовок даты:</b> Выберите Да, чтобы показать "
+"этикетку с датой перед событиями на ту же самую дату."
+
+msgid ""
+"<b>Stack autoload:</b>Automatically fetch and stack the next group of events"
+msgstr ""
+"<b>Автогрузка стека:</b> Автоматическая загрузка и стек следующей группы "
+"событий"
+
+msgid ""
+"<b>Stack behaviour:</b>When clicking Next, the view will not be cleared, "
+"instead new events will stack."
+msgstr ""
+"<b>Поведение стека: </b> При нажатии Далее, просмотр не будет очищен, вместо "
+"этого новые события будут прибавлены."
+
+msgid ""
+"<b>Upcoming only:</b>  choose yes if you only want to display upcoming "
+"events."
+msgstr ""
+"<b>Только предстоящие:</b> Выберите Да, если вы хотите показывать только "
+"предстоящие события."
+
+msgid "<i>Technical:</i> This is stored in the local site options."
+msgstr ""
+"<i>Технические настройки:</i> Это сохраняется в локальных настройках сайта."
+
+msgid "1/2 content - 1/2 Image"
+msgstr "1/2 контент - 1/2 изображение"
+
+msgid "1/3 - 2/3"
+msgstr "1/3 - 2/3"
+
+msgid "1/3 content - 2/3 Image"
+msgstr "1/3 контент - 2/3 изображение"
+
+msgid "1/4 - 3/4"
+msgstr "1/4 - 3/4"
+
+msgid "1/4 content - 3/4 Image"
+msgstr "1/4 контент - 3/4 изображение"
+
+msgid "1st"
+msgstr "1-й"
+
+msgid "2/3 - 1/3"
+msgstr "2/3 - 1/3"
+
+msgid "2/3 content - 1/3 Image"
+msgstr "2/3 контент - 1/3 изображение"
+
+msgid ""
+"2015 RightHere LLC. Trademarks and brands are the property of their "
+"respective owners."
+msgstr ""
+"2015 RightHere LLC. Товарные знаки и торговые марки являются собственностью "
+"их владельцев."
+
+msgid "2nd"
+msgstr "2-й"
+
+msgid "3/4 - 1/4"
+msgstr "3/4 - 1/4"
+
+msgid "3/4 content - 1/4 Image"
+msgstr "3/4 контент - 1/4 изображение"
+
+msgid "3rd"
+msgstr "3-й"
+
+msgid "4th"
+msgstr "4-й"
+
+msgid "5th"
+msgstr "5-й"
+
+msgid "A duplicate of this addon/plugin is already active."
+msgstr "Дубликат этого аддона/плагина уже активирован."
+
+msgid ""
+"a short label that identifies this export code and click on Export to get "
+"the site settings.  You can later use this code to restore by uploading the "
+"file in the Import settings section of this tab."
+msgstr ""
+"короткая метка, которая идентифицирует этот экспортный код и нажмите на "
+"кнопку Экспорт, чтобы получить настройки сайтов. Позже вы можете "
+"использовать этот код для восстановления, загрузив файл в разделе Импорт."
+
+msgid ""
+"a small description so you can identify this settings and press <i>Save  It "
+"will be listed on the Saved settings list."
+msgstr ""
+"маленькое описание, так что вы можете определить эти настройки и нажмите "
+"<i>Сохранить. Это будет внесено в список сохраненных настроек."
+
+msgid ""
+"A static list of events is rendered in a noscript tag for people browsing "
+"the calendar without javascript.  This makes the events visible to search "
+"enginges too."
+msgstr ""
+"Статический список событий отображается в теге noscript для людей, "
+"просматривающих календарь без JavaScript. Это также делает события видимыми "
+"для поисковых систем."
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add %s"
+msgstr "Добавить %s"
+
+msgid "Add a Custom Details Box"
+msgstr "Добавить блок с произвольными данными"
+
+msgid "Add a Organizer Image"
+msgstr "Добавить изображение организатора"
+
+msgid "Add a Organizer Website field"
+msgstr "Добавить поле сайт организатора"
+
+msgid "Add a Venue Image"
+msgstr "Добавить изображение места"
+
+msgid "Add a Venue Map"
+msgstr "Добавить место на карте"
+
+msgid "Add an Event Image"
+msgstr "Добавить изображение события"
+
+msgid "Add calendar"
+msgstr "Добавить календарь"
+
+msgid "Add comma separated taxonomy slugs to remove from the filter bar."
+msgstr "Добавить через запятую таксономии слагов для удаления из фильтра."
+
+msgid "Add comment..."
+msgstr "Добавить комментарий..."
+
+msgid "Add Conditional Content"
+msgstr "Добавить условное содержание"
+
+msgid "Add Cutom Label"
+msgstr "Добавить пользовательские метки"
+
+msgid "Add End Date and Time field"
+msgstr "Добавить поле даты и времени окончания"
+
+msgid "Add End Date field"
+msgstr "Добавить поле даты окончания"
+
+msgid "Add End Time field"
+msgstr "Добавить поле времени окончания"
+
+msgid "Add Event Details Box"
+msgstr "Добавить блок подробностей события"
+
+msgid "Add Event Excerpt"
+msgstr "Добавить отрывок события"
+
+msgid "Add Event Title"
+msgstr "Добавить title события"
+
+msgid "Add iCal Button"
+msgstr "Добавить кнопку iCal"
+
+msgid "Add license"
+msgstr "Добавить лицензию"
+
+msgid "Add Loop Shortcode"
+msgstr "Добавить шорткод петли"
+
+msgid "Add new event"
+msgstr "Добавить новое мероприятие"
+
+msgid "Add Organizer"
+msgstr "Добавить организатора"
+
+msgid "Add Organizer Meta field"
+msgstr "Добавить мета поле организатора"
+
+msgid "Add Post Event Meta Data field"
+msgstr "Добавить поле записи метаданных события"
+
+msgid "Add show type"
+msgstr "Добавить тип показа"
+
+msgid "Add Start Date and Time field"
+msgstr "Добавить поле даты и времени начала"
+
+msgid "Add Start Date field"
+msgstr "Добавить поле даты начала"
+
+msgid "Add Start Time field"
+msgstr "Добавить поле времени старта"
+
+msgid "Add Template content"
+msgstr "Добавить контент шаблона"
+
+msgid "Add to your calendar"
+msgstr "Добавить в ваш календарь"
+
+msgid "Add Upcoming Events List"
+msgstr "Добавить список предстоящих событий"
+
+msgid "Add venue"
+msgstr "Добавить место проведения"
+
+msgid "Add Venue Details Box"
+msgstr "Добавить блок деталей места проведения"
+
+msgid "Add Venue Meta field"
+msgstr "Добавить мета поле места проведения"
+
+msgid "Add Venue Website field"
+msgstr "Добавить поле сайт места проведения"
+
+msgid "Add-ons"
+msgstr "Дополнения"
+
+msgid ""
+"adding the initial event simply click on any date in order to add the repeat "
+"date."
+msgstr ""
+"добавив исходное событие просто нажмите на любую дату, чтобы добавить дату "
+"повтора."
+
+msgid ""
+"addition to recurring rules you can set arbitrary repeat dates.  Click to "
+"save an arbitrary repeat date."
+msgstr ""
+"в дополнение к повторяющимся правилам вы можете установить произвольные даты "
+"повтора. Нажмите, чтобы сохранить произвольную дату повтора."
+
+msgid "Additional info layout"
+msgstr "Макет дополнительной информации"
+
+msgid ""
+"addons installed.  Go to the Downloads menu to download an addon, then back "
+"to this screen to activate it."
+msgstr ""
+"аддоны установлены. Перейдите в меню Загрузки для загрузки аддона,  затем "
+"вернитесь к этому экрану для его активации."
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Address:"
+msgstr "Адрес:"
+
+msgid "Adjust media settings"
+msgstr "Регулировка настроек медиа"
+
+msgid "Adjust template settings"
+msgstr "Регулировка настроек шаблонов"
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid "Advanced Settings"
+msgstr "Дополнительные настройки"
+
+msgid ""
+"After adding the initial event simply click on any date in order to add the "
+"arbitrary repeat date."
+msgstr ""
+"После добавления исходного события просто нажмите на любую дату, чтобы "
+"добавить дату повтора."
+
+msgid ""
+"After upgrading to WP 4.1, as an admin you cannot edit or trash events "
+"created by other users before the upgrade."
+msgstr ""
+"После обновления до WP 4.1, как админ, вы не сможете редактировать или "
+"удалять события, созданные другими пользователями перед обновлением."
+
+msgid ""
+"After upgrading to WP 4.4, taxonomy metadata have dissappeared.  Example "
+"venue and organizer details are empty."
+msgstr ""
+"После обновления до WP 4.4, метаданные таксономий исчезнут. Например, детали "
+"места проведения и организатора пусты."
+
+msgid "Agenda"
+msgstr "Расписание"
+
+msgid "Agenda day"
+msgstr "Расписание дня"
+
+msgid "Agenda Like"
+msgstr "Agenda Like"
+
+msgid "Agenda Like B"
+msgstr "Agenda Like B"
+
+msgid "Agenda view (week and day view)"
+msgstr "Просмотр расписания (недельный и дневной вид)"
+
+msgid "Agenda views"
+msgstr "Просмотры расписания"
+
+msgid "Agenda week"
+msgstr "Расписание недели"
+
+msgid ""
+"ahead:</b>  By default the events view show up to one month of events.  Use "
+"this option to show more events."
+msgstr ""
+"предстоящие:</b> По умолчанию события отображаются до одного месяца. "
+"Используйте эту опцию, чтобы показать больше событий."
+
+msgid "Ajax"
+msgstr "Ajax"
+
+msgid "Ajax based templates and sliders"
+msgstr "Шаблоны и слайдеры, основанные на Ajax"
+
+msgid "Ajax catch php warnings."
+msgstr "Ajax ловушка php предупреждений."
+
+msgid ""
+"Ajax data shrink is a new feature introduced on version 2.7.4, it reduces "
+"the ajax data size.  Choose no if you want to disable this feature."
+msgstr ""
+"Сжатия Ajax данных - это новая функция, введенная в версии 2.7.4. Она "
+"уменьшает размер данных ajax . Выберите Нет, если хотите отключить эту "
+"функцию."
+
+msgid "Ajax events query version."
+msgstr "Версия Ajax events query."
+
+msgid "Alignment"
+msgstr "Выравнивание"
+
+msgid "All %s"
+msgstr "Все %s"
+
+msgid "All calendars"
+msgstr "Все календари"
+
+msgid "All day"
+msgstr "Весь день"
+
+msgid "All organizers"
+msgstr "Все организаторы"
+
+msgid "All show types"
+msgstr "Все показываемые типы"
+
+msgid "All venues"
+msgstr "Все места"
+
+msgid "All views"
+msgstr "Все виды"
+
+msgid "all-day"
+msgstr "\"весь день\""
+
+msgid "all-day label"
+msgstr "метка \"весь день\""
+
+msgid "Allday group"
+msgstr "Группа \"весь день\""
+
+msgid ""
+"allows us to verify your purchase and provide support to those who have We "
+"will also automatically notify you when updates are available. are free to "
+"download if you have purchased this once. If you have about this, please "
+"contact us at %s."
+msgstr ""
+"позволяет нам проверять вашу покупку и оказывать поддержку. Мы также "
+"уведомим вас, когда будут доступны обновления. Вы сможете загрузить их "
+"бесплатно. Если у Вас есть вопросы - свяжитесь с нами по %s."
+
+msgid "any time"
+msgstr "любое время"
+
+msgid "Any user"
+msgstr "Любой пользователь"
+
+msgid "API Server returned an unrecognized format."
+msgstr "API сервер вернул неизвестный формат."
+
+msgid "Api url"
+msgstr "Api url"
+
+msgid "Apply ALL default"
+msgstr "Применить ВСЕ по умолчанию"
+
+msgid "Apply Default"
+msgstr "Применить по умолчанию"
+
+msgid "Apply default Dynamic Tooltip"
+msgstr "Применить всплывающие подсказки по умолчанию"
+
+msgid "Apply default Event Detail Box"
+msgstr "Применить блок деталей события по умолчанию"
+
+msgid "Apply default to all events"
+msgstr "Применить по умолчанию ко всем событиям"
+
+msgid "Apply default Venue Detail Box"
+msgstr "Применить блок деталей места события по умолчанию"
+
+msgid "Apply filters"
+msgstr "Применить фильтры"
+
+msgid "Apply the_content filter to the Event page content"
+msgstr "Примените фильтр the_content к содержанию страницы событий"
+
+msgid "apr"
+msgstr "апр"
+
+msgid "April"
+msgstr "Апрель"
+
+msgid "Arbitrary repeat dates"
+msgstr "Произвольные повторные даты"
+
+msgid "Archive content template"
+msgstr "Шаблон контента архива"
+
+msgid "Archive/Blog layout settings"
+msgstr "Настройки макетов Архив/Блог"
+
+msgid "Ascending"
+msgstr "По возрастанию"
+
+msgid "Aspect ratio"
+msgstr "Соотношение сторон"
+
+msgid "at"
+msgstr "в"
+
+msgid "At event end"
+msgstr "В конце мероприятия"
+
+msgid "Attending Status"
+msgstr "Статус посещения"
+
+msgid "aug"
+msgstr "авг"
+
+msgid "August"
+msgstr "Август"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Automatic Calendar content"
+msgstr "Авто заполнение календаря"
+
+msgid "Automatic settings backup"
+msgstr "Авто бекап настроек"
+
+msgid "Avarage Text"
+msgstr "Средний текст"
+
+msgid "average"
+msgstr "средний"
+
+msgid "Axis format (Also affects day view)"
+msgstr "Формат оси (также влияет на дневной вид)"
+
+msgid "Back"
+msgstr "Обратная сторона"
+
+msgid "Back background"
+msgstr "Фон обратной стороны"
+
+msgid "Back Container"
+msgstr "Контейнер обратной стороны"
+
+msgid "Back Container background"
+msgstr "Фон контейнера обратной стороны"
+
+msgid "Back default color"
+msgstr "Стандартный цвет обратной стороны"
+
+msgid "Back hover color"
+msgstr "Цвет обратной стороны при наведении"
+
+msgid "Backend Event List Taxonomies"
+msgstr "Бэкэнд таксономии списка событий"
+
+msgid "Backend jQuery UI version"
+msgstr "Версия бэкэнд jQuery UI"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Background color"
+msgstr "Цвет фона"
+
+msgid "Background matches event color"
+msgstr "Фон соответствует цвету событий"
+
+msgid "Backup my current settings locally."
+msgstr "Сохранить мои текущие настройки локально."
+
+msgid "Bar background"
+msgstr "Фон панели"
+
+msgid "Bar bg color"
+msgstr "Цвет фона панели"
+
+msgid "Bar color"
+msgstr "Цвет панели"
+
+msgid "Bar Text"
+msgstr "Текст панели"
+
+msgid "Be the first to rate and review"
+msgstr "Будьте первым, кто оценит"
+
+msgid "Bg, border and tip color"
+msgstr "Рамка и цвет подсказок"
+
+msgid "Body"
+msgstr "Тело"
+
+msgid "Border"
+msgstr "Рамка"
+
+msgid "Border color"
+msgstr "Цвет рамки"
+
+msgid "Border style"
+msgstr "Стиль рамки"
+
+msgid "Both local and external sources"
+msgstr "И местные и внешние источники"
+
+msgid "Bottom width"
+msgstr "Ширина низа"
+
+msgid "Box shadow"
+msgstr "Тень блока"
+
+msgid "Brief description"
+msgstr "Краткое описание"
+
+msgid "Bubble"
+msgstr "Пузырь"
+
+msgid "Bubble bg"
+msgstr "Фон пузырей"
+
+msgid "Bundle is empty."
+msgstr "Комплект пуст"
+
+msgid "Bundles"
+msgstr "Комплекты"
+
+msgid "Business directory"
+msgstr "Бизнес-справочник"
+
+msgid "Business directory taxonomies"
+msgstr "Таксономии бизнес-справочника"
+
+msgid "Button background"
+msgstr "Фон кнопки"
+
+msgid "Button Calendar"
+msgstr "Кнопка Календарь"
+
+msgid "Button color"
+msgstr "Цвет кнопки"
+
+msgid "Button color hover"
+msgstr "Цвет кнопки при наведении"
+
+msgid "Button color open"
+msgstr "Цвет кнопки при открытии"
+
+msgid "Button day"
+msgstr "Кнопка день"
+
+msgid "Button event"
+msgstr "Кнопка событие"
+
+msgid "Button label"
+msgstr "Текст кнопки"
+
+msgid "Button labels"
+msgstr "Тексты кнопки"
+
+msgid "Button month"
+msgstr "Кнопка месяц"
+
+msgid "Button next"
+msgstr "Кнопка следующий"
+
+msgid "Button next year"
+msgstr "Кнопка след. год"
+
+msgid "Button previous"
+msgstr "Кнопка предыдущий"
+
+msgid "Button previous year"
+msgstr "Кнопка пред. год"
+
+msgid "Button today"
+msgstr "Кнопка сегодня"
+
+msgid "Button week"
+msgstr "Кнопка неделя"
+
+msgid "Buttons"
+msgstr "Кнопки"
+
+msgid "Buy now"
+msgstr "Купить сейчас"
+
+msgid "by count"
+msgstr "по количеству"
+
+msgid "by date"
+msgstr "по дате"
+
+msgid ""
+"By default allday events are rendered ordered by title.  Choose color to "
+"group by color, or by order to use the menu order from the edit event screen."
+msgstr ""
+"По умолчанию события, длящиеся целый день, упорядочены по названию. Выберите "
+"цвет, чтобы упорядочить по цвету и т.п."
+
+msgid ""
+"By default set to 10080 (1 week).  Represents how long to wait before a "
+"cached event query is expired."
+msgstr ""
+"По умолчанию установлено 10080 (1 неделя). Указывает, как долго ждать, "
+"прежде чем кэшируемый запрос события истечет."
+
+msgid ""
+"By default set to 120 (2 hours).  If set too hight, it will take a while do "
+"detect new events."
+msgstr ""
+"По умолчанию установлено 120 (2 часа). Если установить слишком много, то "
+"обнаружение новых событий займет некоторое время."
+
+msgid ""
+"By default the calendarizeit shortcode only displays one custom post type "
+"(events by default), and you need to set the post_type value to show a "
+"diferent post type.  Choose yes if you want to display all enabled post "
+"types by default."
+msgstr ""
+"По умолчанию шорткод calendarizeit отображает только один пользовательский "
+"тип записи (событие по умолчанию), и вам необходимо установить значение "
+"post_type, чтобы показать другой тип записи. Выберите Да, если хотите "
+"отображать все задействованные типы записей по умолчанию."
+
+msgid "By event color"
+msgstr "По цвету события"
+
+msgid "By event end"
+msgstr "По окончанию события"
+
+msgid "By menu order"
+msgstr "По порядку в меню"
+
+msgid "By title(default)"
+msgstr "По заголовку (стандартно)"
+
+msgid "Cache by user"
+msgstr "Кэш пользователя"
+
+msgid ""
+"cache is active by default, choose yes to turn off the server side cache."
+msgstr ""
+"кэш активен по умолчанию, выберите Да, чтобы отключить кэш на стороне "
+"сервера."
+
+msgid "Calendar"
+msgstr "Календарь"
+
+msgid "Calendar button (filter)"
+msgstr "Кнопка календарь (фильтр)"
+
+msgid "Calendar category slug"
+msgstr "Slug категории календаря"
+
+msgid "Calendar day view"
+msgstr "Дневной вид календаря"
+
+msgid "Calendar event list view"
+msgstr "Просмотр календаря в виде списка событий"
+
+msgid "Calendar event list view(Extended details)"
+msgstr "Просмотр календаря в виде списка событий (доп. данные)"
+
+msgid "Calendar First Day"
+msgstr "Первый день календаря"
+
+msgid "Calendar frame"
+msgstr "Календарь frame"
+
+msgid "Calendar header"
+msgstr "Заголовок календаря"
+
+msgid "Calendar labels"
+msgstr "Ярлыки календаря"
+
+msgid "Calendar Loop"
+msgstr "Цикл календаря"
+
+msgid "Calendar month view"
+msgstr "Месячный вид календаря"
+
+msgid "Calendar Name"
+msgstr "Название календаря"
+
+msgid ""
+"Calendar plugin update %s is available! <a href='%s'>Please update now</a>"
+msgstr ""
+"Обновление %s для плагина календаря доступно! <a href='%s'>Обновите сейчас</"
+"a>"
+
+msgid "Calendar URL"
+msgstr "URL календаря"
+
+msgid "Calendar url(optional)"
+msgstr "URL календаря (опционально)"
+
+msgid "Calendar view"
+msgstr "Вид календаря"
+
+msgid "Calendar week view"
+msgstr "Недельный вид календаря"
+
+msgid "Calendar Widget links to Page"
+msgstr "Ссылка виджета календаря на страницу"
+
+msgid ""
+"Calendar widget: Selet a page, to which the calendar widget will take the "
+"user when clicked.  Usually a page containing the calendarizeit shortcode."
+msgstr ""
+"Виджет календаря: Выберите страницу, на которую виджет перенаправит "
+"пользователя при нажатии. Обычно это страница, содержащая шорткод "
+"calendarize."
+
+msgid "Calendarize"
+msgstr "Calendarize"
+
+msgid "Calendarize (Events calendar)"
+msgstr "Calendarize (календарь событий)"
+
+msgid "Calendarize (Upcoming Events)"
+msgstr "Calendarize (Предстоящие события)"
+
+msgid "Calendarize (Upcoming Posts)"
+msgstr "Calendarize (Предстоящие записи)"
+
+msgid "Calendarize %s"
+msgstr "Calendarize %s"
+
+msgid "Calendarize It"
+msgstr "Calendarize It"
+
+msgid "Calendarize It version"
+msgstr "Версия Calendarize It"
+
+msgid "Calendarize It!"
+msgstr "Calendarize It!"
+
+msgid "Calendarize it! add-ons"
+msgstr "Аддоны Calendarize it!"
+
+msgid "Calendarize it! Automatic Setup"
+msgstr "Авто настройка Calendarize it!"
+
+msgid "Calendarize It! images"
+msgstr "Изображения Calendarize It!"
+
+msgid ""
+"Calendarize It! update %s is available! <a href='%s'>Please update now</a>"
+msgstr ""
+"Обновление %s Calendarize It! доступно! <a href='%s'>Обновите сейчас</a>"
+
+msgid ""
+"Calendarize It! version 2.4.4 the events query was optimized.  If you "
+"experiencing problems with events that should load but are not loading yes "
+"to use the original ajax."
+msgstr ""
+"В Calendarize It! версии 2.4.4 запросы событий были оптимизированы.  Если у "
+"вас возникли проблемы с событиями, которые должны загружаться, но не "
+"загружаются, выберите Да, чтобы использовать оригинальный ajax."
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Left without Box)"
+msgstr ""
+"Calendarize it!').' - '.__( 'Пользовательский блок описания событий и "
+"пользовательский блок описания места (Изображение и карта слева без блока)"
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Left)"
+msgstr ""
+"Calendarize it!').' - '.__( 'Пользовательский блок описания событий и "
+"пользовательский блок описания места (Изображение и карта слева)"
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Right without Box)"
+msgstr ""
+"Calendarize it!').' - '.__( 'Пользовательский блок описания событий и "
+"пользовательский блок описания места (Изображение и карта справа без блока)"
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Right)"
+msgstr ""
+"Calendarize it!').' - '.__( 'Пользовательский блок описания событий и "
+"пользовательский блок описания места (Изображение и карта справа)"
+
+msgid ""
+"Calendarize it!').' - '.__( 'Default Event Details Box and Default Venue "
+"Details Box"
+msgstr ""
+"Calendarize it!').' - '.__( Стандартный блок описания событий и стандартный "
+"блок описания места"
+
+msgid "Calendarize it!').' - '.__( 'Organizer Details Box (Image Left)"
+msgstr ""
+"Calendarize it!').' - '.__( 'Блок описания организатора (Изображение слева)"
+
+msgid "Calendarize it!').' - '.__( 'Organizer Details Box (Image Right)"
+msgstr ""
+"Calendarize it!').' - '.__( 'Блок описания организатора (Изображение справа)"
+
+msgid "Calendarize it!').' - '.__( 'Venue Details Box (Map Left)"
+msgstr "Calendarize it!').' - '.__( 'Блок описания места (Карта слева)"
+
+msgid "Calendarize it!').' - '.__( 'Venue Details Box (Map Right)"
+msgstr "Calendarize it!').' - '.__( 'Блок описания места (Карта справа)"
+
+msgid "Calendarize metabox"
+msgstr "Calendarize мета"
+
+msgid "Calendarize shortcode"
+msgstr "Calendarize шорткод"
+
+msgid "Calendarize taxonomies"
+msgstr "Calendarize таксономии"
+
+msgid ""
+"Calendarize taxonomies (Calendar, Organizer, Venues, Addons)can be enabled "
+"for other post types.  Check the post types, where you want the taxonomy to "
+"be enabled."
+msgstr ""
+"Calendarize таксономии (Календарь, Организатор, Место, Аддоны) могут быть "
+"включены для других типов записей. Отметьте типы записей, где вы хотите "
+"включить таксономии."
+
+msgid "Calendarize templates"
+msgstr "Calendarize шаблоны"
+
+msgid ""
+"Calendarize templates if you want to use the theme templates.  that meta "
+"data like maps, venue and extra info will need to be added throught "
+"shortcodes."
+msgstr ""
+"Calendarize шаблоны, если вы хотите использовать шаблоны темы. Такие мета "
+"данные, как карты, место проведения и доп. информация необходимо будет "
+"добавлять через шорткоды."
+
+msgid ""
+"Calendarize uses its own template file by default.  You can use the "
+"following options to disable the calendarize templates, and let the theme "
+"handle the layout."
+msgstr ""
+"Calendarize использует свой собственный файл шаблона по умолчанию. Вы можете "
+"использовать следующие опции для отключения шаблонов calendarize, и "
+"позволить теме обрабатывать макет."
+
+msgid "Calendarize-it"
+msgstr "Calendarize-it"
+
+msgid ""
+"Calendarizer metabox can be enabled for other post types.  Check the post "
+"types, where you want the calendar metabox to be displayed."
+msgstr ""
+"Calendarizer мета могут быть включены для других типов постов. Отметьте типа "
+"постов, где вы хотите, чтобы мета календаря отображались."
+
+msgid "Calendars"
+msgstr "Календари"
+
+msgid ""
+"can also write the year only, or the year and the month.  Example to get "
+"events from june 6."
+msgstr ""
+"также можно написать только год или год и месяц. Пример для получения "
+"событий от 6 июня."
+
+msgid ""
+"can be added by plugin add-ons or updates.  If you restore a bundle, on the "
+"bundle content, it can overwrite part of the current or all of them.  Make a "
+"backup of your settings before proceding."
+msgstr ""
+"могут быть добавлены с помощью аддонов или обновлений. Если "
+"восстанавливается комплект, он может перезаписать часть текущего или все. "
+"Каждый раз делайте резервную копию настроек."
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Capacity"
+msgstr "Вместимость"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid ""
+"Cause: A third party plugin(or the theme) is crashing in the save_post "
+"action hook and not letting the calendar generate required metadata."
+msgstr ""
+"Причина: сторонний плагин (или тема) вызывают сбой в hook save_post и не "
+"дают календарю генерировать необходимые метаданные."
+
+msgid "Cell Background"
+msgstr "Фон ячейки"
+
+msgid "Center"
+msgstr "Центр"
+
+msgid "Center header"
+msgstr "Заголовок по центру"
+
+msgid "Change status RSVP"
+msgstr "Изменить статус RSVP"
+
+msgid ""
+"Change the labels of the buttons in the calendar top controls.  Please "
+"observe that this will overwrite localization, so if you are using multiple "
+"languages, leave this fields empty."
+msgstr ""
+"Изменить названия кнопок в календаре сверху. Учтите, что это приведет к "
+"перезаписи локализации, так что если вы используете несколько языков, "
+"оставьте эти поля пустыми."
+
+msgid "Check calendar visibility"
+msgstr "Проверить видимость календаря"
+
+msgid "Check days that you do NOT want to show."
+msgstr "Отметьте дни, которые вы НЕ хотите показывать."
+
+msgid ""
+"Check external taxonomies that you would like to use with Calendarize It! "
+"events.  Observe that if this taxonomies where added by other plugins, and "
+"you turn off this plugins, they will also be disabled for Calendarize It! "
+"events."
+msgstr ""
+"Отметьте внешние таксономии, которые вы хотели бы использовать с событиями "
+"Calendarize It! Учтите, что если эти таксономии добавлены другими плагинами, "
+"и вы отключите эти плагины, они также будут отключены для событий "
+"Calendarize It!"
+
+msgid ""
+"Check months that you do NOT want to show. Pressing prev or next button in "
+"calendar will skip to the next available month."
+msgstr ""
+"Отметьте месяцы, которые вы НЕ хотите показывать. При нажатии кнопки пред. "
+"или след. календарь перейдет к следующему доступному месяцу."
+
+msgid "Check no to remove the default taxonomies from the filtering bar."
+msgstr ""
+"Отметьте нет, чтобы удалить стандартные таксономии из панели фильтрации."
+
+msgid ""
+"Check post types for wich you want to enable the Calendarize It! image "
+"metaboxes."
+msgstr ""
+"Отметьте типы записей, для которых вы хотите включить Calendarize It! "
+"изображения мета."
+
+msgid "Check post types for wich you want to enable the detail box metabox."
+msgstr ""
+"Отметьте типы записей, для которых вы хотите включить блок описаний мета."
+
+msgid "Check taxonomies that you do not want to show in the filter box."
+msgstr "Отметьте таксономии, которые не должны отображаться в поле фильтра."
+
+msgid ""
+"Check taxonomies that you would like to remove from the backend event list."
+msgstr ""
+"Отметьте таксономии, которые вы хотите удалить из бэкэнд списка событий."
+
+msgid ""
+"Check the conditions to test for displaying the shortcode.  Leave empty to "
+"display everywhere, included feeds and trackbacks."
+msgstr ""
+"Отметьте условия для проверки отображения шорткода. Оставьте пустым, чтобы "
+"отображать везде, включая ленту и трэкбэки."
+
+msgid ""
+"Check the post type name for wich you want to enable the custom taxonomy."
+msgstr ""
+"Отметьте названия типов записей, для которых вы хотите включить "
+"пользовательскую таксономию."
+
+msgid "Check this option if you do not want events to show in search results."
+msgstr ""
+"Отметьте эту опцию, если не хотите показывать события в результатах поиска."
+
+msgid ""
+"Check this option if you do not want the calendar events to link to a single "
+"event page."
+msgstr ""
+"Отметьте эту опцию, если не хотите, чтобы события календаря ссылались на "
+"страницу отдельного события."
+
+msgid "Check this option to display events from the logged in user."
+msgstr ""
+"Отметьте эту опцию, чтобы показывать события от зарегистрированного "
+"пользователя."
+
+msgid ""
+"Check this option to display events from the logged in user.  Observe that "
+"you need to go to Calendarize It! (menu) -> Options (submenu) -> Events "
+"cache (tab) and enable 'Cache by user' (yes)."
+msgstr ""
+"Отметьте эту опцию, чтобы показывать события от зарегистрированного "
+"пользователя. Вам нужно перейти в Calendarize It! (Меню) -> Параметры "
+"(подменю) -> События кэша (вкладка) и включить \"Кеш пользователя\" (да)."
+
+msgid ""
+"Check this option to display recurring instances of the current post.  "
+"Expected inside a loop (get_the_ID)."
+msgstr ""
+"Отметьте эту опцию, чтобы показывать повторы текущей записи. Ожидается "
+"внутри цикла (get_the_ID)."
+
+msgid ""
+"Check this option to output without detail box html wrappers.  Ignores the "
+"label field."
+msgstr ""
+"Отметьте эту опцию для вывода без html wrappers блока описаний. Игнорирует "
+"поле метки."
+
+msgid "Check to add rel='nofollow' to the website link"
+msgstr "Отметьте, чтобы добавить rel='nofollow' к ссылкам сайта"
+
+msgid "Check to just show the url, no link wrap."
+msgstr "Отметьте, чтобы просто показывать URL, без оборачивания ссылки."
+
+msgid "Checkout"
+msgstr "Чекаут"
+
+msgid "Choose a file exported with the Export settings option on this tab"
+msgstr ""
+"Выберите экспортируемый файл с опцией Эспорт параметров на этой вкладке"
+
+msgid "Choose a taxonomy and terms to filter events."
+msgstr "Выберите таксономию и условия для фильтрации событий."
+
+msgid "Choose color"
+msgstr "Выберите цвет"
+
+msgid ""
+"Choose no if you dont want the event titles to render.  This is to be used "
+"in combination with the match background option.  Only applicable to month "
+"view."
+msgstr ""
+"Выберите нет, если не хотите отображать названия событий. Это используется в "
+"комбинации с опцией совпадания фона. Применимо только для месячного вида."
+
+msgid ""
+"Choose no if you dont want to use the custom layout that can be set on the "
+"event edit page."
+msgstr ""
+"Выберите нет, если не хотите использовать пользовательский макет, который "
+"можно настроить на странице редактирования события."
+
+msgid ""
+"Choose No in sites with too many users so that an open text field is shown "
+"in the Upcoming Events Widget settings instead of a dropdon for the author "
+"attribute."
+msgstr ""
+"Выберите нет на сайтах с большим кол-вом пользователей. Будет показываться "
+"открытое текстовое поле в настройках виджета предстоящих событий вместо "
+"выпадающего для атрибута автора."
+
+msgid "Choose post types to include in the calendar."
+msgstr "Выберите типы записей для включения в календарь."
+
+msgid "Choose post types to include in the list."
+msgstr "Выберите типы записей для включения в список."
+
+msgid "Choose the default ui-theme to be used"
+msgstr "Выберите стандартную ui-тему, которая будет использоваться"
+
+msgid "Choose yes if only want to display upcoming events."
+msgstr "Выберите да, если хотите показывать только предстоящие события."
+
+msgid ""
+"Choose yes if permalinks are not working.  It will attempt an alternative "
+"method of adding rewrite rules."
+msgstr ""
+"Выберите да, если постоянные ссылки не работают. Будет пытаться использовать "
+"альтернативный способ добавления правил перезаписи."
+
+msgid ""
+"Choose yes if the calendar is rendered but events are not showing.  You can "
+"verify the browser console, and check if the ajax dat is returned with a php "
+"warning.  If that is the case, turning on this option will try to catch and "
+"discard the warning so it doesnt breaks the expected calendar data."
+msgstr ""
+"Выберите да, если календарь выводится, но события не показываются. Вы можете "
+"проверить консоль браузера, и проверить, есть ли ajax php предупреждения. "
+"Если это так, то включение этой опции будет пытаться поймать и сбросить "
+"предупреждение так, что бы это не нарушало работу календаря."
+
+msgid ""
+"Choose yes if unwanted content is rendered in the venuebox or any other "
+"taxonomy related field."
+msgstr ""
+"Выберите да, если нежелательный контент выводится в окне места проведения "
+"или в другом смежном поле таксономии."
+
+msgid ""
+"Choose yes if you are using another plugin or if the theme loads google maps "
+"api in wp-admin."
+msgstr ""
+"Выберите да, если вы используете другой плагин или если тема загружает "
+"google maps api в wp-admin."
+
+msgid ""
+"Choose yes if you are using another plugin or if the theme loads google maps "
+"api."
+msgstr ""
+"Выберите да, если вы используете другой плагин или если тема загружает "
+"google maps api."
+
+msgid ""
+"Choose yes if you are using the Accordion Upcoming Events widget, and the "
+"google map is not showing in the widget content."
+msgstr ""
+"Выберите да, если вы используете виджет предстоящих событий типа аккордеон, "
+"и карта Google не отображается в виджете."
+
+msgid "Choose yes if you do not want the time to be rendered."
+msgstr "Выберите да, если не хотите, чтобы время показывалось."
+
+msgid ""
+"Choose yes if you only want Calendarize it! scripts to load when required."
+msgstr ""
+"Выберите да, если хотите, чтобы при необходимости загружались только скрипты "
+"Calendarize it!"
+
+msgid ""
+"Choose yes if you want the day cell match the background color of the event."
+msgstr ""
+"Выберите да, если хотите, чтобы ячейка дня соответствовала цвету фона "
+"события."
+
+msgid "Choose yes if you want this plugin scripts loaded in the footer."
+msgstr ""
+"Выберите да, если хотите, чтобы скрипты этого плагина загружались в футере."
+
+msgid ""
+"Choose yes if you want to make taxonomies hyperlinks.  Example venue will be "
+"a link to the venue page."
+msgstr ""
+"Выберите да, если хотите, чтобы сделать таксономии гиперссылок. Например, "
+"место проведения будет ссылкой на страницу места проведения."
+
+msgid ""
+"Choose yes if you want to remove past weeks from the Month view.  Only "
+"applicable when Upcoming only is also enabled."
+msgstr ""
+"Выберите да, если хотите удалять прошедшие недели в месячном виде календаря. "
+"Применяется только когда только предстоящие события включено."
+
+msgid ""
+"Choose yes only if the thumbnail metabox is not showing when you edit "
+"event.  Usually themes enable this."
+msgstr ""
+"Выберите да, только если мета миниатюры не отображается при редактировании "
+"события. Обычно темы позволяют это."
+
+msgid ""
+"Choose yes only if you are getting a 404 page when trying to get an event "
+"page."
+msgstr ""
+"Выберите да, только если получаете 404 ошибку при попытке перехода на "
+"страницу события."
+
+msgid "Choose yes to add a search field to the calendar filter dialog."
+msgstr ""
+"Выберите да, чтобы добавить поле поиска в диалоговое окно фильтра календаря."
+
+msgid "Choose yes to avoid loading the bundled bootstrap."
+msgstr "Выберите да, чтобы избежать загрузки пакетного bootstrap."
+
+msgid ""
+"Choose yes to display a debug menu.  This provide technical information that "
+"support can use to troubleshoot problems."
+msgstr ""
+"Выберите да, чтобы отобразить меню отладки. Это предоставляет техн. "
+"информацию, которую можно использовать для устранения неполадок."
+
+msgid ""
+"Choose yes to enable inserting the 'Month view image' in events that has "
+"this image set.  Then 'Month view image' is set in a metabox when editing an "
+"event.  The metabox has to be enabled separately on the next option."
+msgstr ""
+"Выберите да, чтобы вставить 'Изображение для месячного вида' в события, "
+"которым установлено это изображение. Затем 'Изображение для месячного вида' "
+"устанавливается в мета при редактировании события. Мета включается отдельно "
+"в следующей опции."
+
+msgid "Choose yes to enable the 'Month view image' metabox."
+msgstr "Выберите да, чтобы включить 'Изображение для месячного вида' мета."
+
+msgid "Choose yes to enable the Month view image metabox."
+msgstr "Выберите да, чтобы включить Изображение для месячного вида мета."
+
+msgid ""
+"Choose yes to limit the terms listed under a taxonomy in the taxonomy "
+"filter.  For example, lets say that the calendar is configured to only show "
+"events from the 'Sports' category, the filter will only display terms that "
+"contains events and that are children of the 'Sports' term."
+msgstr ""
+"Выберите да, чтобы ограничить условия, перечисленные в фильтре таксономий. "
+"Например, предположим, что календарь настроен, чтобы показывать только "
+"события из категории \"Спорт\", фильтр будут отображены только те условия, "
+"которые содержит дочерние события условия \"Спорт\"."
+
+msgid ""
+"Choose yes to load javascript and css files that are not minified, for "
+"easier debugging."
+msgstr ""
+"Выберите да, чтобы загрузить не уменьшенные JavaScript и CSS для упрощения "
+"отладки."
+
+msgid ""
+"Choose yes to only show events with the same taxonomy and term as the loaded "
+"page.  Used on venue template content."
+msgstr ""
+"Выберите да, чтобы показать события только с той же таксономией и условием, "
+"как на загруженной странице. Используется в шаблоне места проведения."
+
+msgid "Choose yes to only show the first event in a recurring set."
+msgstr "Выберите да, чтобы показывать только первое событие из повторяющихся."
+
+msgid ""
+"Choose yes to remove al wp_login hooks prior to performing the ajax login"
+msgstr "Выберите да, чтобы удалить wp_login хуки перед выполнением ajax входа"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Class"
+msgstr "Класс"
+
+msgid "Class:"
+msgstr "Класс:"
+
+msgid "clear"
+msgstr "очистить"
+
+msgid "Clear all event colors"
+msgstr "Очистить все цвета событий"
+
+msgid "Clear all event colors."
+msgstr "Очистить все цвета событий."
+
+msgid "Clear Cache"
+msgstr "Очистить кэш"
+
+msgid "Clear event colors."
+msgstr "Очистить цвета событий."
+
+msgid "clear value"
+msgstr "очистить значения"
+
+msgid "Click confirm to continue with the automatic setup process:"
+msgstr ""
+"Нажмите Подтвердить, чтобы продолжить автоматический процесс установки:"
+
+msgid "Click links to"
+msgstr "Нажмите ссылки на"
+
+msgid "Click to clear calendar ajax cache."
+msgstr "Нажмите, чтобы очистить кэш ajax календаря."
+
+msgid "Click to fix"
+msgstr "Нажмите, чтобы исправить"
+
+msgid "Click to restore bundle"
+msgstr "Нажмите, чтобы восстановить пакет"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close button color"
+msgstr "Цвет кнопки закрыть"
+
+msgid "Close dialog"
+msgstr "Закрыть диалоговое окно"
+
+msgid "Close on event title leave"
+msgstr "Закрыть на заголовке события"
+
+msgid "Close Ratings and Reviews"
+msgstr "Закрыть рейтинги и обзоры"
+
+msgid "colon"
+msgstr "двоеточие"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Column label"
+msgstr "Название столбца"
+
+msgid "comma"
+msgstr "запятая"
+
+msgid ""
+"comma separated meta field names used by the theme to store layout per "
+"post.  This is used if for example the theme allows to a sidebar per page, "
+"but it is not showing in the event page it has been configured on the "
+"template."
+msgstr ""
+"разделенные запятой мета имена полей, используемые темой для хранения макета "
+"поста. Это используется, если, например, тема допускает сайдбар на странице, "
+"но он не показывается на странице событий."
+
+msgid ""
+"Comma separated numeric values.  0 for sunday, 1 for monday, 2 for tuesday, "
+"3 for wednsday, 4 for thursday, 5 for friday, 6 for saturday"
+msgstr ""
+"Разделенные запятыми числовые значения. 0 - воскресенье, 1 - понедельник, 2 "
+"- вторник, 3 - среда, 4 - четверг, 5 - пятница, 6 - суббота"
+
+msgid ""
+"comma separated page ids where you wich the Calendarize it scripts styles to "
+"be loaded.  Please observe that upcoming events widget needs also."
+msgstr ""
+"разделенные запятыми идентификаторы страниц, где вы хотите, чтобы скрипты "
+"стилей Calendarize it были загружены. Учтите, что также необходим виджет "
+"престоящих событий."
+
+msgid ""
+"comma separated shortcode arguments that you would like to make for "
+"overwritting through the URL query."
+msgstr ""
+"разделенные запятыми аргументы шорткодов, которые вы хотели сделать "
+"доступными для перезаписи с помощью url запроса."
+
+msgid "Comma separated term slug. (Not label)"
+msgstr "Разделенный запятыми короткие ссылки условий. (Не ярлык)"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Communication with RightHere Version/Updates/DLC service"
+msgstr "Связь с RightHere/Обновления/DLC"
+
+msgid "Compatibility fixes"
+msgstr "Исправления совместимости"
+
+msgid "Conditional content"
+msgstr "Условное содержание"
+
+msgid "Conditional Render"
+msgstr "Условное отображение"
+
+msgid "Conditions"
+msgstr "Условия"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "Connect with Facebook"
+msgstr "Подключиться к Facebook"
+
+msgid "Connect with Twitter"
+msgstr "Подключиться к Twitter"
+
+msgid "Connection with RightHere service successful."
+msgstr "Успешное соединение с сервисом RightHere."
+
+msgid "Contact Details"
+msgstr "Контактная информация"
+
+msgid "Container"
+msgstr "Контейнер"
+
+msgid "Content"
+msgstr "Контент "
+
+msgid "Content bg color"
+msgstr "Цвет фона контента"
+
+msgid "Content downloaded and installed."
+msgstr "Контент загружен и установлен"
+
+msgid "Content font"
+msgstr "Шрифт контента"
+
+msgid "Content size / Image size"
+msgstr "Размер контента/изображения"
+
+msgid "Content to display if conditions are met."
+msgstr "Показать контент при соблюдении условий."
+
+msgid "Copy feed url to clipboard"
+msgstr "Скопировать ссылку ленты в буфер обмена"
+
+msgid "Could not create temporary file"
+msgstr "Не удается создать временный файл"
+
+msgid "Could not read the imported code, please verify and try again."
+msgstr ""
+"Не удается прочитать импортированный код, пожалуйста проверьте и попробуйте "
+"еще раз."
+
+msgid "Could not save uploaded file."
+msgstr "Не удается сохранить загруженный файл."
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "country"
+msgid_plural "countries"
+msgstr[0] "страна"
+msgstr[1] "страны"
+msgstr[2] "стран"
+
+msgid "Country ISO3166 code"
+msgstr "ISO3166 код страны"
+
+msgid "Course"
+msgstr "Курс"
+
+msgid "Courses"
+msgstr "Курсы"
+
+msgid "Create a Calendar page with the Calendarize it! shortcode."
+msgstr "Создать страницу календаря с помощью шорткода Calendarize it!"
+
+msgid "Create Event and Venue templates."
+msgstr "Создать шаблоны события и места проведения."
+
+msgid "CSS Editor"
+msgstr "CSS редактор"
+
+msgid "current Calendarize settings require that you specify the repeat date "
+msgstr "текущие настройки Calendarize требуют, чтобы Вы указали дату повтора"
+
+msgid "Current day"
+msgstr "Текущий день"
+
+msgid "Current event recurring instances"
+msgstr "Текущее повторяющееся событие"
+
+msgid "Current pages using the shortcode"
+msgstr "Текущие страницы, использующие шорткод"
+
+msgid "Custom"
+msgstr "Произвольный"
+
+msgid "Custom Days per page(optional)"
+msgstr "Количество дней на странице (опционально)"
+
+msgid "Custom Details Box"
+msgstr "Блок пользовательского описания"
+
+msgid "Custom Details Boxes"
+msgstr "Блоки пользовательских описаний"
+
+msgid "Custom fields"
+msgstr "Пользовательские поля"
+
+msgid "Custom interval"
+msgstr "Пользовательский интервал"
+
+msgid "Custom Label"
+msgstr "Пользовательские ярлыки"
+
+msgid "Custom Post Types"
+msgstr "Пользовательские типы записей"
+
+msgid "Custom taxonomies template "
+msgstr "Пользовательский таксономии шаблон"
+
+msgid "Custom taxonomies:"
+msgstr "Пользовательские таксономии:"
+
+msgid "Custom template"
+msgstr "Пользовательский шаблон"
+
+msgid "Custom template ( %s )"
+msgstr "Пользовательский шаблон ( %s )"
+
+msgid "Custom:"
+msgstr "Пользовательский:"
+
+msgid "Customize date and time formats"
+msgstr "Настройка форматов даты и времени"
+
+msgid "Customize event fields"
+msgstr "Настройка полей событий"
+
+msgid "Customize shortcode output"
+msgstr "Настройки вывода шорткода"
+
+msgid "Customize the ouput of the <b>[organizer]</b> shortcode."
+msgstr "Настройка вывода шорткода <b>[organizer]</b>."
+
+msgid "Customize the ouput of the <b>[venue]</b> shortcode."
+msgstr "Настройка вывода шорткода <b>[venue]</b>."
+
+msgid ""
+"data shrink is a new feature introduced on version 2.7.4, it reduces ajax "
+"data size.  Choose no if you want to disable this feature."
+msgstr ""
+"сжатие данных - это новая особенность, введенная с версии 2.7.4, уменьшающая "
+"размер данных ajax. Выберите нет, если хотите отключить эту опцию."
+
+msgid "Date"
+msgstr "Дата"
+
+msgid ""
+"date and time format in this tab only applies to the start and end fields "
+"(start datetime, start date, start time, end datetime, end date, time).  "
+"Because this values are rendered server side they follow the php href=http://"
+"php.net/manual/en/function.date.php>date formatting "
+msgstr ""
+"формат даты и времени на этой вкладке относится только к полям начала и "
+"конца (дата/время начала, дата начала, время начала, дата/время конца, дата "
+"конца, время конца). Поскольку эти значения обрабатываются  на стороне "
+"сервера они следуют php href=http://php.net/manual/en/function.date.php> "
+"форматирования даты"
+
+msgid "Date Font"
+msgstr "Шрифт даты"
+
+msgid "Date format"
+msgstr "Формат даты"
+
+msgid "Date label"
+msgstr "Ярлык даты"
+
+msgid "Date label background"
+msgstr "Фон ярлыка даты"
+
+msgid "Date label border"
+msgstr "Рамка ярлыка даты"
+
+msgid "Date label sides"
+msgstr "Стороны ярлыка даты"
+
+msgid "date name, full"
+msgstr "название даты, полное"
+
+msgid "date name, short"
+msgstr "название даты, короткое"
+
+msgid "date number"
+msgstr "число даты"
+
+msgid "date number, 2 digits"
+msgstr "число даты, 2 цифры"
+
+msgid "Date shortcodes default format"
+msgstr "Стандартный формат шорткода даты"
+
+msgid "Date with time format"
+msgstr "Дата со временем"
+
+msgid "Date/Time"
+msgstr "Дата/время"
+
+msgid "Date/time format"
+msgstr "Дата/время"
+
+msgid "Dates"
+msgstr "Даты"
+
+msgid "Datetime format"
+msgstr "Дата/время"
+
+msgid ""
+"Datetime, date and time format in this tab only applies to the start and end "
+"meta fields (start datetime, start date, start time, end datetime, end date, "
+"end time).  Because this values are rendered server side they follow the php "
+"<a href='http://php.net/manual/en/function.date.php'>date formatting syntax</"
+"a>."
+msgstr ""
+"Дата/время, формат даты и времени на этой вкладке относится только к мета "
+"полям начала и конца (дата/время начала, дата начала, время начала, дата/"
+"время конца, дата конца, время конца). Поскольку эти значения "
+"обрабатываются  на стороне сервера они следуют php <a href='http://php.net/"
+"manual/en/function.date.php'> синтакс форматирования даты</a>."
+
+msgid "Day"
+msgstr "День"
+
+msgid "Day font"
+msgstr "Шрифт дня"
+
+msgid "Day label"
+msgstr "Ярлык дня"
+
+msgid "Day names"
+msgstr "Название дня"
+
+msgid "Day number"
+msgstr "Число дня"
+
+msgid "Day view column"
+msgstr "Столбец дневного вида"
+
+msgid "Day view title"
+msgstr "Title дневного вида"
+
+msgid "day(s)"
+msgstr "день(дни)"
+
+msgid "Days ahead to show(optional)"
+msgstr "Дней вперед для показа (опционально)"
+
+msgid "Days in the past"
+msgstr "Дней в прошлом"
+
+msgid "days of the month"
+msgstr "дни месяца"
+
+msgid "days of the week"
+msgstr "дни недели"
+
+msgid "ddd"
+msgstr "ddd"
+
+msgid "ddd M/d"
+msgstr "ddd M/d"
+
+msgid "ddd MMMM d, yyyy"
+msgstr "ddd MMMM d, yyyy"
+
+msgid "ddd MMMM d, yyyy h:mm TT"
+msgstr "ddd MMMM d, yyyy h:mm TT"
+
+msgid "dddd M/d"
+msgstr "dddd M/d"
+
+msgid "dddd MMMM d, yyyy"
+msgstr "dddd MMMM d, yyyy"
+
+msgid "dddd MMMM d, yyyy."
+msgstr "dddd MMMM d, yyyy."
+
+msgid "dddd MMMM d, yyyy. h:mmtt"
+msgstr "dddd MMMM d, yyyy. h:mmtt"
+
+msgid "dddd, MMM d, yyyy"
+msgstr "dddd, MMM d, yyyy"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Debug css and javascript"
+msgstr "Отладка css и javascript"
+
+msgid "dec"
+msgstr "дек"
+
+msgid "December"
+msgstr "Декабрь"
+
+msgid "default"
+msgstr "по умолчанию"
+
+msgid "Default calendar settings"
+msgstr "Стандартные настройки календаря"
+
+msgid "Default columns"
+msgstr "Стандартные столбцы"
+
+msgid "Default day names:"
+msgstr "Стандартные названия дней:"
+
+msgid "Default Details Boxes"
+msgstr "Стандартные блоки описаний"
+
+msgid "Default event fields"
+msgstr "Стандартные поля событий"
+
+msgid "default format"
+msgstr "стандартный формат"
+
+msgid "Default layout options"
+msgstr "Стандартные опции макета"
+
+msgid "Default layout options values to use when adding events."
+msgstr ""
+"Стандартные значения опций макета, используемые при добавлении событий."
+
+msgid "Default month names:"
+msgstr "Стандартные названия месяцев:"
+
+msgid "Default post info fields"
+msgstr "Стандартные инфо поля записи"
+
+msgid ""
+"default set to 10080 (1 week).  Represents how long to wait before a event "
+"query is expired."
+msgstr ""
+"по умолчанию установлено 10080 (1 неделя). Указывает, как долго ждать, "
+"прежде чем запрос события истечет."
+
+msgid "Default short day names:"
+msgstr "Стандартные короткие названия дней:"
+
+msgid "Default short month names:"
+msgstr "Стандартные короткие названия месяцев:"
+
+msgid "Default Template"
+msgstr "Стандартный шаблон"
+
+msgid ""
+"default the Calendarizeit shortcode only displays one custom post type by "
+"default), and you need to set the post_type value to show a post type.  "
+"Choose yes if you want to display all enabled post by default."
+msgstr ""
+"по умолчанию шорткод calendarizeit отображает только один пользовательский "
+"тип записи, и вам необходимо установить значение post_type, чтобы показать "
+"тип записи. Выберите Да, если хотите отображать все задействованные типы "
+"записей по умолчанию."
+
+msgid "Default view"
+msgstr "Вид по умолчанию"
+
+msgid ""
+"Defaults to: <b>month,agendaWeek,agendaDay,rhc_event</b>. Also available: "
+"basicWeek"
+msgstr ""
+"По умолчанию: <b>month,agendaWeek,agendaDay,rhc_event</b>. Также доступен: "
+"basicWeek"
+
+msgid "Delete events"
+msgstr "Удалить события"
+
+msgid "Delete others events"
+msgstr "Удалить другие события"
+
+msgid "Delete private events"
+msgstr "Удалить приватные события"
+
+msgid "Delete published events"
+msgstr "Удалить опубликованные события"
+
+msgid "Delete RSVP"
+msgstr "Удалить RSVP"
+
+msgid "Descending"
+msgstr "По убыванию"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Description font"
+msgstr "Шрифт описания"
+
+msgid ""
+"description of the organizer, will be used in the organizer page content."
+msgstr "описание организатора, будет использоваться на странице организатора."
+
+msgid "detail"
+msgstr "описание"
+
+msgid "Detail box background"
+msgstr "Фон блока описания"
+
+msgid "Detail box container"
+msgstr "Контейнер блока описания"
+
+msgid "Detail box image"
+msgstr "Изображение блока описания"
+
+msgid "Detail boxes (default)"
+msgstr "Блоки описаний (стандартные)"
+
+msgid "Detailed Event Page Template"
+msgstr "Подробный шаблон страницы событий"
+
+msgid "Details box"
+msgstr "Блок описаний"
+
+msgid "Details box background"
+msgstr "Фон блоков описаний"
+
+msgid "Details box image"
+msgstr "Изображение блоков описаний"
+
+msgid "Details for google map"
+msgstr "Детали для google map"
+
+msgid ""
+"Determines how much time an event can get past midnight without displaying "
+"it on that day."
+msgstr ""
+"Определяет, сколько времени события может пройти после полуночи без его "
+"отображения в этот день."
+
+msgid "Determines the number of weeks displayed in the calendar."
+msgstr "Определяет количество отображаемых недель в календаре."
+
+msgid "Dialog description"
+msgstr "Описание диалогового окна"
+
+msgid "Dialog title"
+msgstr "Title диалогового окна"
+
+msgid "Dialog width"
+msgstr "Ширина диалогового окна"
+
+msgid "Disable %s taxonomy"
+msgstr "Отключить %s таксономию"
+
+msgid "Disable Archive Template"
+msgstr "Отключить шаблон архива"
+
+msgid "Disable bootstrap"
+msgstr "Отключить bootstrap"
+
+msgid "Disable calendarize taxonomies"
+msgstr "Отключить таксономии calendarize"
+
+msgid ""
+"Disable calendarize templates if you want to use the theme templates.  "
+"Observe that meta data like maps, venue and extra info will need to be added "
+"manually throught shortcodes."
+msgstr ""
+"Отключить calendarize шаблоны, если вы хотите использовать шаблоны темы. "
+"Обратите внимание, что мета-данные, такие как карты, место проведения и доп "
+"информации необходимо будет добавить вручную, используя имеющиеся шорткоды."
+
+msgid "Disable event link"
+msgstr "Отключить ссылку события"
+
+msgid "Disable event search"
+msgstr "Отключить поиск события"
+
+msgid "Disable Event Template"
+msgstr "Отключить шаблон события"
+
+msgid "Disable events cache"
+msgstr "Отключить кэширование событий"
+
+msgid "Disable iCal UTC"
+msgstr "Отключить iCal UTC"
+
+msgid "Disable linked taxonomy %s"
+msgstr "Отключить связанную таксономию %s"
+
+msgid "Disable loading google map api"
+msgstr "Отключить загрузку google map api"
+
+msgid "Disable loading google map api in wp-admin"
+msgstr "Отключить загрузку google map api в wp-admin"
+
+msgid "Disable months"
+msgstr "Отключить месяцы"
+
+msgid "Disable print css"
+msgstr "Отключить печать CSS"
+
+msgid "Disable static event list."
+msgstr "Отключить статический список событий."
+
+msgid "Disable taxonomy %s"
+msgstr "Отключить таксономии %s"
+
+msgid "Disable Taxonomy Template"
+msgstr "Отключить шаблон таксономии"
+
+msgid "Disable title link"
+msgstr "Отключить ссылку заголовка"
+
+msgid "disabled"
+msgstr "отключено"
+
+msgid "disabled, the user can still zoom in or out using the zoom control "
+msgstr ""
+"отключено, пользователь все еще может увеличивать или уменьшать масштаб с "
+"помощью зума "
+
+msgid "Display events authored by the user that is logged in."
+msgstr ""
+"Отображать события, автором которых является залогиненный пользователь."
+
+msgid "Display navigation controls."
+msgstr "Показывать "
+
+msgid "Display recurring events."
+msgstr "Показывать повторяющиеся события."
+
+msgid "displayed events:</b>  Optionally limit the number of events "
+msgstr "отображаемые события:</b> Опционально ограничить количество событий "
+
+msgid "Do not load bundled jQuery UI"
+msgstr "Не показывать встроенный jQuery UI"
+
+msgid "Do not show this message again"
+msgstr "Не показывать это сообщение вновь"
+
+msgid "done"
+msgstr "готово"
+
+msgid "dot"
+msgstr "Точка"
+
+msgid "Download"
+msgstr "Загрузить"
+
+msgid "Download ICS"
+msgstr "Скачать ICS"
+
+msgid "Download ICS file"
+msgstr "Скачать ICS файл"
+
+msgid "Downloadable content - Calendarize it! for WordPress"
+msgstr "Загружаемый контент - Calendarize it! для WordPress"
+
+msgid "Downloaded"
+msgstr "Загружено"
+
+msgid "Downloads"
+msgstr "Загрузки"
+
+msgid "downloads."
+msgstr "загрузки."
+
+msgid "Dropdown default color"
+msgstr "Выпадающий стандартный цвет"
+
+msgid "Dropdown Hover color"
+msgstr "Выпадающий цвет при наведении"
+
+msgid ""
+"Dynamic Event Details Box:</b> Choose yes to load the custom event which is "
+"configured on the Event Details metabox."
+msgstr ""
+"Блок динамических подробностей события:</b> Выберите да для загрузки "
+"пользовательского события, сконфигурированного на мета деталях события."
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+msgid "Edit calendar"
+msgstr "Редактировать календарь"
+
+msgid "Edit event"
+msgstr "Редактировать событие"
+
+msgid "Edit events"
+msgstr "Редактировать события"
+
+msgid "Edit Organizer"
+msgstr "Редактировать организатора"
+
+msgid "Edit others events"
+msgstr "Редактировать другие события"
+
+msgid "Edit published events"
+msgstr "Редактировать опубликованные события"
+
+msgid "Edit show type"
+msgstr "Редактировать тип показа"
+
+msgid "Edit venue"
+msgstr "Редактировать место проведения"
+
+msgid "Editable sections urls"
+msgstr "Редактируемые URL секций"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Enable add-ons."
+msgstr "Включить аддоны."
+
+msgid "Enable Ads by Calendarize It! Map Filter"
+msgstr "Включить Ads для фильтра карты Calendarize It!"
+
+msgid "Enable Ads by Geolocation radius"
+msgstr "Включить Ads для радиуса геолокации"
+
+msgid "Enable Ads by single page taxonomies match"
+msgstr "Включить Ads для отдельной страницы совпадающих таксономий"
+
+msgid "Enable Ads by Taxonomy page"
+msgstr "Включить Ads для таксономии страницы"
+
+msgid "Enable ajax data shrink"
+msgstr "Включить сжатие данных ajax"
+
+msgid "Enable and configure event ajax caching."
+msgstr "Включить и настроить ajax кэширование."
+
+msgid "Enable automatic microdata (Event)"
+msgstr "Включить автоматические микроданные (События)"
+
+msgid "Enable cache for external sources"
+msgstr "Включить кэш для внешних источников"
+
+msgid "Enable calendar end point"
+msgstr "Включить конечную точку календаря"
+
+msgid "Enable calendar metabox for other post types."
+msgstr "Включить мета календаря для других типов записей."
+
+msgid "Enable calendarize-it taxonomies"
+msgstr "Включить calendarize-it таксономии"
+
+msgid "Enable custom details layout"
+msgstr "Включить макет пользовательских деталей"
+
+msgid "Enable debug"
+msgstr "Включить отладку"
+
+msgid "Enable icalendar button"
+msgstr "Включить кнопку  icalendar"
+
+msgid "Enable mouse wheel google map zoom "
+msgstr "Включить масштабирование карты Google колесом мыши "
+
+msgid "Enable notifications on non options pages."
+msgstr "Позвольте уведомления на не страницах вариантов."
+
+msgid "Enable opengraph headers"
+msgstr "Включить opengraph заголовки"
+
+msgid "Enable post content for banner"
+msgstr "Включить содержание записи для баннера"
+
+msgid "Enable search field"
+msgstr "Включить поле поиска"
+
+msgid "Enable term link"
+msgstr "Включить ссылку"
+
+msgid "Enable thumbnail support"
+msgstr "Включить поддержку миниатюр"
+
+msgid "Enable Visual Composer module"
+msgstr "Включить модуль Visual Composer"
+
+msgid "Enable week numbers"
+msgstr "Включить номера недель"
+
+msgid "Enables displaying week numbers on the calendar views."
+msgstr "Включить отображение номеров недель на календаре."
+
+msgid "End"
+msgstr "Окончание"
+
+msgid "End count"
+msgstr "Количество окончания"
+
+msgid "End date"
+msgstr "Дата окончания"
+
+msgid "End Date &amp; Time"
+msgstr "Дата и время окончания"
+
+msgid "End date(all-day)"
+msgstr "Дата окончания (весь-день)"
+
+msgid "End datetime"
+msgstr "Дата/время окончания"
+
+msgid "End repeat"
+msgstr "Окончание повтора"
+
+msgid "End time"
+msgstr "Время окончания"
+
+msgid "Ending hour"
+msgstr "Час окончания"
+
+msgid ""
+"enter your License Key in the Options Panel to get access to the free and "
+"premium paid add-ons."
+msgstr ""
+"введите лицензионный ключ на панели настроек, чтобы получить доступ к "
+"бесплатным и премиальным аддонам."
+
+msgid "Error Alert Box"
+msgstr "Блок уведомления об ошибке"
+
+msgid "Error saving options."
+msgstr "Ошибка сохранения опций."
+
+msgid "Error trying to create cache table."
+msgstr "Ошибка при создании кэша."
+
+msgid "event"
+msgstr "событие"
+
+msgid "Event & Venue Details Box Layout"
+msgstr "Макет блок деталей обытия и места проведения."
+
+msgid ""
+"Event cache is active by default, choose yes to turn off the server side "
+"events cache."
+msgstr ""
+"Кэш событий включен по умолчанию. Выберите да, чтобы выключить кэш на "
+"стороне сервера"
+
+msgid "Event click behavior"
+msgstr "Поведение щелчка события"
+
+msgid "Event container"
+msgstr "Контейнер события"
+
+msgid "Event content layout"
+msgstr "Макет контента события"
+
+msgid "Event Detail Box Image"
+msgstr "Изображение блока деталей события"
+
+msgid "Event Details"
+msgstr "Детали мероприятия"
+
+msgid "Event Details Box"
+msgstr "Блок деталей события"
+
+msgid "Event Details Box Image"
+msgstr "Изображение блока деталей события"
+
+msgid "Event Excerpt"
+msgstr "Выдержка события"
+
+msgid "Event Featured Image"
+msgstr "Миниатюра события"
+
+msgid "Event fields"
+msgstr "Поля события"
+
+msgid "Event Font"
+msgstr "Шрифт события"
+
+msgid "Event Image"
+msgstr "Изображение события"
+
+msgid "Event list"
+msgstr "Список событий"
+
+msgid "Event list layout"
+msgstr "Макет списка событий"
+
+msgid "Event list view"
+msgstr "Вид списка событий"
+
+msgid "Event list/tooltip image size"
+msgstr "Размер изображений списка событий/подсказок"
+
+msgid "Event Page Top Image"
+msgstr "Верхнее изображение страницы события"
+
+msgid "Event popup (click on calendar event)"
+msgstr "Всплывающее окно события(нажать на событие в календаре)"
+
+msgid "Event start (YYYY-mm-dd)"
+msgstr "Начало события (YYYY-mm-dd)"
+
+msgid "Event taxonomies:"
+msgstr "Таксономии события:"
+
+msgid "Event template does not have any meta data."
+msgstr "Шаблон события не содержит никаких мета."
+
+msgid "Event template meta data"
+msgstr "Мета шаблона события"
+
+msgid "Event template not set"
+msgstr "Шаблон событие не установлен"
+
+msgid "Event time font"
+msgstr "Шрифт времени события"
+
+msgid "Event time format"
+msgstr "Формат времени события"
+
+msgid "Event title"
+msgstr "Title события"
+
+msgid "Event title font"
+msgstr "Шрифт title события"
+
+msgid "Event, Venue & Tooltip Details Box Layout"
+msgstr "Макет блока деталей события, места проведения и подсказки"
+
+msgid "Events"
+msgstr "Мероприятия"
+
+msgid "Events & Venue Detail box"
+msgstr "Блок деталей событий и мест проведения"
+
+msgid "Events ajax"
+msgstr "Ajax событий"
+
+msgid ""
+"Events archive is listed in the order of publishing, not event date.  Also "
+"recurring instances do not show.  Its for sites that what to display events "
+"as rendered by the theme."
+msgstr ""
+"Архив событий идет в порядке публикации, а не даты события. Кроме того, "
+"повторяющиеся не показываются. Это для сайтов, которые отображают события "
+"самой темой."
+
+msgid "Events archive slug"
+msgstr "Короткая ссылка архива событий"
+
+msgid "Events cache"
+msgstr "Кэш событий"
+
+msgid "Events calendar"
+msgstr "Календарь событий"
+
+msgid "Events list"
+msgstr "Список событий"
+
+msgid "Events Map View"
+msgstr "Вид карты событий"
+
+msgid "Events post type slug"
+msgstr "Slug типа записи события"
+
+msgid "Events template"
+msgstr "Шаблон событий"
+
+msgid "Every 2 weeks"
+msgstr "Каждые 2 недели"
+
+msgid "Every day"
+msgstr "Каждый день"
+
+msgid "Every month"
+msgstr "Каждый месяц"
+
+msgid "Every week"
+msgstr "Каждую неделю"
+
+msgid "Every year"
+msgstr "Каждый год"
+
+msgid "Except"
+msgstr "За исключением"
+
+msgid "Excerpt"
+msgstr "Выдержка"
+
+msgid "Exclude"
+msgstr "Исключая"
+
+msgid "Exclude this date.  Only applicable with recurring events"
+msgstr "Исключая эту дату. Применяется только для повторяющихся событий"
+
+msgid "Excluded dates"
+msgstr "Исключенные даты"
+
+msgid "Excluded dates are only applicable when using recurring events."
+msgstr "Исключение дат применяется только при повторяющихся событиях."
+
+msgid ""
+"excluded dates selected.  After setting up recurring events, click on a "
+"event, then on the dialog press the exclude button to add the date to the "
+"excluded dates list."
+msgstr ""
+"исключаемые даты выбраны. После настройки повторяющихся событий, нажмите на "
+"событие, а затем в диалоговом нажмите кнопку исключения, чтобы добавить дату "
+"в список исключенных дат."
+
+msgid "Expiration minutes"
+msgstr "Истекающие минуты"
+
+msgid "Export settings"
+msgstr "Настройки экспорта"
+
+msgid "Export settings:"
+msgstr "Настройки экспорта:"
+
+msgid "External sources cache"
+msgstr "Кэш внешних источников"
+
+msgid "External Sources Expiration minutes"
+msgstr "Истекающие минуты внешних источников"
+
+msgid "F j, Y"
+msgstr "F j, Y"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook default color"
+msgstr "Facebook стандартный цвет"
+
+msgid "Facebook Hover color"
+msgstr "Facebook цвет при наведении"
+
+msgid "Facebook Icon color"
+msgstr "Facebook цвет иконки"
+
+msgid "fc_range_set meta data"
+msgstr "fc_range_set мета данные"
+
+msgid "Feature Access"
+msgstr "Доступ"
+
+msgid "feb"
+msgstr "фев"
+
+msgid "February"
+msgstr "Февраль"
+
+msgid ""
+"February, March, April, May, June, July, August, September, November, "
+"December"
+msgstr ""
+"Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Ноябрь, Декабрь"
+
+msgid ""
+"Feed for iCal (Google Calendar). This is for subscribing to the events the "
+"Calendar. Add this URL to either iCal (Mac) or Google Calendar, or other "
+"calendar that supports iCal Feed."
+msgstr ""
+"Лента для iCal (Google Calendar). Это для подписки на события в календаре. "
+"Добавьте этот URL в iCal (Mac) или в Google Calendar или другой календарь, "
+"поддерживающий iCal Feed."
+
+msgid "Fields"
+msgstr "Поля"
+
+msgid "File cache (Experimental)"
+msgstr "Кэш файла (экспериментально)"
+
+msgid "File has an invalid extension, it should be one of %s"
+msgstr "Файл имеет недопустимое расширение, оно должно быть одним из %s"
+
+msgid "File is empty"
+msgstr "Файл пуст"
+
+msgid "File is too large"
+msgstr "Файл слишком большой"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Filter body background"
+msgstr "Фон тела фильтра"
+
+msgid "Filter box"
+msgstr "Блок фильтра"
+
+msgid "Filter default color"
+msgstr "Стандартный цвет фильтра"
+
+msgid "Filter Events"
+msgstr "Фильтр событий"
+
+msgid "Filter head background"
+msgstr "Фон заголовка фильтра"
+
+msgid "Filter Hover color"
+msgstr "Цвет фильтра при наведении"
+
+msgid "Filter primary button"
+msgstr "Основная кнопка фильтра"
+
+msgid "Filter secondary button"
+msgstr "Добавочная кнопка фильтра"
+
+msgid "Filter tab"
+msgstr "Вкладка фильтра"
+
+msgid "First date in range"
+msgstr "Первая дата в диапазоне"
+
+msgid ""
+"First date in range:  Show only the first repetition of an event in the "
+"requested range"
+msgstr ""
+"Первая дата в диапазоне. Показывается только первое повторение события в "
+"заданном диапазоне"
+
+msgid "First hour"
+msgstr "Первый час"
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "Fixed"
+msgstr "Фиксированный"
+
+msgid "Fixed title"
+msgstr "Фиксированный title"
+
+msgid "Focus border color"
+msgstr "Цвет границы"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font color"
+msgstr "Цвет шрифта"
+
+msgid "Font shadow"
+msgstr "Тень шрифта"
+
+msgid "Font x"
+msgstr "Шрифт X"
+
+msgid "Font y"
+msgstr "Шрифт У"
+
+msgid "Fonts"
+msgstr "Шрифты"
+
+msgid "Force ajax install."
+msgstr "Принудительная установка ajax."
+
+msgid "Force disable browser cache"
+msgstr "Принудительное отключение кэша браузера"
+
+msgid "Force disable browser cache."
+msgstr "Принудительное отключение кэша браузера."
+
+msgid "Force Google Map scripts output"
+msgstr "Принудительный вывод скриптов Google Map"
+
+msgid "Forced rewrite rules"
+msgstr "Принудительные правила перезаписи"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Format:"
+msgstr "Формат:"
+
+msgid "forward slash"
+msgstr "слэш"
+
+msgid "Frame color"
+msgstr "Цвет рамки"
+
+msgid "Free"
+msgstr "Бесплатно"
+
+msgid "Fri"
+msgstr "Пт"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid ""
+"From Calendarize It! version 2.4.4 the events query was optimized.  If you "
+"are experiencing problems with events that should load but are not loading "
+"choose yes to use the original ajax."
+msgstr ""
+"Начиная с Calendarize It! версии 2.4.4 запрос событий был оптимизирован. "
+"Если у вас возникли проблемы, связанные с событиями, которые должны "
+"загружаться, но не загружаются, то выберите да, чтобы использовать "
+"оригинальный ajax."
+
+msgid "Frontend jQuery UI version"
+msgstr "Фронтэнд  jQuery UI версия"
+
+msgid "Full"
+msgstr "Полный"
+
+msgid "g:i a"
+msgstr "g:i a"
+
+msgid "General"
+msgstr "Основные "
+
+msgid "General settings"
+msgstr "Основные настройки"
+
+msgid "Get additional free map styles in the Downloads section."
+msgstr "Получить дополнительные бесплатные стили карт в разделе Загрузки."
+
+msgid "Get directions"
+msgstr "Получить направления"
+
+msgid ""
+"Get Feed for iCal (Google Calendar). This is for subscribing to the events "
+"in the Calendar. Add this URL to either iCal (Mac) or Google Calendar, or "
+"any other calendar that supports iCal Feed."
+msgstr ""
+"Получить ленту для iCal (Google Calendar). Это для подписки на события в "
+"календаре. Добавьте этот URL в iCal (Mac) или в Google Calendar или другой "
+"календарь, поддерживающий iCal Feed."
+
+msgid ""
+"Get Feed for iCal (Google Calendar). This is for subscring to the events in "
+"the Calendar. Add this URL to either iCal (Mac) or Google Calendar, or any "
+"other calendar that supports iCal Feed."
+msgstr ""
+"Получить ленту для iCal (Google Calendar). Это для подписки на события в "
+"календаре. Добавьте этот URL в iCal (Mac) или в Google Calendar или другой "
+"календарь, поддерживающий iCal Feed."
+
+msgid "Getting content length is not supported."
+msgstr "Получение длины контента не поддерживается."
+
+msgid "Google address"
+msgstr "Google адрес"
+
+msgid "Google map"
+msgstr "Google карта"
+
+msgid "Google Map View URL"
+msgstr "URL обзора карты Google"
+
+msgid "Google Structured Data"
+msgstr "Структурированные данные Google"
+
+msgid "Group end"
+msgstr "Конец группы"
+
+msgid "Group start"
+msgstr "Начало группы"
+
+msgid "h:mm tt"
+msgstr "h:mm tt"
+
+msgid "h:mm{ - h:mm}"
+msgstr "h:mm{ - h:mm}"
+
+msgid "h(:mm)t"
+msgstr "h(:mm)t"
+
+msgid "h(:mm)tt"
+msgstr "h(:mm)tt"
+
+msgid "Half"
+msgstr "Половина"
+
+msgid "Half/Half"
+msgstr "Половина/половина"
+
+msgid "have not installed the English Help for Calendarize it! Please go to "
+msgstr ""
+"не установлена Помощь (на английском) для Calendarize it! Пожалуйста, "
+"перейдите в "
+
+msgid "Header"
+msgstr "Хэдер"
+
+msgid "Header button (active state)"
+msgstr "Кнопка заголока (активное состояние)"
+
+msgid "Header button (default state)"
+msgstr "Кнопка заголока (стандартное состояние)"
+
+msgid "Header button font"
+msgstr "Шрифт кнопки заголока"
+
+msgid "Header button font shadow"
+msgstr "Тень шрифта кнопки заголовка"
+
+msgid "Header font"
+msgstr "Шрифт заголовка"
+
+msgid "Header icons"
+msgstr "Иконки заголовка"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Hidden days"
+msgstr "Скрытые дни"
+
+msgid "Hide"
+msgstr "Спрятать"
+
+msgid "Hide days from view"
+msgstr "Скрыть дни от просмотра"
+
+msgid "Hide time"
+msgstr "Скрыть время"
+
+msgid "Hierarchical Events"
+msgstr "Иерархические события"
+
+msgid "Hierarchical filter"
+msgstr "Иерархический фильтр"
+
+msgid "Higher priority(3)"
+msgstr "Высший приоритет (3)"
+
+msgid "Highlight color"
+msgstr "Цвет подсветки"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "hour(s)"
+msgstr "час(ы)"
+
+msgid "hours"
+msgstr "часов"
+
+msgid "hours, 12 hour format"
+msgstr "часов, 12 часовой формат"
+
+msgid "hours, 12 hour format, 2 digits"
+msgstr "часов, 12 часовой формат, 2 цифры"
+
+msgid "hours, 24 hour format"
+msgstr "часов, 24 часовой формат"
+
+msgid "hours, 24 hour format, 2 digits"
+msgstr "часов, 24 часовой формат, 2 цифры"
+
+msgid "Hover border color"
+msgstr "Цвет границы при наведении"
+
+msgid "HTML Between content and footer"
+msgstr "HTML между контентом и футером"
+
+msgid "HTML Between header and content"
+msgstr "HTML между хедером и контентом"
+
+msgid "HTML Description"
+msgstr "HTML Description"
+
+msgid "HTML wrapper"
+msgstr "HTML wrapper"
+
+msgid "iCal Button"
+msgstr "iCal кнопка"
+
+msgid "iCal Feed"
+msgstr "iCal лента"
+
+msgid "iCal feed URL"
+msgstr "iCal url ленты"
+
+msgid "icalendar button"
+msgstr "icalendar кнопка"
+
+msgid "Icon bg"
+msgstr "Фон иконки"
+
+msgid "Icon color"
+msgstr "Цвет иконки"
+
+msgid ""
+"If an addon is generating php warnings, it may break the downloads section "
+"preventing add-on update.  Turn this off, update the addon, and turn this "
+"option back on."
+msgstr ""
+"Если аддон генерирует предупреждения PHP, он может нарушить раздел загрузки, "
+"предотвращая обновления аддонов. Выключите это, обновите аддон, и включите "
+"эту опцию обратно."
+
+msgid ""
+"If disabled, the user can still zoom in or out using the zoom control "
+"buttons."
+msgstr ""
+"Если отключено, пользователь все еще может увеличивать или уменьшать масштаб "
+"кнопоками управления."
+
+msgid ""
+"If not autodetected, specify the URL of an event page containing the RSVP "
+"box."
+msgstr ""
+"Если не автоопределено, указажите URL страницы события, содержащей блок RSVP."
+
+msgid ""
+"If permalinks are active, choose yes to be able to append /calendar/ to the "
+"url to load a calendar for that particular post type, example yourdomain.com/"
+"events/calendar/ will display the calendar without the need to setup the "
+"shortcode on a page."
+msgstr ""
+"Если постоянные ссылки активны, нажмите да, чтобы иметь возможность "
+"добавлять/календарь/ к URL для загрузки календаря для данного типа записи, "
+"например, yourdomain.com/events/calendar/ будет отображать календарь без "
+"необходимости установки шорткода на странице."
+
+msgid ""
+"If the calendarize menu does not show in the admin menu, use this option to "
+"change its position.  For cases where other plugins overwrite Calendarize "
+"It! menu position."
+msgstr ""
+"Если меню calendarize не отображается в меню администратора, используйте эту "
+"опцию, чтобы изменить его позицию. Для случаев, когда другие плагины "
+"перезаписывают позицию меню Calendarize It!"
+
+msgid ""
+"If the loaded page is a calendar, venue or organizer (taxonomy), only show "
+"events from the same taxonomy."
+msgstr ""
+"Если загруженная страница это календарь, место или организатор (таксономия), "
+"показывают только события из той же таксономии."
+
+msgid ""
+"If used, the shortcode will only display if the user is logged in and have "
+"the specific capability."
+msgstr ""
+"Если используется, то шорткод будет отображаться только если пользователь "
+"залогинен и имеет определенную возможность."
+
+msgid ""
+"If you already have another plugin adding opengraph headers, you can choose "
+"to disable it here."
+msgstr ""
+"Если у вас есть другой плагин для добавления opengraph заголовков, вы можете "
+"выбрать, чтобы отключить его здесь."
+
+msgid ""
+"If you are experiencing issues with the visual composer module, you can turn "
+"this option off to disable it."
+msgstr ""
+"Если у вас возникли проблемы с модулем visual composer, вы можете отключить "
+"эту опцию, чтобы отключить его."
+
+msgid ""
+"If you choose to skip loading the bundled jQuery UI, you need to make sure "
+"that the theme or plugin loads it."
+msgstr ""
+"Если вы решили пропустить загрузку встроенного jQuery UI, вам необходимо "
+"убедиться, что тема или плагин загружает его."
+
+msgid ""
+"If you choose yes and the event starts showing, it means that the theme or a "
+"plugin is not following a standard in regards to register_post_type and "
+"flush_rewrite_rules.  Under certain circumstances it could also affecting "
+"website performance."
+msgstr ""
+"Если вы выбрали да и событие начинает отображаться, то это означает, что "
+"тема или плагин не следует стандартам в отношении к register_post_type и "
+"flush_rewrite_rules. При определенных обстоятельствах это может также влиять "
+"на производительность сайта."
+
+msgid ""
+"If you experience problems with the upcoming events widget after updating, "
+"use this option to go back to the original upcoming events widget code."
+msgstr ""
+"Если после обновления у вас возникли проблемы, связанные с виджетом "
+"предстоящих событий, используйте эту опцию, чтобы вернуться к исходному коду "
+"виджета предстоящих событий."
+
+msgid ""
+"If you have a page with permalink /events/calendar/ you may need to disable "
+"this, as it takes precedence over the page permlink."
+msgstr ""
+"Если у вас есть страница с постоянной ссылкой/событиями/календарем, вам "
+"может понадобиться отключить этот параметр, т.к. он имеет приоритет над "
+"постоянной ссылкой страницы."
+
+msgid ""
+"If you have overwritten the default custom fields, use this button to "
+"restore the original set."
+msgstr ""
+"Если вы перезаписали стандартные пользовательские поля, используйте эту "
+"кнопку для восстановления исходного набора."
+
+msgid ""
+"If you keep getting the message 'Service not available.' when trying to add "
+"a license, switch this to Option 2 to try an alternative."
+msgstr ""
+"Если при добавлении лицензии вы продолжаете получать сообщение \"Услуга "
+"недоступна\", то переключите на вариант 2, чтобы попробовать альтернативный "
+"способ."
+
+msgid "if you only want premiere events displayed. (the first date on events)"
+msgstr ""
+"если вы хотите отображать только премьеру события. (первая дата события)"
+
+msgid "Ignore WordPress Standard"
+msgstr "Игнорировать WordPress стандарт"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image and image frame"
+msgstr "Изображение и frame изображения"
+
+msgid "Image frame"
+msgstr "Frame изображения"
+
+msgid "Image height"
+msgstr "Высота изображения"
+
+msgid "Image Source"
+msgstr "Источник изображения"
+
+msgid "Image width"
+msgstr "Ширина изображения"
+
+msgid ""
+"Implemented a pair of post meta data that defined the event range start and "
+"end.  Faster than the original query methods."
+msgstr ""
+"Реализована пара мета данных записи, определяющих диапазон начала и конца "
+"события. Быстрее, чем оригинальные методы запросов."
+
+msgid "Import settings"
+msgstr "Импорт настроек"
+
+msgid "Import settings:"
+msgstr "Импорт настроек:"
+
+msgid ""
+"imported code does not belong to this group of settings.  Import code %s"
+msgstr ""
+"импортированный код не принадлежит к этой группе настроек. Импорт кода %s"
+
+msgid ""
+"imported code does not belong to this plugin/theme.  Import code id: %s,"
+msgstr ""
+"импортированный код не принадлежит этому плагину/теме. Импорт кода id: %s,"
+
+msgid "Improved events query"
+msgstr "Улучшенные запросы событий"
+
+msgid "In addition to recurring rules you can set arbitrary repeat dates."
+msgstr ""
+"В дополнение к правилам повторов, вы можете установить произвольные даты "
+"повтора."
+
+msgid ""
+"In addition to recurring rules you can set arbitrary repeat dates.  Click "
+"accept to save an arbitrary repeat date."
+msgstr ""
+"В дополнение к правилам повторов, вы можете установить произвольные даты "
+"повтора. Нажмите принять, чтобы сохранить произвольную дату повтора."
+
+msgid ""
+"In interactive mode, zoom level will adjust if more than one venue is added."
+msgstr ""
+"В интерактивном режиме уровень увеличения будет корректироваться при "
+"добавлении более одного места."
+
+msgid ""
+"In month view, some dates from other months are rendered to complete the "
+"week.  Choose yes to display events on it, or no to leave them blank."
+msgstr ""
+"В месячном режиме просмотра, некоторые даты от других месяцев предоставлены "
+"для завершения недели. Выберите да для отображения событий на нем, или нет, "
+"чтобы оставить их пустыми."
+
+msgid "increase post_max_size and upload_max_filesize to %s"
+msgstr "увеличение post_max_size и upload_max_filesize на %s"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Inner background"
+msgstr "Внутренний фон"
+
+msgid "Input fields"
+msgstr "Поля ввода"
+
+msgid "Input items"
+msgstr "Элементы ввода"
+
+msgid "Installed"
+msgstr "Установлено"
+
+msgid "Interactive"
+msgstr "Интерактивный"
+
+msgid "Invalid item id"
+msgstr "Недопустимый id элемента"
+
+msgid "Invalid response format."
+msgstr "Неверный формат ответа."
+
+msgid ""
+"is no downloadable content at this time.  You must register %s before can "
+"actually see available downloadable content. For more information on to "
+"register %s, please go the Options menu and the License tab."
+msgstr ""
+"нет загружаемого контента в настоящее время. Вы должны зарегистрировать %s, "
+"прежде чем сможете увидеть доступный загружаемый контент. Для получения доп "
+"информации о регистрации %s, перейдите в меню настройки, вкладка лицензия."
+
+msgid "ISO8601 format"
+msgstr "ISO8601 формат"
+
+msgid "Item"
+msgstr "Элемент"
+
+msgid "Item name not specified"
+msgstr "Название элемента не задано"
+
+msgid "Item Purchase Code:"
+msgstr "Код покупки:"
+
+msgid "Item Purchase Key"
+msgstr "Ключ покупки"
+
+msgid "jan"
+msgstr "янв"
+
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Янв, Фев, Мар, Апр, Май, Июн, Июл, Авг, Сен, Окт, Ноя, Дек"
+
+msgid "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr "Янв,Фев,Мар,Апр,Май,Июн,Июл,Авг,Сен,Окт,Ноя,Дек"
+
+msgid "January"
+msgstr "Январь"
+
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, "
+"Ноябрь, Декабрь"
+
+msgid ""
+"January,February,March,April,May,June,July,August,September,October,November,"
+"December"
+msgstr ""
+"Январь,Февраль,Март,Апрель,Май,Июнь,Июль,Август,Сентябрь,Октябрь,Ноябрь,"
+"Декабрь"
+
+msgid "Join"
+msgstr "Присоединиться"
+
+msgid "Join default color"
+msgstr "Присоединяйтесь стандартный цвет"
+
+msgid "Join Hover color"
+msgstr "Присоединяйтесь цвет при наведении"
+
+msgid "jQuery UI"
+msgstr "jQuery UI"
+
+msgid "jQuery UI 1.10.3"
+msgstr "jQuery UI 1.10.3"
+
+msgid "jQuery UI 1.8.22"
+msgstr "jQuery UI 1.8.22"
+
+msgid "jQuery UI 1.9.0"
+msgstr "jQuery UI 1.9.0"
+
+msgid "jul"
+msgstr "июл"
+
+msgid "July"
+msgstr "Июль"
+
+msgid "jun"
+msgstr "июн"
+
+msgid "June"
+msgstr "Июнь"
+
+msgid "Label"
+msgstr "Ярлык"
+
+msgid "Label:"
+msgstr "Ярлык:"
+
+msgid "Labels"
+msgstr "Ярлыки"
+
+msgid "Labels font"
+msgstr "Фонт ярлыков"
+
+msgid "Large"
+msgstr "Большой"
+
+msgid "Larger map"
+msgstr "Увеличенная карта"
+
+msgid "last"
+msgstr "прошлый"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "Latest version (3.1.4)"
+msgstr "Последняя версия (3.1.4)"
+
+msgid "Latitude"
+msgstr "Широта"
+
+msgid "Layout Options"
+msgstr "Настройки макета"
+
+msgid "Layout settings, date format"
+msgstr "Настройки макета, формат даты"
+
+msgid "Leave 0 for automatic width."
+msgstr "Оставьте 0 для авто ширины."
+
+msgid ""
+"Leave automatic an it will render all venues associated to an event if it is "
+"outside a venue loop; if inside, it will only render the venue on that "
+"iteration.  Or choose an option to force a behavior."
+msgstr ""
+"Оставьте авто и это будет отдавать все места, связанные с событием, если "
+"находится вне цикла места проведения; если внутри, это будет отдавать только "
+"место на этой итерации. Или выберите вариант для принудительного поведения."
+
+msgid "Leave empty for the default styles."
+msgstr "Оставьте пустым для стандартных стилей."
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "Left header"
+msgstr "Заголовок слева"
+
+msgid "Left width"
+msgstr "Ширина слева"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "License already added."
+msgstr "Лицензия уже добавлена."
+
+msgid "License key"
+msgstr "Лицензионный ключ"
+
+msgid "License not specified"
+msgstr "Лицензия не указана"
+
+msgid "Line height"
+msgstr "Высота линии"
+
+msgid "Link target"
+msgstr "Цель ссылки"
+
+msgid "Link url"
+msgstr "URL ссылки"
+
+msgid "Link view"
+msgstr "Просмотр ссылки"
+
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+msgid "Links"
+msgstr "Ссылки"
+
+msgid "Links font"
+msgstr "Шрифт ссылок"
+
+msgid "Links hover"
+msgstr "Ссылки при наведении"
+
+msgid "Liquid"
+msgstr "Плавный"
+
+msgid "List of events"
+msgstr "Список событий"
+
+msgid "Load current WordPress jQuery UI"
+msgstr "Загрузить текущий WordPress jQuery UI"
+
+msgid "Load default event content template"
+msgstr "Загрузить стандартный шаблон контента события"
+
+msgid "Load default event list content template"
+msgstr "Загрузить стандартный шаблон контента списка событий"
+
+msgid "Load default organizer template"
+msgstr "Загрузить стандартный шаблон организатора"
+
+msgid "Load default venue template"
+msgstr "Загрузить стандартный шаблон места"
+
+msgid "Load Dynamic Event Details Box"
+msgstr "Загрузить динамический блок деталей события"
+
+msgid "Load Scripts and Styles on page id"
+msgstr "Загрузить скрипты и стили на странице id"
+
+msgid "Loaded $wp_rewrite"
+msgstr "Загружен $wp_rewrite"
+
+msgid "Loaded options"
+msgstr "Загруженные параметры"
+
+msgid "Loading method"
+msgstr "Метод загрузки"
+
+msgid ""
+"Local events will be saved to files.  Turning this option on will attempt to "
+"write to htaccess.  Only available with apache mod rewrite."
+msgstr ""
+"Локальные события будут сохранены в файлах. После включение этой опции будет "
+"пытаться писать в htaccess. Доступно только с apache mod rewrite."
+
+msgid "Local/External sources (feeds)"
+msgstr "Локальные/Внешние источники (каналы)"
+
+msgid "Logged user"
+msgstr "Залогиненный пользователь"
+
+msgid "Logged user events"
+msgstr "События залогиненного пользователя"
+
+msgid "Longitud"
+msgstr "Долгота"
+
+msgid "Main date format"
+msgstr "Основной формат даты"
+
+msgid "Main settings"
+msgstr "Основные настройки"
+
+msgid "Main title"
+msgstr "Главный заголовок"
+
+msgid "Manage calendars"
+msgstr "Управление календарями"
+
+msgid "Manage custom taxonomies (addon)"
+msgstr "Управление пользовательскими таксономиями (аддон)"
+
+msgid "Manage organizers"
+msgstr "Управление организаторами"
+
+msgid "Manage venues"
+msgstr "Управление местами"
+
+msgid "Map style"
+msgstr "Стиль карты"
+
+msgid "Maptype"
+msgstr "Тип карты"
+
+msgid "mar"
+msgstr "мар"
+
+msgid "March"
+msgstr "Март"
+
+msgid "Max description word count"
+msgstr "Максимум слов в описании"
+
+msgid "Max displayed events(optional)"
+msgstr "Максимум отображаемых событий (опционально)"
+
+msgid "Max number of posts"
+msgstr "Мксимальное количество записей"
+
+msgid "Max priority(1)"
+msgstr "Макс приоритет (1)"
+
+msgid "Maximun displayed time"
+msgstr "Макс отображаемое время"
+
+msgid "may"
+msgstr "может"
+
+msgid "Maybe default color"
+msgstr "Может быть стандартный цвет"
+
+msgid "Maybe Hover color"
+msgstr "Может быть цвет при наведении"
+
+msgid "Media settings"
+msgstr "Медиа настройки"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Menu Position (number)"
+msgstr "Позиция меню (число)"
+
+msgid "Meta fields:"
+msgstr "Мета поля:"
+
+msgid ""
+"metabox can be enabled for other post types.  Check the post where you want "
+"the Calendar metabox to be displayed."
+msgstr ""
+"мета может быть включено для других типов записей. Отметьте записи, где вы "
+"хотите, чтобы мета календаря отображались."
+
+msgid "Method %s does not exists on renderer"
+msgstr "Метод %s не существует на средстве визуализации"
+
+msgid "Minimun displayed time"
+msgstr "Мин отображаемое время"
+
+msgid "minute(s)"
+msgstr "минута(ы)"
+
+msgid "minutes"
+msgstr "минут"
+
+msgid "minutes, 2 digits"
+msgstr "минуты, 2 цифры"
+
+msgid "Missing parameter"
+msgstr "Недостающий параметр"
+
+msgid "Missing parameter."
+msgstr "Недостающий параметр."
+
+msgid "MMM d[ yyyy]{ '&#8212;'[ MMM] d yyyy}"
+msgstr "MMM d[ yyyy]{ '&#8212;'[ MMM] d yyyy}"
+
+msgid "MMMM d, yyyy"
+msgstr "MMMM d, yyyy"
+
+msgid "MMMM d, yyyy.  h:mm tt"
+msgstr "MMMM d, yyyy.  h:mm tt"
+
+msgid "MMMM yyyy"
+msgstr "MMMM yyyy"
+
+msgid "Mobile"
+msgstr "Мобильный"
+
+msgid "Mobile width trigger size"
+msgstr "Триггер мобильной ширины"
+
+msgid "Modify permalinks"
+msgstr "Изменить постоянные ссылки"
+
+msgid "Modify the layout of events in the archive"
+msgstr "Измененить макет событий в архиве"
+
+msgid "Mon"
+msgstr "Пн"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "Month font"
+msgstr "Шрифт месяца"
+
+msgid "month name, full"
+msgstr "полное название месяца"
+
+msgid "month name, short"
+msgstr "краткое название месяца"
+
+msgid "Month names"
+msgstr "Названия месяцев"
+
+msgid "month number"
+msgstr "номер месяца"
+
+msgid "month number, 2 digits"
+msgstr "номер месяца, 2 цифры"
+
+msgid "Month view"
+msgstr "Месячный вид календаря"
+
+msgid "Month view image"
+msgstr "Изображение месячного вида"
+
+msgid "Month view image metabox"
+msgstr "Мета изображения месячного вида"
+
+msgid "Month view title"
+msgstr "Title месячного вида"
+
+msgid "Month View, trim past weeks"
+msgstr "Месячный вид, обрезка прошлых недель"
+
+msgid "month(s)"
+msgstr "месяц(ы)"
+
+msgid "months"
+msgstr "месяцы"
+
+msgid "Months ahead to show(optional)"
+msgstr "Месяцев вперед для показа (опционально)"
+
+msgid ""
+"months that you do NOT want to show. Pressing prev or next button in will "
+"skip to the next available month."
+msgstr ""
+"месяцы, которые вы НЕ хотите показывать. При нажатии кнопки пред. или след., "
+"календарь перейдет к следующему доступному месяцу."
+
+msgid "More options"
+msgstr "Больше настроек"
+
+msgid ""
+"multi month events:</b> By default long spanning events that started a "
+"diferent month will not be displayed in the event list.  Check yes to them."
+msgstr ""
+"многомесячные события:</b> По умолчанию длительные события, которые начались "
+"в другом месяце не отображаются в списке событий. Отметьте да для них."
+
+msgid "Multiple markers"
+msgstr "Несколько маркеров"
+
+msgid "My custom value"
+msgstr "Мое пользовательское значение"
+
+msgid "My label"
+msgstr "Моя метка"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Name:"
+msgstr "Название:"
+
+msgid "Navigation"
+msgstr "Навигация"
+
+msgid "never"
+msgstr "никогда"
+
+msgid "Never (Not a recurring event)"
+msgstr "Никогда (не повторяющееся событие)"
+
+msgid "Never(Not a recurring event)"
+msgstr "Никогда (не повторяющееся событие)"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "New %s"
+msgstr "Новый %s"
+
+msgid "New calendar"
+msgstr "Новый календарь"
+
+msgid "New event"
+msgstr "Новое событие"
+
+msgid "New Organizer"
+msgstr "Новый организатор"
+
+msgid "New show type"
+msgstr "Новый тип показа"
+
+msgid "New venue"
+msgstr "Новое место"
+
+msgid "Next button color"
+msgstr "Цвет кнопки След."
+
+msgid "Next day threshold"
+msgstr "Порог следующего дня"
+
+msgid "Next events"
+msgstr "Следующие события"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No access"
+msgstr "Нет доступаДоступ"
+
+msgid "No access.  You dont have permission to perform this action."
+msgstr "Нет доступа. У вас нет прав на выполнение этого действия."
+
+msgid "No action"
+msgstr "Бездействие"
+
+msgid ""
+"No addons installed.  Go to the Downloads menu to download an addon, then "
+"come back to this screen to activate it."
+msgstr ""
+"Нет установленных аддонов. Перейдите в меню Загрузки для загрузки аддона,  "
+"затем вернитесь к этому экрану для его активации."
+
+msgid "No default color"
+msgstr "Нет цвета по умолчанию"
+
+msgid "No event message"
+msgstr "Нет сообщения о событии"
+
+msgid "No events found"
+msgstr "Мероприятия не найдены"
+
+msgid "No events found in trash"
+msgstr "События не найдены в корзине!"
+
+msgid "No events message"
+msgstr "Нет сообщения о событиях"
+
+msgid "No events text"
+msgstr "Нет текста событий"
+
+msgid ""
+"No excluded dates selected.  After setting up recurring events, click on a "
+"calendar event, then on the dialog press the exclude button to add the "
+"clicked date to the excluded dates list."
+msgstr ""
+"Исключаемые даты не выбраны. После настройки повторяющихся событий, нажмите "
+"на событие, а затем в диалоговом нажмите кнопку исключения, чтобы добавить "
+"дату в список исключенных дат."
+
+msgid "No files were uploaded."
+msgstr "Нет загруженных файлов."
+
+msgid "No filters available."
+msgstr "Нет доступных фильтров."
+
+msgid "No Hover color"
+msgstr "Нет цвета при наведении"
+
+msgid ""
+"no if you dont want to use the custom layout that can be set on the edit "
+"page."
+msgstr ""
+"нет, если не хотите использовать пользовательский макет, который можно "
+"настроить на странице редактирования события."
+
+msgid "No image"
+msgstr "Нет изображения"
+
+msgid "No link"
+msgstr "Нет ссылки"
+
+msgid "No options"
+msgstr "Нет вариантов"
+
+msgid "No post id"
+msgstr "Нет ID записи"
+
+msgid "No rading found"
+msgstr "Не найдено"
+
+msgid "No repeat dates set."
+msgstr "Даты повторов не заданы."
+
+msgid "No upcoming events in this date range"
+msgstr "Нет предстоящих событий в данном периоде"
+
+msgid "No, I will manually setup the plugin"
+msgstr "Нет, я настрою плагин вручную"
+
+msgid "Normal(10/default)"
+msgstr "Нормальный (10/по умолчанию)"
+
+msgid "Not used"
+msgstr "Не используется"
+
+msgid "Nothing to remove."
+msgstr "Нечего удалять."
+
+msgid "Notification service is not available."
+msgstr "Сервис уведомлений недоступен."
+
+msgid "nov"
+msgstr "ноя"
+
+msgid "November"
+msgstr "Ноябрь"
+
+msgid ""
+"number label</b>: By default it is W, this is the label shown on week column "
+"in month view.  In agenda views it is shown in the top left "
+msgstr ""
+"ярлык номера</b>: По умолчанию это W, этот ярлык отображается в колонке "
+"недель при месячном просмотре. В режиме повестки дня - показывается в "
+"верхнем левом углу "
+
+msgid "Number of events"
+msgstr "Количество событий"
+
+msgid "Observe that if you use the advanced option, this field is ignored."
+msgstr ""
+"Учтите, что если вы используете расширенные настроки, то это поле "
+"игнорируется."
+
+msgid ""
+"Observe that the default set is only used when creating new events.  "
+"Existing events will keep their current custom field layout."
+msgstr ""
+"Учтите, что установки по умолчанию используются только при создании новых "
+"событий. Существующие события сохранят текущие пользовательские поля."
+
+msgid ""
+"observe that this does NOT modifies the size of the image on screen is "
+"controlled by the stylesheet.  This is used to determine what image to use "
+"as source."
+msgstr ""
+"учтите, что это НЕ изменяет размер изображения на экране, контролируемый "
+"таблицей стилей. Это используется для определения того, какое изображение "
+"использовать как источник."
+
+msgid ""
+"observe that this will NOT export images or any other attachments, the "
+"configuration values like image url or attachment paths."
+msgstr ""
+"учтите, что это не экспортирует изображения или любые другие вложения, "
+"значения конфигурации, как URL или пути вложений."
+
+msgid "oct"
+msgstr "окт"
+
+msgid "October"
+msgstr "Октябрь"
+
+msgid "Off"
+msgstr "Выкл"
+
+msgid ""
+"off by default.  Choose yes if you have plugins or addons that may the "
+"content of events based on what user is logged in.  This the size of the "
+"cache, so only choose yes if needed."
+msgstr ""
+"выключено по умолчанию. Выберите Да, если у вас есть плагины или аддоны, "
+"которые могут содержать события, основанные на том, что пользователь вошел в "
+"систему. Этот размер кэш-памяти, поэтому выбирайте Да только если это "
+"необходимо."
+
+msgid "Older events"
+msgstr "Более поздние события"
+
+msgid "On"
+msgstr "Вкл"
+
+msgid ""
+"On some setups, wordpress is installed in a non-standard way and causes the "
+"site_url() function to return a value that is diferent from the real url, "
+"causing the browser to reject the ajax.  You need to add "
+"rhc_action=get_calendar_events to the query string."
+msgstr ""
+"На некоторых установках, WordPress установлен нестандартным способом и при "
+"вызове функции site_url () возвращает значение, отличное от реального URL, "
+"из-за чего браузер может отклонить ajax. Вам нужно добавить "
+"rhc_action=get_calendar_events к строке запроса."
+
+msgid ""
+"On some sites, a large number of custom taxonomies makes the backend event "
+"list page to load very slow."
+msgstr ""
+"На некоторых сайтах, большое количество пользовательских таксономий приводит "
+"к очень медленной загрузке страницы списка событий в бэкэнде."
+
+msgid ""
+"On some themes you may need to add additional html so the content is styled "
+"correctly by the theme."
+msgstr ""
+"На некоторых темах вам может понадобиться добавить дополнительный HTML, так "
+"чтобы контент был корректно стилизован под тему."
+
+msgid "Only applicable inside a detail box."
+msgstr "Применяется только внутри блока подробностей."
+
+msgid "Only external sources"
+msgstr "Только внешние источники"
+
+msgid "Only local"
+msgstr "Только локальные"
+
+msgid "Only premiere events."
+msgstr "Только первые события."
+
+msgid "Only related events."
+msgstr "Только связанные события."
+
+msgid ""
+"Only set the post ID if you want to bring the detail box of another event.  "
+"Leave empty to catch the currently loaded post detail box."
+msgstr ""
+"Задайте ID записи только если хотите перенести блок подробностей другого "
+"события. Оставьте пустым для блока подробностей текущей загруженной записи."
+
+msgid ""
+"Only use this options if you want to use diferent labels from the localized "
+"ones, or if the plugin is not providing localization at all."
+msgstr ""
+"Используйте эти опции, только если хотите использовать различные метки из "
+"локализованных версий, или если плагин не обеспечивает локализацию вообще."
+
+msgid "only:</b>  choose yes if you only want to display upcoming "
+msgstr "только:</b> выберите да, если хотите отображать предстоящие "
+
+msgid "Open all"
+msgstr "Открыть все"
+
+msgid "Open Graph headers"
+msgstr "Open Graph заголовки"
+
+msgid "operation cannot be undone. All the events custom field layout will be "
+msgstr ""
+"операция не может быть отменена. Все пользовательские поля событий будут "
+
+msgid "Operation completed"
+msgstr "Операция выполнена"
+
+msgid "Option 2"
+msgstr "Вариант 2"
+
+msgid ""
+"option will apply and overwrite the custom field layout with the one, on ALL "
+"events."
+msgstr ""
+"опция будет применена и перезапишет пользовательские поля для всех событий."
+
+msgid "Optional alternative class."
+msgstr "Дополнительный альтернативный класс."
+
+msgid "Optional, display this label in the link instead of the site url."
+msgstr "Необязательно, показывать эту метку в ссылке вместо URL сайта."
+
+msgid "Optional, if not provided will attempt to use address"
+msgstr "Необязательно, если не предоставлено будет пытаться использовать адрес"
+
+msgid ""
+"Optional, if not provided will build the google address using the regular "
+"adrress, city, zip, state and country fields previously filled."
+msgstr ""
+"Необязательно, если не предоставлено будет искать адрес Google, используя "
+"обычный адрес, город, индекс и прочие ранее заполненные поля."
+
+msgid "Optional, specify the google map zoom value (default: 13)"
+msgstr ""
+"Необязательно, укажите значение масштаба карты Google (по умолчанию: 13)"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Options contains %s records."
+msgstr "Настройки содержат %s записей."
+
+msgid "Options panel version %s"
+msgstr "Панель настроек версия %s"
+
+msgid "Options row count"
+msgstr "Количество строк параметров"
+
+msgid "Options updated."
+msgstr "Настройки обновлены."
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Organizer"
+msgstr "Организатор"
+
+msgid "Organizer Details"
+msgstr "Подробности организатора"
+
+msgid "Organizer Email"
+msgstr "Email организатора"
+
+msgid "Organizer fields"
+msgstr "Поля организатора"
+
+msgid "Organizer Image"
+msgstr "Изображение организатора"
+
+msgid "Organizer layout"
+msgstr "Макет организатора"
+
+msgid "Organizer Loop"
+msgstr "Цикл организатора"
+
+msgid "Organizer Meta"
+msgstr "Мате организатора"
+
+msgid "Organizer Name"
+msgstr "Название организатора"
+
+msgid "Organizer page"
+msgstr "Страница организатора"
+
+msgid "Organizer Page Template"
+msgstr "Шаблон страницы организатора"
+
+msgid "Organizer Phone"
+msgstr "Телефон организатора"
+
+msgid "Organizer template"
+msgstr "Шаблон организатора"
+
+msgid "Organizer URL"
+msgstr "URL организатора"
+
+msgid "Organizer Website"
+msgstr "Сайт организатора"
+
+msgid "Organizers"
+msgstr "Организаторы"
+
+msgid "Organizers slug"
+msgstr "Slug организатора"
+
+msgid "Original"
+msgstr "Оригинальный"
+
+msgid "Other"
+msgstr "Другие"
+
+msgid "Other fields"
+msgstr "Другие поля"
+
+msgid "Other integration settings"
+msgstr "Другие настройки интеграции"
+
+msgid "Other taxonomy slugs"
+msgstr "Другие короткие ссылки таксономий"
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Page Template"
+msgstr "Шаблон страницы"
+
+msgid "Pages:"
+msgstr "Страницы:"
+
+msgid "Permalink settings"
+msgstr "Настройки постоянных ссылок"
+
+msgid ""
+"permalinks are active, choose yes to be able to append /Calendar/ to the to "
+"load a Calendar for that particular post type, example yourdomain.com/will "
+"display the Calendar without the need to setup the on a page."
+msgstr ""
+"постоянные ссылки активны, выберите Да, чтобы иметь возможность добавлять/"
+"календарь/ к загрузке календаря для данного типа записи, например yourdomain."
+"com/ будет отображать календарь без необходимости установки на странице."
+
+msgid "Permission (capability)"
+msgstr "Разрешение (возможность)"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Phone:"
+msgstr "Телефон:"
+
+msgid "PHP date format(optional):"
+msgstr "Формат даты PHP (необязательно)"
+
+msgid "PHP version"
+msgstr "PHP версия"
+
+msgid "Please add a main license key before adding an addon license key."
+msgstr ""
+"Пожалуйста, добавьте основную лецензию перед добавлением лицензии аддона."
+
+msgid "Please enter a valid email"
+msgstr "Пожалуйста, введите корректный email."
+
+msgid "Please enter your information"
+msgstr "Пожалуйста, введите Вашу информацию"
+
+msgid "Please fill in your first name"
+msgstr "Пожалуйста, укажите Ваше имя"
+
+msgid "Please fill in your last name"
+msgstr "Пожалуйста, укажите Вашу фамилию"
+
+msgid ""
+"Please observe that if you use the Map Addon, Events Grid Addon, or "
+"Community Events Addon, you also need the latest version of the addons for "
+"this feature to work."
+msgstr ""
+"Учтите, что если вы используете Map Addon, Events Grid Addon или Community "
+"Events Addon, вам также необходимо установить последнюю версию аддонов для "
+"работы этой функции."
+
+msgid ""
+"Please observe that this does NOT modifies the size of the image on screen "
+"wich is controlled by the stylesheet.  This is used to determine what image "
+"size to use as source."
+msgstr ""
+"Учтите, что это НЕ изменяет размер изображения на экране, контролируемый "
+"таблицей стилей. Это используется для определения того, какой размер "
+"изображения использовать как источник."
+
+msgid "Please observe that this may not work with ajax based themes."
+msgstr "Учтите, что это может не работать с темами на основе Ajax."
+
+msgid ""
+"Please observe that this requires that the theme correctly implementes the "
+"wp_footer action hook."
+msgstr ""
+"Учтите, что требуется, чтобы тема правильно обрабатывала hook wp_footer."
+
+msgid "Please rate this event"
+msgstr "Пожалуйста, оцените это событие"
+
+msgid "Please register the product before downloading content."
+msgstr "Зарегистрируйте продукт перед загрузкой контента."
+
+msgid "Please specify a label for this settings."
+msgstr "Пожалуйста, укажите метку для этих настроек."
+
+msgid "Please update now"
+msgstr "Пожалуйста, обновите сейчас"
+
+msgid "Please write a brief description for this export code."
+msgstr "Пожалуйста, напишите краткое описание для этого экспортного кодекса."
+
+msgid "Plugin Add-ons"
+msgstr "Аддоны"
+
+msgid "Plugin bundled content"
+msgstr "Контент, включенный в плагин"
+
+msgid "Plugin error.  Missing argument."
+msgstr "Ошибка плагина. Отсутствует аргумент."
+
+msgid "Plugin is latest version."
+msgstr "Плагин последней версии."
+
+msgid "Plugin is no longer available."
+msgstr "Плагин больше не доступен."
+
+msgid "Plugin Options Panel"
+msgstr "Панель настроек плагина"
+
+msgid "Plugin settings error.  Missing plugin code."
+msgstr "Ошибка в настройках плагина. Отсутствует код плагина."
+
+msgid "Plugin update %s is available!"
+msgstr "Обновление плагина %s доступно!"
+
+msgid "plugin update %s is available! <a href=\\%s>Please update now</a>"
+msgstr ""
+"обновление плагина %s доступно! <a href=\\%s>Подалуйста, обновите сейчас</a>"
+
+msgid "Popular %s"
+msgstr "Популярные %s"
+
+msgid "Popular Calendar"
+msgstr "Популярный календарь"
+
+msgid "Popular Organizers"
+msgstr "Популярные организаторы"
+
+msgid "Popular Show types"
+msgstr "Популярные показываемые типы"
+
+msgid "Popular Venue"
+msgstr "Популярные места"
+
+msgid "Position"
+msgstr "Положение"
+
+msgid "Possible values: 0,1,2... 12"
+msgstr "Возможные значения: 0,1,2... 12"
+
+msgid "Post ID"
+msgstr "ID записи"
+
+msgid "Post Meta"
+msgstr "Мета записи"
+
+msgid "Post meta data"
+msgstr "Мета данные записи"
+
+msgid "Post Meta Field"
+msgstr "Мета поля записи"
+
+msgid "Post type"
+msgstr "Тип записи"
+
+msgid "Post type to apply: %s"
+msgstr "Применяемый тип пзаписи: %s"
+
+msgid "Postable arguments"
+msgstr "Аргументы"
+
+msgid "Postal code"
+msgstr "Индекс"
+
+msgid "Postmeta contains %s records."
+msgstr "Мета содержит %s записей."
+
+msgid "Postmeta row count"
+msgstr "Количество строк мета"
+
+msgid "Posts contains %s records."
+msgstr "Записи содержат %s записей."
+
+msgid "Posts row count"
+msgstr "Количество строк записей"
+
+msgid "Preload data"
+msgstr "Предзагрузка данных"
+
+msgid "Premiere"
+msgstr "Премьера"
+
+msgid "Premiere date"
+msgstr "Дата первого события"
+
+msgid "Premiere:  The first event in a series."
+msgstr "Премьера: первое событие в серии"
+
+msgid "Preview:"
+msgstr "Предпросмотр:"
+
+msgid "Previous button color"
+msgstr "Цвет кнопки Пред."
+
+msgid "Previous events"
+msgstr "Предыдущие события"
+
+msgid "Price"
+msgstr "Стоимость"
+
+msgid ""
+"printing a page with a Calendar, by default only the Calendar will be  Check "
+"this option to disable print css."
+msgstr ""
+"печать страницы с календарем, по умолчанию будет только календарь. Отметьте "
+"эту опцию, чтобы отключить печать css."
+
+msgid ""
+"Problem: When saving an event, it does not show in the calendar and there "
+"are no javascript errors."
+msgstr ""
+"Проблема: При сохранении событие, оно не отображается в календаре и нет "
+"ошибок JavaScript."
+
+msgid "Product License"
+msgstr "Лицензия продукта"
+
+msgid "Publish events"
+msgstr "Опубликовать события"
+
+msgid "Published calendar (pages containing calendarizeit shortcode)"
+msgstr "Опубликованный календарь (страницы, содержащие calendarizeit шорткод)"
+
+msgid "Purchased"
+msgstr "Купленный"
+
+msgid "Rating and Review Box"
+msgstr "Блок рейтинга и оценки"
+
+msgid "Rating Box"
+msgstr "Блок рейтинга"
+
+msgid "Rating Box Button"
+msgstr "Кнопка блока рейтинга"
+
+msgid "Ratings and Review Box"
+msgstr "Блок рейтингов и оценок"
+
+msgid "Ratio"
+msgstr "соотношение"
+
+msgid "Raw output"
+msgstr "Простой вывод"
+
+msgid "Read events"
+msgstr "Читать события"
+
+msgid "Read List"
+msgstr "Читать список"
+
+msgid "Read private events"
+msgstr "Читать приватные события"
+
+msgid "Recurring rules"
+msgstr "Повторяющиеся правила"
+
+msgid "Registration api url"
+msgstr "URL API регистрации"
+
+msgid "Related events"
+msgstr "Связанные события"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Remove Default Featured Event Image"
+msgstr "Удалить стандартное изображение события"
+
+msgid "Remove ended"
+msgstr "Удалить завершенные"
+
+msgid "Remove event by"
+msgstr "Удалить завершенные по "
+
+msgid "Remove Event Detail Box Image"
+msgstr "Удалить изображение блока деталей события"
+
+msgid "Remove Event Page Top Image"
+msgstr "Удалить верхнее изображение страницы события"
+
+msgid "Remove Featured Event Image"
+msgstr "Удалить миниатюру события"
+
+msgid "Remove Month View Image"
+msgstr "Удалить изображение месячного режима просмотра"
+
+msgid "Render events"
+msgstr "Вывод событий"
+
+msgid "Render image in tooltip"
+msgstr "Вывод изображений в подсказке"
+
+msgid "Repeat"
+msgstr "Повтор"
+
+msgid "Repeat dates"
+msgstr "Даты повторов"
+
+msgid "Repeat every"
+msgstr "Повторять кажлый"
+
+msgid "Repeat time"
+msgstr "Время повторов"
+
+msgid "Replace the event title with a fixed label."
+msgstr "Заменить title события постоянным ярлыком."
+
+msgid ""
+"Requires PHP 5.3 or greater.  If PHP requirement is not met, will fallback "
+"to version 2.4.4.  Uses a supplementary wp_rhc_events table for faster "
+"querying of recurring events"
+msgstr ""
+"Требуется PHP 5.3 или выше. Если требование не выполняется, будет откат до "
+"версии 2.4.4. Используйте таблицу wp_rhc_events для более быстрого "
+"выполнения запросов повторяющихся событий"
+
+msgid "Reset settings"
+msgstr "Сброс настроек"
+
+msgid "Reset to default template"
+msgstr "Сбросить к стандартному шаблону"
+
+msgid "Restore bundle:"
+msgstr "Восстановить набор:"
+
+msgid "Restore custom fields"
+msgstr "Восстановить пользовательские поля"
+
+msgid "Restore the current options to this settings."
+msgstr "Восстановить текущие настройки этих параметров."
+
+msgid "Restored %s:%s"
+msgstr "Восстановлены %s:%s"
+
+msgid "Restrict access"
+msgstr "Ограничить доступ"
+
+msgid "Reverse order"
+msgstr "Обратный порядок"
+
+msgid "Reviews and Ratings"
+msgstr "Обзоры и рейтинги"
+
+msgid "Rewrite rules as returned by $wp_rewrite->rewrite_rules()"
+msgstr "Правила перезаписи возвращаемые $wp_rewrite->rewrite_rules()"
+
+msgid "RHC Image"
+msgstr "RHC изображение"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "Right header"
+msgstr "Заголовок справа"
+
+msgid "Right width"
+msgstr "Ширина справа"
+
+msgid "RSVP Box"
+msgstr "RSVP блок"
+
+msgid "RSVP URL"
+msgstr "RSVP URL"
+
+msgid ""
+"same date header:</b>  choose yes to show a label with the date events on "
+"the same date."
+msgstr ""
+"такой же заголовок даты:</b> Выберите Да, чтобы показать ярлык с датой "
+"событий на ту же дату."
+
+msgid "Sat"
+msgstr "Сб"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save all"
+msgstr "Сохранить все"
+
+msgid "Save as default template"
+msgstr "Сохранить как шаблон по умолчанию"
+
+msgid "Save post priority"
+msgstr "Сохранить приоритет поста"
+
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+msgid "Save settings backup"
+msgstr "Сохранить бекап настроек"
+
+msgid "Saved options"
+msgstr "Сохраненные настройки"
+
+msgid "Saved Rewrite rules"
+msgstr "Сохраненные правила перезаписи"
+
+msgid "Saved setting not found"
+msgstr "Сохраненные настройки не найдены"
+
+msgid "Saved settings"
+msgstr "Сохраненные настройки"
+
+msgid "Saved settings and downloaded content"
+msgstr "Сохраненные настройки и загруженный контент"
+
+msgid "Scripts and styles on demand"
+msgstr "Скрипты и стили по требованию"
+
+msgid "Scripts in footer"
+msgstr "Скрипты в футер"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search %s"
+msgstr "Поиск %s"
+
+msgid "Search Calendar"
+msgstr "Поиск календаря"
+
+msgid "Search events"
+msgstr "Поиск событий"
+
+msgid "Search field"
+msgstr "Поиск поля"
+
+msgid "Search Organizer"
+msgstr "Поиск организатора"
+
+msgid "Search placeholder"
+msgstr "Заглушка поиска"
+
+msgid "Search Show types"
+msgstr "Поиск показываемых типов"
+
+msgid "Search Venue"
+msgstr "Поиск места"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid ""
+"Select the page you want to use as a template for the Detailed Event Page "
+"and Detailed Venue Page."
+msgstr ""
+"Выберите страницу, которую хотите использовать в качестве шаблона для "
+"пожробной страницы события и подробной страницы места проведения."
+
+msgid ""
+"Selected fields will be inserted in order into the format.  For field 1 use "
+"%1$s, for field 2 use %2$s, for field 3 use %3$s.  Example: to render a link "
+"choose 'Website url' and 'Website label' in the fields, then use the "
+"following format:"
+msgstr ""
+"Выбранные поля будут вставлены в формат. Для поля 1 используйте %1$s, для "
+"поля 2 используйте %2$s, для поля 3 - %3$s. Например: чтобы вывести ссылку "
+"выберите в полях \"URL сайта\" и \"Ярлык сайта\", а затем используйте "
+"следующий формат:"
+
+msgid ""
+"Selecting multiple fields requires that you properly setup a format that "
+"contains a placeholder for each of them."
+msgstr ""
+"Выбор нескольких полей требует правильной настройки формата, содержащего "
+"наполнение для каждого из них."
+
+msgid "sep"
+msgstr "сен"
+
+msgid "September"
+msgstr "Сентябрь"
+
+msgid "Server error. Upload directory isn't writable."
+msgstr "Ошибка сервера. Каталог загрузки не доступен для записи."
+
+msgid "Server side"
+msgstr "На стороне сервера"
+
+msgid "Service is unavailable, please try again later."
+msgstr "Сервис недоступен, повторите попытку позже."
+
+msgid "Service not available."
+msgstr "Сервис недоступен"
+
+msgid "Set Default Featured Event Image"
+msgstr "Установить изображение миниатюры события"
+
+msgid "Set Event Detail Box Image"
+msgstr "Установить изображение блока деталей события"
+
+msgid "Set Event Featrued Image"
+msgstr "Установить миниатюру события"
+
+msgid "Set Event Featured Image"
+msgstr "Установить миниатюру события"
+
+msgid "Set Event Page Top Image"
+msgstr "Установить верхнее изображение страницы события"
+
+msgid "Set Month View Image"
+msgstr "Установить изображение месячного вида"
+
+msgid "Set permissions by user role. "
+msgstr "Установить разрешения по роли пользователя. "
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Settings backup"
+msgstr "Бекап настроек"
+
+msgid "Settings backup:"
+msgstr "Бекап настроек:"
+
+msgid "Settings import and export"
+msgstr "Импорт и экспорт настроек"
+
+msgid "Several times"
+msgstr "Несколько раз"
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Share on Facebook"
+msgstr "Поделиться в Facebook"
+
+msgid "Share on Google+"
+msgstr "Поделиться в Google+"
+
+msgid "Share on LinkedIn"
+msgstr "Поделиться в LinkedIn"
+
+msgid "Share on Twitter"
+msgstr "Поделиться в Twitter"
+
+msgid "Short day names"
+msgstr "Краткие названия дней"
+
+msgid "Short month names"
+msgstr "Краткие названия месяцев"
+
+msgid "Shortcode argument:"
+msgstr "Аргумент шорткода:"
+
+msgid "Shortcode argument: next_day_threshold"
+msgstr "Аргумент шорткода: next_day_threshold"
+
+msgid "Shortcode templates"
+msgstr "Наблоны шорткода"
+
+msgid "Shortcode values:"
+msgstr "Значения шорткода:"
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "Show a loading overlay on the calendar viewport when fetching events"
+msgstr "Показать эффект загрузки на календаре при выборке событий"
+
+msgid "show all"
+msgstr "Показать все"
+
+msgid "Show all post types in calendar"
+msgstr "Показать все типы записей в календаре"
+
+msgid "Show all-day slot"
+msgstr "Показать слот весь-день"
+
+msgid "Show featured image"
+msgstr "Показать миниатюру"
+
+msgid "Show iCal button"
+msgstr "Показать кнопку iCal"
+
+msgid "Show image"
+msgstr "Показать изображение"
+
+msgid "Show loading overlay"
+msgstr "Показать эффект загрузки"
+
+msgid "Show more"
+msgstr "Показать еще"
+
+msgid "Show multi month events"
+msgstr "Показать многомесячные события"
+
+msgid "Show on hover"
+msgstr "Показать при наведении"
+
+msgid "Show other month events"
+msgstr "Показать события другого месяца"
+
+msgid "Show previous"
+msgstr "Показать предыдущие"
+
+msgid "Show same date header"
+msgstr "Показать тот же самый заголовок даты"
+
+msgid "Show type"
+msgstr "Тип показа"
+
+msgid "Show weekend"
+msgstr "Показать выходные"
+
+msgid "Show weekends"
+msgstr "Показать выходные"
+
+msgid "Single event (version 2)"
+msgstr "Отдельное событие (версия 2)"
+
+msgid "Single event page"
+msgstr "Страница отдельного события"
+
+msgid "Single event shows template title instead of event."
+msgstr "Отдельное событие показывает title шаблона вместо события."
+
+msgid "Single event URL"
+msgstr "URL отдельного события"
+
+msgid "Single marker"
+msgstr "Одинарный маркер"
+
+msgid "Single quote"
+msgstr "Одинарная кавычка"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Slot minutes"
+msgstr "Слот минут"
+
+msgid "Social Panels URL"
+msgstr "URL социальной панели"
+
+msgid "Social Sharing Panel"
+msgstr "Панель социального шаринга"
+
+msgid ""
+"some setups, wordpress is installed in a non-standard way and causes the "
+"function to return a value that is diferent from the real url, the browser "
+"to reject the ajax.  You need to add to the query string."
+msgstr ""
+"на некоторых установках, WordPress установлен нестандартным способом и при "
+"вызове функции возвращает значение, отличное от реального URL, из-за чего "
+"браузер может отклонить ajax. Вам нужно добавить к строке запроса."
+
+msgid ""
+"Some themes that load content with ajax, tabs, and sliders break the initial "
+"rendering of the calendar.  Choose yes to prevent this.  If not needed the "
+"recommended setting is to choose no."
+msgstr ""
+"Некоторые темы, загружающие содержимое с ajax, вкладок и слайеров ломают "
+"исходный вывод календаря. Выберите Да, чтобы предотвратить это. Если не "
+"требуется, то рекомендуемая настройка заключается в выборе Нет."
+
+msgid ""
+"some themes you may need to add additional html so the content is styled by "
+"the theme."
+msgstr ""
+"на некоторых темах вам может понадобиться добавить дополнительный HTML, так "
+"чтобы контент был корректно стилизован под тему."
+
+msgid "Sorry, but this feature is disabled in the demo!"
+msgstr "Извините, но эта функция отключена в демо!"
+
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "К сожалению, этот тип файла не разрешен по соображениям безопасности."
+
+msgid "space"
+msgstr "пробел"
+
+msgid "Specific date (Y-m-d)"
+msgstr "Определенная дата (Г-м-д)"
+
+msgid "Specific date End (Y-m-d)"
+msgstr "Определенная дата завершения (Г-м-д)"
+
+msgid "Specific taxonomy:"
+msgstr "Определенная таксономия:"
+
+msgid ""
+"Specify a post ID if you want to show a list of recurring instances for that "
+"particular event.  This is overwritten by the previous option."
+msgstr ""
+"Укажите ID поста, если хотите отобразить список повторяющихся событий для "
+"данного конкретного события. Это перезаписывается предыдущей опцией."
+
+msgid "Specify a text to show if there are no more events."
+msgstr "Укажите текст, который показывают, если событий больше нет."
+
+msgid ""
+"Specify comma separated meta field names used by the theme to store layout "
+"information per post.  This is used if for example the theme allows to "
+"configure a sidebar per page, but it is not showing in the event page "
+"although it has been configured on the template."
+msgstr ""
+"Укажите через запятую названия мета полей, используемые темой для хранения "
+"информации по записям. Это используется, например, если тема позволяет "
+"настроить сайдбар на странице, но он не показывается на странице "
+"мероприятия, хотя он был настроен на шаблоне."
+
+msgid ""
+"Specify comma separated page ids where you wich the calendarize it scripts "
+"and styles to be loaded.  Please observe that upcoming events widget needs "
+"them also."
+msgstr ""
+"Укажите через запятую ID страниц, где вы хотите, чтобы загружалить скрипты и "
+"стили calendarize it. Учтите, что виджет предстоящих событий также нуждается "
+"в них."
+
+msgid "Specify the id of a page that you want to use as model for this venue"
+msgstr ""
+"Укажите ID страницы, которую вы хотите использовать как образец для этого "
+"места"
+
+msgid ""
+"Specify the jQuery UI version to load in the frontend and backend.  By "
+"default it loads 1.9.0 on WP3.5 and higher and 1.8.22 on pre WP3.5"
+msgstr ""
+"Укажите версию JQuery UI, для загрузки в фронтэнд и бэкэнд. По умолчанию "
+"загружается 1.9.0 на WP 3.5 и выше и 1.8.22 на WP менее, чем 3.5"
+
+msgid "Specify the URL of a page containing a calendar set with map view"
+msgstr "Укажите URL страницы, содержащей календарь с картой"
+
+msgid "Specify the URL of a page containing social panels."
+msgstr "Укажите URL страницы, содержащей социальные панели."
+
+msgid ""
+"Specify the URL of a page containing the Upcoming Events widget 'Agenda Like "
+"B' model."
+msgstr ""
+"Укажите URL страницы, содержащей виджет предстоящих событий \"Agenda Like B"
+"\"."
+
+msgid ""
+"Specify the URL of a page containing the Upcoming Events widget 'Agenda "
+"Like' model."
+msgstr ""
+"Укажите URL страницы, содержащей виджет предстоящих событий \"Agenda Like\"."
+
+msgid ""
+"Specify the URL of a page containing the Upcoming Events widget 'Default' "
+"model."
+msgstr ""
+"Укажите URL страницы, содержащей виджет предстоящих событий \"По умолчанию\"."
+
+msgid ""
+"Specify the url of a page where the calendarizeit shortcode have been "
+"implemented.  If left blank the editor will try to determine it "
+"automatically."
+msgstr ""
+"Укажите URL страницы, на которой был установлен calendarizeit шорткод. Если "
+"оставить пустым, редактор попытается определить его автоматически."
+
+msgid "Stack autoload"
+msgstr "Автогрузка стека"
+
+msgid "Stack behaviour"
+msgstr "Поведение стека"
+
+msgid "Stars color"
+msgstr "Цвет звезд"
+
+msgid "Start"
+msgstr "Начало"
+
+msgid "Start date"
+msgstr "Дата начала"
+
+msgid "Start Date &amp; Time"
+msgstr "Дата и время начала"
+
+msgid "Start date(all-day)"
+msgstr "Дата начала (весь-день)"
+
+msgid "Start datetime"
+msgstr "Датавремя начала"
+
+msgid "Start time"
+msgstr "Время начала"
+
+msgid "Start/end date format"
+msgstr "Формат даты начала/конца"
+
+msgid "Start/end date format (All day)"
+msgstr "Формат даты начала/конца (весь день)"
+
+msgid "State"
+msgstr "Область"
+
+msgid "state"
+msgid_plural "states"
+msgstr[0] "область"
+msgstr[1] "области"
+msgstr[2] "областей"
+
+msgid "State/Provice/Other"
+msgstr "Область/Другое"
+
+msgid "State/Province/Other"
+msgstr "Область/Другое"
+
+msgid "Static"
+msgstr "Статический"
+
+msgid "Street address of this venue"
+msgstr "Адрес этого места"
+
+msgid "Sub title"
+msgstr "Подзаголовок"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Submit Box"
+msgstr "Блок подтверждения"
+
+msgid "Submit Box Button"
+msgstr "Кнопка подтверждения"
+
+msgid "Submit default color"
+msgstr "Стандартный цвет подтверждения"
+
+msgid "Submit Hover color"
+msgstr "Цвет подтверждения при наведении"
+
+msgid "Submit Rating"
+msgstr "Отправить рейтинг"
+
+msgid "Submit Rating and Review"
+msgstr "Отправить рейтинг и обзор"
+
+msgid "Subscription text"
+msgstr "Текст подписки"
+
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+msgid "Success Alert Box"
+msgstr "Окно оповещения об успехе"
+
+msgid "Sun"
+msgstr "Вс"
+
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Вс, Пн, Вт, Ср, Чт, Пт, Сб"
+
+msgid "Sun,Mon,Tue,Wed,Thu,Fri,Sat"
+msgstr "Вс,Пн,Вт,Ср,Чт,Пт,Сб"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Воскресенье, Понедельник, Вторник, Среда, Четверг, Пятница, Суббота"
+
+msgid "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+msgstr "Воскресенье,Понедельник,Вторник,Среда,Четверг,Пятница,Суббота"
+
+msgid "Suppress filters"
+msgstr "Подавить фильтры"
+
+msgid "Tab font"
+msgstr "Шрифт вкладки"
+
+msgid "Target"
+msgstr "Цель"
+
+msgid "Taxonomies are links"
+msgstr "Таксономии ссылки"
+
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+msgid "Taxonomy bar filter"
+msgstr "Панель фильтра таксономии"
+
+msgid "Taxonomy field:"
+msgstr "Поле таксономии:"
+
+msgid "Taxonomy fields"
+msgstr "Поля таксономии"
+
+msgid "Taxonomy loop"
+msgstr "Цикл таксономии"
+
+msgid "Taxonomy meta"
+msgstr "Мета таксономии"
+
+msgid "Taxonomy Page Template"
+msgstr "Шаблон таксономии"
+
+msgid "Taxonomy template"
+msgstr "Шаблон таксономии"
+
+msgid "Taxonomy:"
+msgstr "Таксономия:"
+
+msgid "Telephone"
+msgstr "Телефон"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Template content"
+msgstr "Контент шаблона"
+
+msgid "Template Integration"
+msgstr "Интеграция шаблона"
+
+msgid "Template page id (optional)"
+msgstr "ID шаблона (опционально)"
+
+msgid "Template path"
+msgstr "Путь шаблона"
+
+msgid ""
+"Template refers to the main element holder, by default it is: &lt;span"
+"%1$s&gt;&lt;/span&gt;"
+msgstr ""
+"Шаблон относится к основному держателю элемента, по умолчанию это:  &lt;span"
+"%1$s&gt;&lt;/span&gt;"
+
+msgid "Template settings"
+msgstr "Настройки шаблона"
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+msgid "Term Name"
+msgstr "Название условий"
+
+msgid "Terms"
+msgstr "Условия"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text color"
+msgstr "Цвет текста"
+
+msgid "Text decoration"
+msgstr "Оформление текста"
+
+msgid "Text for info windows"
+msgstr "Текст для инфо окон"
+
+msgid "Text shadow"
+msgstr "Тень текста"
+
+msgid "Thank you for <span id='display_big_count'>0</span> rating"
+msgstr "Спасибо за <span id='display_big_count'>0</span> рейтинг"
+
+msgid "Thank you for <span id='display_big_count'>0</span> ratings"
+msgstr "Спасибо за <span id='display_big_count'>0</span> рейтинги"
+
+msgid "Thank you for your rating [NAME]."
+msgstr "Спасибо за Ваш рейтинг [NAME]."
+
+msgid ""
+"that the default set is only used when creating new events.  events will "
+"keep their current custom field layout."
+msgstr ""
+"что установки по умолчанию используются только при создании новых событий. "
+"События сохранят текущие пользовательские поля."
+
+msgid "the Backup options if you want to save your current settings "
+msgstr "бекап параметры, если хотите сохранить текущие настройки"
+
+msgid ""
+"the Calendar object is smaller than the value set, mobile layout will "
+"displayed instead of the regular Calendar layout.  This does not apply to "
+"widgets."
+msgstr ""
+"объект календаря меньше установленного значения, мобильный макет будет "
+"отображаться вместо обычного макета календаря. Это не относится к виджетам."
+
+msgid ""
+"The current calendarize settings require that you specify the repeat date "
+"time."
+msgstr "Текущие настройки calendarize требуют указания времени и даты повтора."
+
+msgid ""
+"The description of the organizer, will be used in the organizer page content."
+msgstr "Описание организатора, будет использоваться на странице организатора."
+
+msgid "The description of the venue, will be used in the venue page content."
+msgstr "Описание места проведения, будет использоваться на странице места."
+
+msgid ""
+"The elements inner html gets replaced with the actual fields value, using "
+"the format field."
+msgstr ""
+"Элементы внутреннего HTML заменяются на фактическое значение полей, "
+"используя поле формата."
+
+msgid ""
+"The first set of data in a calendar view will be preloaded.  Choose no if "
+"you do not want to preload events by default."
+msgstr ""
+"Первый набор данных в календарном виде будут предварительно загружены. "
+"Выберите нет, если не хотите предварительную загрузку событий по умолчанию."
+
+msgid ""
+"the jQuery UI version to load in the frontend and backend.  By it loads "
+"1.9.0 on WP3.5 and higher and 1.8.22 on pre WP3.5"
+msgstr ""
+"версию JQuery UI, для загрузки в фронтэнд и бэкэнд. Загружается 1.9.0 на WP "
+"3.5 и выше и 1.8.22 на WP менее, чем 3.5"
+
+msgid ""
+"the labels of the buttons in the Calendar top controls.  Please that this "
+"will overwrite localization, so if you are using multiple leave this fields "
+"empty."
+msgstr ""
+"ярлыки кнопок в упрвлении календарем. Это перезапишет локализациюи, так что "
+"если вы используете несколько языков, то оставьте эти поля пустыми."
+
+msgid ""
+"the latest available version.  Version 1 is the original template provided "
+"for back compatibility on sites that have already their Calendar templates "
+"but want to update the plugin. "
+msgstr ""
+"последняя доступная версия. Версия 1 - оригинальный шаблон, предоставленной "
+"для обратной совместимости на сайтах, которые имеют свои шаблоны календаря, "
+"но хотят обновить плагин. "
+
+msgid ""
+"the loaded page is a Calendar, venue or organizer (taxonomy), only show from "
+"the same taxonomy."
+msgstr ""
+"загруженная страница является календарем, местом или организаторем "
+"(таксономия), показывается только той же таксономией."
+
+msgid ""
+"the page you want to use as a template for the Detailed Event Page Detailed "
+"Venue Page."
+msgstr ""
+"страница, которую вы хотите использовать как шаблон для страницы "
+"подробностей события страницы подробностей места."
+
+msgid "the post type name for wich you want to enable the custom taxonomy."
+msgstr ""
+"названия типов записей, для которых вы хотите включить пользовательскую "
+"таксономию."
+
+msgid "The settings on this code are the same as the current settings."
+msgstr "Настройки в этом коде совпадают с текущими настройками."
+
+msgid "The Term Name"
+msgstr "Название условия"
+
+msgid ""
+"The text color and color background of all events will be cleared.  This "
+"action includes custom post types that have been calendarized."
+msgstr ""
+"Цвет текста и цвет фона всех событий будет очищен. Это действие включает в "
+"себя пользовательские типы записей, которые были calendarized."
+
+msgid "The upload was cancelled, or server error encountered"
+msgstr "Загрузка отменена или ошибка сервера"
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Theme integration"
+msgstr "Интеграция темы"
+
+msgid "Theme issues"
+msgstr "Проблемы темы"
+
+msgid "Theme meta fields"
+msgstr "Мета поля темы"
+
+msgid ""
+"themes that load content with ajax, tabs, and sliders break the initial of "
+"the Calendar.  Choose yes to prevent this.  If not needed the setting is to "
+"choose no."
+msgstr ""
+"темы, загружающие содержимое с ajax, вкладок и слайеров ломают исходный "
+"календарь. Выберите Да, чтобы предотвратить это. Если не требуется, то "
+"выберите Нет."
+
+msgid "There are no additional Post Types to enable."
+msgstr "Нет дополнительных типов записей для включений."
+
+msgid "There are no saved settings."
+msgstr "Нет сохраненных настроек."
+
+msgid "There was an error extracting the bundled resources."
+msgstr "Ошибка при извлечении пакетных ресурсов."
+
+msgid "There was an error importing the content."
+msgstr "Ошибка при импорте контента."
+
+msgid "There was an error saving the settings, please try again."
+msgstr "Ошибка при сохранении настроек. Пожалуйста, попробуйте еще раз."
+
+msgid "This action cannot be undone!"
+msgstr "Это действие не может быть отменено!"
+
+msgid ""
+"This action cannot be undone!  Confirm to remove all event font color and "
+"background color."
+msgstr ""
+"Это действие не может быть отменено! Подтвердите для удаления всех цветов "
+"шрифтов событий и цвета фона."
+
+msgid ""
+"This applies to theme integration version 2.  Turn this option on if the "
+"single event page shows the template page title, instead of the event title"
+msgstr ""
+"Это относится к теме интеграции версии 2. Включите эту опцию, если страница "
+"отдельного события показывает title шаблона, вместо title события"
+
+msgid "This is an all day event."
+msgstr "Это событие в течение всего дня."
+
+msgid ""
+"this is associated with plugins or themes that append content to a like "
+"sharing bars or forms."
+msgstr ""
+"это связано с темами или плагинами, которые добавляют контент как формы или "
+"панели шаринга."
+
+msgid "This is only used on template version 1."
+msgstr "Это используется только в шаблоне версии 1."
+
+msgid ""
+"This operation cannot be undone. All the events custom field layout will be "
+"replaced!"
+msgstr ""
+"Эта операция не может быть отменена. Все пользовательские поля событий будут "
+"заменены! "
+
+msgid "This operation may take a while to complete."
+msgstr "Эта операция может занять некоторое время."
+
+msgid ""
+"this option if you do not want the Calendar events to link to a single page."
+msgstr ""
+"эту опцию, если не хотите, чтобы события календаря ссылались на страницу "
+"отдельного события."
+
+msgid "This option is currently not available."
+msgstr "Эта опция в настоящее время не доступна."
+
+msgid ""
+"This option may fix issues where sharing buttons are not showing on the "
+"event page."
+msgstr ""
+"Эта опция может исправить проблему, когда кнопки шаринга не отображаются на "
+"странице события."
+
+msgid ""
+"This option was added specifically for partial compatibility with the "
+"qtranslate plugin.  Turning it on may break third party plugins that modify "
+"event content.  The qtranslate slug plugin is also need for further "
+"compatibility."
+msgstr ""
+"Эта опция добавлена специально для частичной совместимости с qtranslate "
+"плагин. Включение может привести к поломке плагинов сторонних разработчиков, "
+"изменяющих содержание событий. Qtranslate плагин необходим для дальнейшей "
+"совместимости."
+
+msgid ""
+"This option was originally created for IIS hosted sites that have problem "
+"downloading DLC."
+msgstr ""
+"Эта опция создана для IIS размещенных сайтов, имеющих проблемы с загрузкой "
+"DLC."
+
+msgid ""
+"This option will apply and overwrite the custom field layout with the "
+"default one, on ALL events."
+msgstr ""
+"Эта опция будет применена и перезапишет пользовательские поля на стандартные "
+"для ВСЕХ событий."
+
+msgid ""
+"this options if you want to disable some of the Calendarize-it built in "
+msgstr "эти опции, если хотите отключить часть встроенных Calendarize-it "
+
+msgid ""
+"This shortcode requires that the latest version of 'Ajax events query "
+"version.' is enabled."
+msgstr ""
+"Это шорткод требует, чтобы последняя версия \"Ajax events query version\" "
+"была включена."
+
+msgid "This will overwrite all calendarize date and recurring date settings."
+msgstr "Это перезапишет все даты и настройки повторяющихся дат."
+
+msgid "This will permanently remove this settings."
+msgstr "Это полностью удалит эти настройки."
+
+msgid "This will remove all calendarize date and recurring date settings."
+msgstr "Это удалит все даты и настройки повторяющихся дат."
+
+msgid ""
+"This will replace the existing default fields with the layout set on this "
+"page for all boxes."
+msgstr ""
+"Это заменит существующие стандартные поля на макет, установленный на этой "
+"странице для всех блоков."
+
+msgid ""
+"This will restore the default template.  Any customization will be lost on "
+"all boxes."
+msgstr ""
+"Это восстановит шаблон по умолчанию. Любые настройки будут потеряны для всех "
+"блоков."
+
+msgid "Thu"
+msgstr "Чт"
+
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Time font"
+msgstr "Шрифт времени"
+
+msgid "Time format"
+msgstr "Формат времени"
+
+msgid "Tip and background color"
+msgstr "Подсказка и цвет фона"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Title font"
+msgstr "Шрифт заголовка"
+
+msgid "Title format"
+msgstr "Формат заголовка"
+
+msgid "Title line height"
+msgstr "Высота заголовка"
+
+msgid "Title link target"
+msgstr "Цель ссылки заголовка"
+
+msgid "Title top margin"
+msgstr "Верхний отступ заголовка"
+
+msgid ""
+"to Codecanyon and click My Account at the top, then click Downloads, and "
+"click the <strong>License Certificate link</strong>."
+msgstr ""
+"Codecanyon и нажмите Моя учетная запись в верхней части, затем нажмите "
+"Загрузки и нажмите <strong>Certificate License</strong>."
+
+msgid ""
+"to version 2.4.4 ical dates where set in local time.  Latest version "
+"converts dtstart, dtend, rdate and exrdate to UTC depending on the offset in "
+"WordPress settings.  Choose yes to disable converting "
+msgstr ""
+"до версии 2.4.4 ical даты, установленны по местному времени. Последняя "
+"версия преобразует dtstart, dtend, rdate и exrdate в UTC в зависимости от "
+"смещения в настройках WordPress. Выберите Да, чтобы отключить преобразования"
+
+msgid "to: <b>month,agendaWeek,agendaDay,rhc_event</b>. Also available: "
+msgstr "в: <b>месяц, agendaWeek, agendaDay, rhc_event</b>. Так же доступно: "
+
+msgid "today"
+msgstr "сегодня"
+
+msgid "TODO"
+msgstr "СДЕЛАТЬ"
+
+msgid "Tooltip"
+msgstr "Всплывающая подсказка"
+
+msgid "Tooltip behaviour"
+msgstr "Поведение подсказки"
+
+msgid "Tooltip Details"
+msgstr "Детали подсказки"
+
+msgid "Tooltip fonts"
+msgstr "Шрифт подсказки"
+
+msgid "Tooltip links target"
+msgstr "Цель ссылки подсказки"
+
+msgid "Top container"
+msgstr "Верхний контейнер"
+
+msgid "Top image shortcode"
+msgstr "Шорткод верхнего изображения"
+
+msgid "Top Rating Text"
+msgstr "Текст верхнего рейтинга"
+
+msgid "Top width"
+msgstr "Верхняя ширина"
+
+msgid "Troubleshooting"
+msgstr "Устранение неполадок"
+
+msgid "Tue"
+msgstr "Вт"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Tuestday"
+msgstr "Вторник"
+
+msgid ""
+"Turn on if for some special usage you require that events post type are "
+"hierarchical.  Observe that on large sets of data this may exhaust memory in "
+"the backend."
+msgstr ""
+"Включите, если для некоторого спец использования вам требуется, чтобы типы "
+"записей событий являлись иерархическими. Учтите, что на больших объямах "
+"данных это может исчерпать память в бэкэнде."
+
+msgid ""
+"Turn this option ON if you are getting the error message 'There was an error "
+"extracting the bundled resources' when downloading addons."
+msgstr ""
+"Включите эту опцию, если вы получаете сообщение об ошибке \"Ошибка "
+"извлечения пакетных ресурсов\" при загрузке аддонов."
+
+msgid ""
+"Turned off by default.  Choose yes if you have plugins or addons that may "
+"modify the content of events based on what user is logged in.  This "
+"increases the size of the cache, so only choose yes if needed."
+msgstr ""
+"Отключено по умолчанию. Выберите Да, если у вас есть плагины или аддоны, "
+"изменяющие содержание событий, основываясь входе пользователя в систему. Это "
+"увеличит размер кэша, поэтому выбирайте Да только если это необходимо."
+
+msgid ""
+"Turning this option will reset the internal ajax version so that it re-"
+"installs needed tables and re-generate event recurring dates."
+msgstr ""
+"Включение этой опции сбросит версию внутреннего ajax так, чтобы он "
+"переустановил нужные таблицы и перегенерировал даты повторных событий."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Twitter default color"
+msgstr "Стандартный цвет Twitter"
+
+msgid "Twitter Hover color"
+msgstr "Цвет Twitter при наведении"
+
+msgid "Twitter Icon color"
+msgstr "Цвет иконки Twitter"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Unable to create directory %s"
+msgstr "Невозможно создать каталог %s"
+
+msgid "Unable to read bundle file"
+msgstr "Невозможно прочитать пакетный файл"
+
+msgid "Unhandled content type, update plugin or theme to latest version."
+msgstr ""
+"Неизвестный тип содержимого, обновите плагин или тему до последней версии."
+
+msgid "Unknown error while processing. Please reload and try again."
+msgstr ""
+"Неизвестная ошибка при обработке. Пожалуйста, перезагрузите и попробуйте еще "
+"раз."
+
+msgid "Unknown function %s"
+msgstr "НеиизвестныеНеизвестные функции %s"
+
+msgid "Unwanted content in venuebox"
+msgstr "Нежелательный контент в окне места события"
+
+msgid ""
+"Up to version 2.4.4 ical dates where set in local time.  Latest version "
+"default converts dtstart, dtend, rdate and exrdate to UTC depending on the "
+"configured offset in WordPress settings.  Choose yes to disable converting "
+"dates."
+msgstr ""
+"До версии 2.4.4 ical даты, установленны по местному времени. Последняя "
+"версия преобразует dtstart, dtend, rdate и exrdate в UTC в зависимости от "
+"смещения в настройках WordPress. Выберите Да, чтобы отключить преобразования"
+
+msgid "Upcoming events"
+msgstr "Предстоящие события"
+
+msgid "Upcoming Events Agenda Like B URL"
+msgstr "Предстоящие события Agenda Like B URL "
+
+msgid "Upcoming Events Agenda Like URL"
+msgstr "Предстоящие события Agenda Like URL"
+
+msgid "Upcoming Events Default URL"
+msgstr "Предстоящие события стандартный URL"
+
+msgid "Upcoming events widget"
+msgstr "Виджет предстоящих событий"
+
+msgid "Upcoming only"
+msgstr "Только предстоящие"
+
+msgid "Upcoming only (all views)"
+msgstr "Только предстоящие (все виды)"
+
+msgid "Update %s"
+msgstr "Обновить %s"
+
+msgid "Update calendar"
+msgstr "Обновить календарь"
+
+msgid "Update Organizer"
+msgstr "Обновить организатора"
+
+msgid "Update show type"
+msgstr "Обновить тип показа"
+
+msgid "Update venue"
+msgstr "Обновить места"
+
+msgid "Upgrading bugs"
+msgstr "Ошибки обновлений"
+
+msgid ""
+"URL of a organizer page.  If left blank the editor will try to determine it "
+"automatically."
+msgstr ""
+"Адрес страницы организатора. Если оставить пустым редактор попытается "
+"определить его автоматически."
+
+msgid ""
+"URL of a single event page.  If left blank the editor will try to determine "
+"it automatically."
+msgstr ""
+"URL страницы отдельного событий. Если оставить пустым редактор попытается "
+"определить его автоматически."
+
+msgid ""
+"URL of a venue page.  If left blank the editor will try to determine it "
+"automatically."
+msgstr ""
+"URL страницы места события. Если оставить пустым редактор попытается "
+"определить его автоматически."
+
+msgid "Url to an image to display at the organizer category page"
+msgstr "Url изображения, для отображения на странице категории организаторов"
+
+msgid "Url to an image to display at the venue category page"
+msgstr "Url изображения, для отображения на странице категории мест событий"
+
+msgid "Use author dropdown in settings."
+msgstr "Использовать выпадающий список авторов в настройках."
+
+msgid "Use built-in archive content filter"
+msgstr "Использовать встроенный фильтр архива контента"
+
+msgid "Use original ajax events query."
+msgstr "Использовать исходный запрос AJAX событий."
+
+msgid "Use original upcoming events widget."
+msgstr "Использовать исходный виджет предстоящих событий."
+
+msgid "Use rel='nofollow' for link:"
+msgstr "Использовать rel='nofollow' для ссылки:"
+
+msgid ""
+"Use this option to automatically add Calendarize It! single page elements, "
+"you can still control display with the Layout options in the post edit "
+"screen."
+msgstr ""
+"Используйте эту опцию для авто добавления элементов отдельных страниц "
+"Calendarize It!, вы все еще сможете управлять отображением с помощью "
+"настроек макета в окне редактирования записи."
+
+msgid ""
+"Use this options if you want to disable some of the calendarize-it built in "
+"taxonomies."
+msgstr ""
+"Используйте эти опции, если хотите отключить часть встроенных Calendarize-it "
+"таксономий."
+
+msgid ""
+"use this options if you want to use diferent labels from the localized or if "
+"the plugin is not providing localization at all."
+msgstr ""
+"Используйте эту опцию, только если хотите использовать различные метки из "
+"локализованных версий, или если плагин не обеспечивает локализацию вообще."
+
+msgid "Use uploads as temp folder"
+msgstr "Использовать загрузки как временную папку"
+
+msgid "Used templates"
+msgstr "Используемые шаблоны"
+
+msgid ""
+"Usually this is associated with plugins or themes that append content to a "
+"post, like sharing bars or forms."
+msgstr ""
+"Обычно это связано с плагинами или темами, которые добавляют контент как "
+"формы или панели шаринга."
+
+msgid "Validate empty fields"
+msgstr "Проверка пустых полей"
+
+msgid "Value:"
+msgstr "Значение:"
+
+msgid "Values (links)"
+msgstr "Значения (ссылки)"
+
+msgid "Values (normal)"
+msgstr "Значения (нормальные)"
+
+msgid "Values font"
+msgstr "Шрифт значений"
+
+msgid "Values link font"
+msgstr "Шрифт ссылок значений"
+
+msgid "Variable"
+msgstr "Переменный"
+
+msgid "Venue"
+msgstr "Место события"
+
+msgid "Venue and Organizer Page Template"
+msgstr "Шаблон страницы месты события и организатора"
+
+msgid "Venue Details"
+msgstr "Подробности места"
+
+msgid "Venue Details Box"
+msgstr "Окно подробностей места"
+
+msgid "Venue Details Box Map"
+msgstr "Карта блока подробностей события"
+
+msgid "Venue fields"
+msgstr "Поля места"
+
+msgid "Venue Image"
+msgstr "Изображение места"
+
+msgid "Venue layout"
+msgstr "Макет места"
+
+msgid "Venue Loop"
+msgstr "Цикл места"
+
+msgid "Venue Map"
+msgstr "Карта места"
+
+msgid "Venue Meta"
+msgstr "Мета места"
+
+msgid "Venue Name"
+msgstr "Название места"
+
+msgid "Venue page"
+msgstr "Страница места"
+
+msgid "Venue Page Template"
+msgstr "Шаблон страницы места"
+
+msgid "Venue template"
+msgstr "Шаблон места"
+
+msgid "Venue URL"
+msgstr "URL места"
+
+msgid "Venue Website"
+msgstr "Сайт места"
+
+msgid "Venues"
+msgstr "Места"
+
+msgid "Venues slug"
+msgstr "Slug места"
+
+msgid "Venues template"
+msgstr "Шаблон мест"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Version 2.4.4"
+msgstr "Версия 2.4.4"
+
+msgid "Version 3.1.4 ajax query"
+msgstr "Версия 3.1.4 ajax query"
+
+msgid "Vertical label"
+msgstr "Вертикальная метка"
+
+msgid "Vertical label font"
+msgstr "Шрифт вертикальной меткиШрифт ярлыка"
+
+msgid "View"
+msgstr "ПросмотрПосмотреть"
+
+msgid "View background"
+msgstr "Фон просмотра"
+
+msgid "View default color"
+msgstr "Стандартный цвет просмотра"
+
+msgid "View event"
+msgstr "Просмотр события"
+
+msgid "View Google Map"
+msgstr "Просмотр Google Map"
+
+msgid "View Hover color"
+msgstr "Цвет просмотра при наведении"
+
+msgid "View Ratings and Reviews"
+msgstr "Просмотр рейтингов и обзоров"
+
+msgid "Visit site"
+msgstr "Посетите сайт"
+
+msgid "Visual calendar slug"
+msgstr "Slug визуального календаря"
+
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+msgid ""
+"was a communication error with the RightHere server. Contact support support."
+"righthere.com about payment %s.  Error message: %s"
+msgstr ""
+"ошибка связи с сервером RightHere. Свяжитесь с support.righthere.com по "
+"вопросу платежа %s. Сообщение об ошибке %s"
+
+msgid "was an error saving a backup of the current settings, please try again."
+msgstr ""
+"ошибка при сохранении резервной копии текущих настроек, пожалуйста, "
+"попробуйте еще раз."
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Website label"
+msgstr "Ярлык сайта"
+
+msgid "Website url"
+msgstr "URL сайта"
+
+msgid "Website url nofollow behavior"
+msgstr "nofollow url сайта"
+
+msgid "Website:"
+msgstr "Сайт:"
+
+msgid "Wed"
+msgstr "Ср"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Wednsday"
+msgstr "Среда"
+
+msgid "Week"
+msgstr "Неделя"
+
+msgid "Week mode"
+msgstr "Режим недели"
+
+msgid "Week number"
+msgstr "Номер недели"
+
+msgid "Week number label"
+msgstr "Ярлык номера недели"
+
+msgid "week of year"
+msgstr "неделя года"
+
+msgid "Week start"
+msgstr "Первый день недели"
+
+msgid "Week view column"
+msgstr "Столбец недельного вида"
+
+msgid "Week view title"
+msgstr "Заголовок недельного вида"
+
+msgid "week(s)"
+msgstr "неделя(и)"
+
+msgid ""
+"When printing a page with a calendar, by default only the calendar will be "
+"printed.  Check this option to disable print css."
+msgstr ""
+"При печати страницы с календарем, по умолчанию будет напечатан только "
+"календарь. Отметьте эту опцию, чтобы отключить печать CSS."
+
+msgid ""
+"When the calendar object is smaller than the value set, mobile layout will "
+"be displayed instead of the regular calendar layout.  This does not apply to "
+"calendar widgets."
+msgstr ""
+"Когда объект календаря меньше установленного значения, мобильный макет будет "
+"отображаться вместо обычного макета календаря. Это не относится к виджетам."
+
+msgid ""
+"When this option is set to yes, microdata will automatically be added to an "
+"event."
+msgstr ""
+"Когда этот параметр установлен в Да, микроданных будут автоматически "
+"добавлены к событию."
+
+msgid ""
+"When using the map view as a business directory, check the taxonomies that "
+"you would like to enable as taxonomies for the venue.  This will add an "
+"option on the venue edit page to choose taxonomies to filter the businesses "
+"displayed on the map."
+msgstr ""
+"При использовании вида карты как бизнес каталога, отметьте таксономии, "
+"которые вы хотели бы включить в качестве таксономий для места события. Это "
+"добавит опцию на странице редактирования места для выбора таксономий для "
+"фильтрации бизнеса, отображаемого на карте."
+
+msgid "Widget Date box"
+msgstr "Виджет даты"
+
+msgid "Widget Date box Background"
+msgstr "Фон виджета даты"
+
+msgid "Widget Date box Day"
+msgstr "Виджет даты, День"
+
+msgid "Widget Date box Month"
+msgstr "Виджет даты, Месяц"
+
+msgid ""
+"widget: Selet a page, to which the Calendar widget will take the when "
+"clicked.  Usually a page containing the Calendarizeit shortcode."
+msgstr ""
+"виджет: Выберите страницу, на которую виджет перенаправит пользователя при "
+"нажатии. Обычно это страница, содержащая шорткод calendarize."
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Width:"
+msgstr "Ширина:"
+
+msgid ""
+"will replace the existing default fields with the layout set on this for all "
+"boxes."
+msgstr ""
+"заменит существующие стандартные поля на макет, установленный на этой "
+"странице для всех блоков."
+
+msgid ""
+"will restore the default template.  Any customization will be lost on boxes."
+msgstr ""
+"восстановит шаблон по умолчанию. Любые настройки будут потеряны для всех "
+"блоков."
+
+msgid "WordPress version"
+msgstr "Версия WordPress"
+
+msgid "WP 4.1 cannot delete events"
+msgstr "WP 4.1 не может удалить события"
+
+msgid "WP 4.4 taxonomy metadata dissappeared."
+msgstr "WP 4.4 мета таксономии исчезли."
+
+msgid ""
+"Write <b>comma separated</b> and <b>no space</b> labels on each setting in "
+"this section"
+msgstr ""
+"Напишите ярлыки <b>через запятую</b> и <b>без пробела</b> на каждый параметр "
+"в разделе"
+
+msgid "Write an author user_login to display events from that author only"
+msgstr ""
+"Напишите автор user_login для отображения событий только от этого автора"
+
+msgid ""
+"Write comma separated shortcode arguments that you would like to make "
+"available for overwritting through the URL query."
+msgstr ""
+"Напишите разделенные запятыми аргументы шорткодов, которые вы хотели сделать "
+"доступными для перезаписи с помощью url запроса."
+
+msgid "Year"
+msgstr "Год"
+
+msgid "year, 2 digits"
+msgstr "год, 2 цифры"
+
+msgid "year, 4 digits"
+msgstr "год, 4 цифр"
+
+msgid "year(s)"
+msgstr "год(а)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yes default color"
+msgstr "Да стандартный цвет"
+
+msgid "Yes hover color"
+msgstr "Да цвет при наведении"
+
+msgid ""
+"yes if permalinks are not working.  It will attempt an alternative of adding "
+"rewrite rules."
+msgstr ""
+"да, если постоянные ссылки не работают. Будет пытаться использовать "
+"альтернативный способ добавления правил перезаписи."
+
+msgid ""
+"yes if the Calendar is rendered but events are not showing.  You can the "
+"browser console, and check if the ajax dat is returned with a php  If that "
+"is the case, turning on this option will try to catch and the warning so it "
+"doesnt breaks the expected Calendar data."
+msgstr ""
+"да, если календарь визуализируется, но события не отображаются. Вы можете "
+"проверить консоль браузера, и проверить, есть ли ajax php предупреждения. "
+"Если это так, то включение этой опции будет пытаться поймать и сбросить "
+"предупреждение так, что бы это не нарушало работу календаря."
+
+msgid ""
+"yes if unwanted content is rendered in the venuebox or any other related "
+"field."
+msgstr ""
+"да, если нежелательный контент выводится в окне места проведения или в "
+"другом смежном поле таксономии."
+
+msgid "yes if you are using another plugin or if the theme loads google maps "
+msgstr ""
+"да, если вы используете другой плагин или если тема загружает google maps "
+"api "
+
+msgid "yes if you want the day cell match the background color of the event."
+msgstr "да, если хотите, чтобы ячейка дня соответствовала цвету фона события."
+
+msgid ""
+"yes if you want to make taxonomies hyperlinks.  Example venue will be link "
+"to the venue page."
+msgstr ""
+"да, если хотите, чтобы сделать таксономии гиперссылок. Например, место "
+"проведения будет ссылкой на страницу места проведения."
+
+msgid ""
+"yes only if the thumbnail metabox is not showing when you edit  Usually "
+"themes enable this."
+msgstr ""
+"да, только если мета миниатюры не отображается при редактировании события. "
+"Обычно темы позволяют это."
+
+msgid "yes only if you are getting a 404 page when trying to get an event "
+msgstr ""
+"да, только если получаете 404 ошибку при попытке перехода на страницу "
+"события."
+
+msgid ""
+"yes to display a debug menu.  This provide technical information that can "
+"use to troubleshoot problems."
+msgstr ""
+"да, чтобы отобразить меню отладки. Это предоставляет техн. информацию, "
+"которую можно использовать для устранения неполадок."
+
+msgid ""
+"yes to enable inserting the Month view image in events that has image set.  "
+"Then Month view image is set in a metabox when editing event.  The metabox "
+"has to be enabled separately on the next option."
+msgstr ""
+"да, чтобы вставить 'Изображение для месячного вида' в события, которым "
+"установлено это изображение. Затем 'Изображение для месячного вида' "
+"устанавливается в мета при редактировании события. Мета включается отдельно "
+"в следующей опции."
+
+msgid "You are not allowed to edit user roles."
+msgstr "У вас нет прав для редактирования прав пользователей."
+
+msgid ""
+"You can also write the year only, or the year and the month.  Example "
+"2012-06 to get events from june 6."
+msgstr ""
+"Вы также можете написать только год или год и месяц. Пример 2012-06 для "
+"получения событий от 6 июня."
+
+msgid ""
+"You can use this field for custom content.  Or leave empty and drag existing "
+"elements here."
+msgstr ""
+"Вы можете использовать это поле для пользовательского контента. Или оставьте "
+"пустым и перетащить сюда существующие элементы."
+
+msgid "You cannot edit this post."
+msgstr "Вы не можете редактировать эту запись."
+
+msgid ""
+"you choose to skip loading the bundled jQuery UI, you need to make sure the "
+"theme or plugin loads it."
+msgstr ""
+"вы решили пропустить загрузку встроенного jQuery UI, вам необходимо "
+"убедиться, что тема или плагин загружает его."
+
+msgid ""
+"you choose yes and the event starts showing, it means that the theme or a is "
+"not following a standard in regards to register_post_type and  Under certain "
+"circumstances it could also affecting performance."
+msgstr ""
+"вы выбрали да и событие начинает отображаться, то это означает, что тема или "
+"плагин не следует стандартам в отношении к register_post_type и "
+"flush_rewrite_rules. При определенных обстоятельствах это может также влиять "
+"на производительность сайта."
+
+msgid ""
+"you experience problems with the upcoming events widget after updating, this "
+"option to go back to the original upcoming events widget code."
+msgstr ""
+"после обновления у вас возникли проблемы с виджетом предстоящих событий, "
+"используйте эту опцию, чтобы вернуться к исходному коду виджета предстоящих "
+"событий."
+
+msgid ""
+"you have a page with permalink /events/Calendar/ you may need to disable as "
+"it takes precedence over the page permlink."
+msgstr ""
+"у вас есть страница с постоянной ссылкой/событиями/календарем, вам может "
+"понадобиться отключить этот параметр, т.к. он имеет приоритет над постоянной "
+"ссылкой страницы."
+
+msgid ""
+"You have not installed the English Help for Calendarize it! Please go to "
+msgstr ""
+"Вы не установили Помощь (на английском) для Calendarize it! Пожалуйста, "
+"перейдите в "
+
+msgid ""
+"you have overwritten the default custom fields, use this button to the "
+"original set."
+msgstr ""
+"вы перезаписали стандартные пользовательские поля, используйте эту кнопку "
+"для восстановления исходного набора."
+
+msgid ""
+"you keep getting the message Service not available. when trying to a "
+"license, switch this to Option 2 to try an alternative."
+msgstr ""
+"при добавлении лицензии вы продолжаете получать сообщение \"Услуга недоступна"
+"\", то переключите на вариант 2, чтобы попробовать альтернативный способ."
+
+msgid ""
+"You only need to set the post id if you want to bring the date of a diferent "
+"event."
+msgstr "Задайте ID записи только если хотите перенести дату другого события."
+
+msgid ""
+"You only need to set the post id if you want to bring the map of a diferent "
+"event."
+msgstr "Задайте ID записи только если хотите перенести карту другого события."
+
+msgid "You will find the code in there and it will look something like this:"
+msgstr "Вы найдете код, который будет выглядеть следующим образом:"
+
+msgid "You will need to manually add the [post_info] shortcode."
+msgstr "Вам нужно вручную добавить [post_info] шорткод."
+
+msgid "You will need to manually add the [rhc_post_info] shortcode."
+msgstr "Вам нужно вручную добавить [rhc_post_info] шорткод."
+
+msgid "You will need to manually add the shortcode."
+msgstr "Вам нужно вручную добавить шорткод."
+
+msgid "Your email have already been used"
+msgstr "Ваш email уже используется"
+
+msgid "your license key before you can purchase add-ons or download free add-"
+msgstr ""
+"ваш лицензионный ключ, прежде чем вы сможете приобрести или скачать аддоны"
+
+msgid "Your purchase code can be found in your license Certificate file."
+msgstr "Ваш код покупки можно найти в файле license Certificate."
+
+msgid "Zip Code"
+msgstr "Индекс"
+
+msgid "Zoom"
+msgstr "Масштаб"

@@ -1,3 +1,5 @@
+# BEGIN RHC
+# END RHC
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>

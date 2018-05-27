@@ -1,0 +1,4664 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Project-Id-Version: rhc\n"
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+msgid "_blank"
+msgstr "空白"
+
+msgid "_blank new window or tab"
+msgstr "新空白窗或标签"
+
+msgid "_parent"
+msgstr "根源"
+
+msgid "_self"
+msgstr "自己"
+
+msgid "_self same window or tab"
+msgstr "自有相同窗口或标签"
+
+msgid "_top"
+msgstr "顶部"
+
+msgid "--any--"
+msgstr "任意"
+
+msgid "--choose--"
+msgstr "选择"
+
+msgid "--no options--"
+msgstr "无选项"
+
+msgid "--none--"
+msgstr "无"
+
+msgid ".htaccess content"
+msgstr "htaccess内容"
+
+msgid "*Overwrites event taxonomies filter."
+msgstr "超写事件分类筛选。"
+
+msgid "%s content columns. Holder proportion: %s"
+msgstr "%s内容栏。持有比例：%s"
+
+msgid "%s database table exists. Contains %s records."
+msgstr "%s存在数据表。包含 %s记录"
+
+msgid "%s database table not found."
+msgstr "%s 没有找到数据表"
+
+msgid "%s or %s"
+msgstr "输入字符串或输出字符串"
+
+msgid "%s page Template"
+msgstr "格式化输出页模板"
+
+msgid "%s( %s )"
+msgstr "格式化输出（格式化输出）"
+
+msgid "<b>Custom Days per page:</b>  By default when clicking next or previous, the view will go to the next month, behaving in a similar way to the month view.  You can specify the number of days to advance with this option."
+msgstr "<b>每一页自定义天数:</b> 默认点击下一项或先前项时，这个视图会进入下一个月，就像月份视图一样。你可以指定天数的数量来推进这一个选项。"
+
+msgid "<b>Days ahead:</b>  Similar to months ahead, but allows specifying days intead of months.  This option overwrites the months option."
+msgstr "<b>来日:</b>和接下来几个月相似，但是允许用特殊的天数代替月份。这个选项覆盖在月份选项上"
+
+msgid "<b>Max displayed events:</b>  Optionally limit the number of events displayed."
+msgstr "<b>最大显示事件:</b>可选择的限制显示事件的数量"
+
+msgid "<b>Months ahead:</b>  By default the events view show up to one month of upcoming events.  Use this option to show more events."
+msgstr "<b>接下来的几个月:</b> 默认事件查看器显示了即将到来事件的一个月。用这个选项来显示更多事件"
+
+msgid "<b>Remove ended:</b> Remove event if it has ended.  Event end date is compared against the time in the client side."
+msgstr "<b>删除结束:</b>移除已经结束的项目。项目结束的日期将会和客户端的时间相对比"
+
+msgid "<b>Reverse order:</b>  choose yes to invert the order of events"
+msgstr "<b>倒序:</b>选择是来反转项目的顺序"
+
+msgid "<b>Show multi month events:</b> By default long spanning events that started on a diferent month will not be displayed in the event list.  Check yes to show them."
+msgstr "<b>展示多个月的项目:</b> 默认在不同月开始的长生成事件不能被显示在项目列表中。检查是否选择了是来展示他们"
+
+msgid "<b>Show same date header:</b>  choose yes to show a label with the date before events on the same date."
+msgstr "<b>显示相同日期标题:</b>  选择是来展示一个带着在相同日期事件之前日期的标签"
+
+msgid "<b>Stack autoload:</b>Automatically fetch and stack the next group of events"
+msgstr "<b>叠层体:</b>自动抓取并且堆栈另一组项目"
+
+msgid "<b>Stack behaviour:</b>When clicking Next, the view will not be cleared, instead new events will stack."
+msgstr "<b>栈行为:</b>当点击下一个时，这个视图不会被清除，相反，一个新的项目将会堆栈"
+
+msgid "<b>Upcoming only:</b>  choose yes if you only want to display upcoming events."
+msgstr "<b>仅即将到来的:</b>如果你想展示即将到来的事件，选择是"
+
+msgid "1/2 content - 1/2 Image"
+msgstr "1/2 内容 - 1/2 图像"
+
+msgid "1/3 - 2/3"
+msgstr "1/3 到2/3"
+
+msgid "1/3 content - 2/3 Image"
+msgstr "1/3 内容- 2/3 图像"
+
+msgid "1/4 - 3/4"
+msgstr "1/4 到 3/4"
+
+msgid "1/4 content - 3/4 Image"
+msgstr "1/4内容- 3/4 图像"
+
+msgid "1st"
+msgstr "第一"
+
+msgid "2/3 - 1/3"
+msgstr "2/3 到1/3"
+
+msgid "2/3 content - 1/3 Image"
+msgstr "2/3 内容- 1/3 图像"
+
+msgid "2nd"
+msgstr "第二"
+
+msgid "3/4 - 1/4"
+msgstr "3/4 到 1/4"
+
+msgid "3/4 content - 1/4 Image"
+msgstr "3/4内容 - 1/4图像"
+
+msgid "3rd"
+msgstr "第三"
+
+msgid "4th"
+msgstr "第四"
+
+msgid "5th"
+msgstr "第五"
+
+msgid "A duplicate of this addon/plugin is already active."
+msgstr "这个插件的副本已经激活。"
+
+msgid "A static list of events is rendered in a noscript tag for people browsing the calendar without javascript.  This makes the events visible to search enginges too."
+msgstr "一个事件的数据列表呈现在noscript 标签上，供人们浏览不带 javascript的日历。这让事件对搜索引擎也是可见的"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add %s"
+msgstr "添加 %s"
+
+msgid "Add a Custom Details Box"
+msgstr "添加一个自定义细节盒"
+
+msgid "Add a Organizer Image"
+msgstr "添加一个组织者图像"
+
+msgid "Add a Organizer Website field"
+msgstr "添加一个组织者网址领域"
+
+msgid "Add a Venue Image"
+msgstr "添加一个会场图像"
+
+msgid "Add a Venue Map"
+msgstr "添加一个会场地图"
+
+msgid "Add an Event Image"
+msgstr "添加一个事件图像"
+
+msgid "Add calendar"
+msgstr "添加日历"
+
+msgid "Add comma separated taxonomy slugs to remove from the filter bar."
+msgstr "添加用逗号隔开的分类系统刊花来从过滤棒中移去"
+
+msgid "Add Conditional Content"
+msgstr "添加有条件的内容"
+
+msgid "Add Cutom Label"
+msgstr "添加自定义标签"
+
+msgid "Add End Date and Time field"
+msgstr "添加结束日期和时间领域"
+
+msgid "Add End Date field"
+msgstr "添加结束日期领域"
+
+msgid "Add End Time field"
+msgstr "添加结束时间领域"
+
+msgid "Add Event Details Box"
+msgstr "添加事件细节盒"
+
+msgid "Add Event Excerpt"
+msgstr "添加事件摘要"
+
+msgid "Add Event Title"
+msgstr "添加事件标题"
+
+msgid "Add files button"
+msgstr "添加文件夹按钮"
+
+msgid "Add iCal Button"
+msgstr "添加互联网日历按钮"
+
+msgid "Add Loop Shortcode"
+msgstr "添加环的短码"
+
+msgid "Add new event"
+msgstr "添加一个新事件"
+
+msgid "Add Organizer"
+msgstr "添加组织者"
+
+msgid "Add Organizer Meta field"
+msgstr "添加组织者元领域"
+
+msgid "Add Post Event Meta Data field"
+msgstr "添加后事件元数据领域"
+
+msgid "Add Start Date and Time field"
+msgstr "添加开始日期和时间领域"
+
+msgid "Add Start Date field"
+msgstr "添加开始日期领域"
+
+msgid "Add Start Time field"
+msgstr "添加开始时间领域"
+
+msgid "Add taxonomy button"
+msgstr "添加分类系统按钮"
+
+msgid "Add Template content"
+msgstr "添加模板内容"
+
+msgid "Add to your calendar"
+msgstr "添加到你的日历中"
+
+msgid "Add Upcoming Events List"
+msgstr "添加即将到来事件列表"
+
+msgid "Add venue"
+msgstr "添加地点"
+
+msgid "Add Venue Details Box"
+msgstr "添加地点细节箱"
+
+msgid "Add Venue Meta field"
+msgstr "添加地点元领域"
+
+msgid "Add Venue Website field"
+msgstr "添加地点网站领域"
+
+msgid "Add-ons"
+msgstr "附加软件"
+
+msgid "Additional info layout"
+msgstr "附加的信息布局"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address:"
+msgstr "地址"
+
+msgid "Adjust media settings"
+msgstr "调整媒体设置"
+
+msgid "Adjust Template Settings"
+msgstr "调整模板设置"
+
+msgid "Admin CSS Downloads"
+msgstr "管理兼容式下载"
+
+msgid "Advanced"
+msgstr "高级的"
+
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+msgid "Advent Calendar"
+msgstr "出现日历"
+
+msgid "Advent Calendar URL"
+msgstr "出现日历网址"
+
+msgid "After adding the initial event simply click on any date in order to add the arbitrary repeat date."
+msgstr "在添加初始事件后，简单的点击任何日期来添加任意的重复日期"
+
+msgid "After upgrading to WP 4.1, as an admin you cannot edit or trash events created by other users before the upgrade."
+msgstr "在更新到WP 4.1时，作为一个管理员你不能编辑或者删除其他用户在更新前创建的事件"
+
+msgid "After upgrading to WP 4.4, taxonomy metadata have dissappeared.  Example venue and organizer details are empty."
+msgstr "在更新到WP 4.4时，分类系统元数据已消失。例如会场和组织者的细节是空白的"
+
+msgid "Agenda"
+msgstr "议事日程"
+
+msgid "Agenda Day"
+msgstr "议程日"
+
+msgid "Agenda Like"
+msgstr "议程"
+
+msgid "Agenda Like B"
+msgstr "议程B"
+
+msgid "Agenda view (week and day view)"
+msgstr "日程视图（周视图和天视图）"
+
+msgid "Agenda views"
+msgstr "议程的意见"
+
+msgid "Agenda Week"
+msgstr "议事日程周"
+
+msgid "Ajax"
+msgstr "Ajax"
+
+msgid "Ajax based templates and sliders"
+msgstr "Ajax基于样板和幻灯片"
+
+msgid "Ajax catch php warnings."
+msgstr "Ajax 捕获php警告"
+
+msgid "Ajax data shrink is a new feature introduced on version 2.7.4, it reduces the ajax data size.  Choose no if you want to disable this feature."
+msgstr "Ajax数据收缩是一个刚引进版本2.7.4的新特色，它减小了ajax的数据大小。选择否如果你不想用这个新功能的话"
+
+msgid "Ajax events query version."
+msgstr "Ajax 事件查询版"
+
+msgid "Alignment"
+msgstr "队列"
+
+msgid "All %s"
+msgstr "全部 %s"
+
+msgid "All calendars"
+msgstr "全部日历"
+
+msgid "All day"
+msgstr "全天"
+
+msgid "All organizers"
+msgstr "全部组织者"
+
+msgid "All venues"
+msgstr "所有会场"
+
+msgid "All views"
+msgstr "浏览全部"
+
+msgid "All-day"
+msgstr "全天"
+
+msgid "all-day label"
+msgstr "全天标签"
+
+msgid "Allday group"
+msgstr "全天候组"
+
+msgid "Alternate Bootstrap Select"
+msgstr "交替的引导程序选择"
+
+msgid "any time"
+msgstr "任何时间"
+
+msgid "Any user"
+msgstr "API用户"
+
+msgid "API Key"
+msgstr "API密钥"
+
+msgid "Api url"
+msgstr "APi 网址"
+
+msgid "Apply ALL default"
+msgstr "应用所有默认值"
+
+msgid "Apply Default"
+msgstr "应用默认值"
+
+msgid "Apply default Dynamic Tooltip"
+msgstr "应用默认动态提示框"
+
+msgid "Apply default Event Detail Box"
+msgstr "应用默认事件细节盒"
+
+msgid "Apply default to all events"
+msgstr "对所有事件应用默认值"
+
+msgid "Apply default Venue Detail Box"
+msgstr "应用默认地点细节盒"
+
+msgid "Apply filters"
+msgstr "应用筛选"
+
+msgid "Apply the_content filter to the Event page content"
+msgstr "对事件页面内容应用内容筛选"
+
+msgid "apr"
+msgstr "四月"
+
+msgid "April"
+msgstr "四月"
+
+msgid "Arbitrary repeat dates"
+msgstr "任意的重复日期"
+
+msgid "Archive content template"
+msgstr "档案内容模板"
+
+msgid "Archive/Blog layout settings"
+msgstr "档案/博客布局设置"
+
+msgid "Arrow color"
+msgstr "箭头颜色"
+
+msgid "Arrow Icon color"
+msgstr "箭头图标的颜色"
+
+msgid "Arrows Background"
+msgstr "箭背景"
+
+msgid "Ascending"
+msgstr "上升的"
+
+msgid "Aspect ratio"
+msgstr "层面比例"
+
+msgid "at"
+msgstr "在"
+
+msgid "At event end"
+msgstr "在事件结束时"
+
+msgid "Attending Status"
+msgstr "出席状况"
+
+msgid "aug"
+msgstr "八月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Auto Click"
+msgstr "自动点击"
+
+msgid "Auto Hover"
+msgstr "自动悬停"
+
+msgid "Auto Hover and Auto Click are only applicable for Show Event List, day click behavior.  Auto click overrides hover."
+msgstr "自动悬停和自动单击只适用于显示事件列表和“单击”行为。自动点击覆盖悬停。"
+
+msgid "Automatic Calendar content"
+msgstr "自动的日历内容"
+
+msgid "Avarage Text"
+msgstr "普通文本"
+
+msgid "Avatar"
+msgstr "化身"
+
+msgid "Axis format (Also affects day view)"
+msgstr "轴格式（也影响日视图）"
+
+msgid "Back"
+msgstr "后部"
+
+msgid "Back background"
+msgstr "后面的背景"
+
+msgid "Back Container"
+msgstr "后方容器"
+
+msgid "Back Container background"
+msgstr "恢复容器背景"
+
+msgid "Back default color"
+msgstr "恢复默认颜色"
+
+msgid "Back hover color"
+msgstr "背景悬停颜色"
+
+msgid "Backend Event List Taxonomies"
+msgstr "后端事件列表分类"
+
+msgid "Backend jQuery UI version"
+msgstr "后端 jQuery UI版本"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background (hover)"
+msgstr "背景（悬停）"
+
+msgid "Background color"
+msgstr "背景颜色"
+
+msgid "Background Hover"
+msgstr "背景悬停"
+
+msgid "Background image"
+msgstr "背景图像"
+
+msgid "Background matches event color"
+msgstr "背景符合事件颜色"
+
+msgid "Background(Active)"
+msgstr "背景（激活）"
+
+msgid "Bar background"
+msgstr "栏背景"
+
+msgid "Bar bg color"
+msgstr "栏背景颜色"
+
+msgid "Bar color"
+msgstr "栏颜色"
+
+msgid "Bar Text"
+msgstr "栏文本"
+
+msgid "Bar thickness"
+msgstr "栏厚度"
+
+msgid "Basic views"
+msgstr "基础视图"
+
+msgid "Bg, border and tip color"
+msgstr "背景,边框和顶部颜色"
+
+msgid "Bobble color"
+msgstr "泡泡颜色"
+
+msgid "Bobble Font"
+msgstr "泡泡字体"
+
+msgid "Body"
+msgstr "主体"
+
+msgid "Body background"
+msgstr "主体背景"
+
+msgid "Body color"
+msgstr "主体颜色"
+
+msgid "Border"
+msgstr "边框"
+
+msgid "Border bottom color"
+msgstr "底部边框的颜色"
+
+msgid "Border bottom style"
+msgstr "底部边框样式"
+
+msgid "Border color"
+msgstr "边框颜色"
+
+msgid "Border style"
+msgstr "边框风格"
+
+msgid "Border top color"
+msgstr "顶部边距颜色"
+
+msgid "Border top style"
+msgstr "顶部边距风格"
+
+msgid "Both local and external sources"
+msgstr "当地的和外部的资源"
+
+msgid "Bottom Border color"
+msgstr "底部边框颜色"
+
+msgid "Bottom box"
+msgstr "底框"
+
+msgid "Bottom width"
+msgstr "底部宽度"
+
+msgid "Box Background"
+msgstr "框背景"
+
+msgid "Box color"
+msgstr "框颜色"
+
+msgid "Box shadow"
+msgstr "框阴影"
+
+msgid "Bubble"
+msgstr "气泡"
+
+msgid "Bubble bg"
+msgstr "按钮背景"
+
+msgid "Button"
+msgstr "按钮"
+
+msgid "Button Active bg"
+msgstr "按钮激活背景"
+
+msgid "Button Active Hover bg"
+msgstr "按钮激活悬停背景"
+
+msgid "Button Background"
+msgstr "按钮的背景"
+
+msgid "Button Background (hover)"
+msgstr "按钮的背景（悬浮）"
+
+msgid "Button Background Hover"
+msgstr "按钮背景悬停"
+
+msgid "Button Bg"
+msgstr "按钮背景"
+
+msgid "Button Calendar"
+msgstr "按钮 日历"
+
+msgid "Button color"
+msgstr "按钮颜色"
+
+msgid "Button color (hover)"
+msgstr "按钮颜色（悬停）"
+
+msgid "Button color hover"
+msgstr "悬停按钮的颜色"
+
+msgid "Button color open"
+msgstr "按钮颜色开"
+
+msgid "Button day"
+msgstr "按钮 天"
+
+msgid "Button event"
+msgstr "按钮 事件"
+
+msgid "Button Font"
+msgstr "按钮字体"
+
+msgid "Button label"
+msgstr "按钮 标签"
+
+msgid "Button labels"
+msgstr "按钮 标签"
+
+msgid "Button month"
+msgstr "按钮 月"
+
+msgid "Button next"
+msgstr "按钮 下一个"
+
+msgid "Button previous"
+msgstr "按钮 先前的"
+
+msgid "Button Remove bg"
+msgstr "按钮删除背景"
+
+msgid "Button Remove Hover bg"
+msgstr "按钮删除悬停背景"
+
+msgid "Button today"
+msgstr "按钮 今天"
+
+msgid "Button week"
+msgstr "按钮 周"
+
+msgid "Buttons"
+msgstr "按钮"
+
+msgid "by count"
+msgstr "通过总数"
+
+msgid "by date"
+msgstr "通过日期"
+
+msgid "By default allday events are rendered ordered by title.  Choose color to group by color, or by order to use the menu order from the edit event screen."
+msgstr "默认全天事件通过标题命令显示。通过颜色选择团体颜色，或者通过命令来使用编辑事件屏幕的菜单命令"
+
+msgid "By default set to 10080 (1 week).  Represents how long to wait before a cached event query is expired."
+msgstr "默认设置到10080（一周）。表现缓存事件查询到期前要等待多久"
+
+msgid "By default set to 120 (2 hours).  If set too hight, it will take a while do detect new events."
+msgstr "默认设置到120（2小时）。如果设置太高，这将会花费一段时间来查明新事件"
+
+msgid "By default the calendarizeit shortcode only displays one custom post type (events by default), and you need to set the post_type value to show a diferent post type.  Choose yes if you want to display all enabled post types by default."
+msgstr "默认calendarizeit短码仅显示一个自定义文章类型（事件默认），然后你需要设置文章类型值来显示一个不同的文章类型。选择是来默认如果你想展示所有可用的文章类型"
+
+msgid "By default the time interval in the Time picker is set to 60 minutes. You can change this to any other interval by entering a integer value."
+msgstr "默认时间选择工具的时间间隔被设置到了60分钟。你可以进入整数值把它改成任何其他的间隔"
+
+msgid "By event color"
+msgstr "通过事件颜色"
+
+msgid "By event end"
+msgstr "通过事件结束"
+
+msgid "By menu order"
+msgstr "通过菜单命令"
+
+msgid "By title(default)"
+msgstr "通过标题（默认）"
+
+msgid "Cache by user"
+msgstr "用户的缓存"
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Calendar button (filter)"
+msgstr "日历 按钮（筛选）"
+
+msgid "Calendar category slug"
+msgstr "日历 分类目录"
+
+msgid "Calendar day view"
+msgstr "日历 日视图"
+
+msgid "Calendar event list view"
+msgstr "日历 事件细节视图"
+
+msgid "Calendar event list view(Extended details)"
+msgstr "日历 事件列表视图（延伸的细节）"
+
+msgid "Calendar filter box"
+msgstr "日历过滤器"
+
+msgid "Calendar First Day"
+msgstr "日历 第一天"
+
+msgid "Calendar frame"
+msgstr "日历框"
+
+msgid "Calendar header"
+msgstr "日历标题"
+
+msgid "Calendar labels"
+msgstr "日历标签"
+
+msgid "Calendar Loop"
+msgstr "日历 环"
+
+msgid "Calendar month view"
+msgstr "日历月视图"
+
+msgid "Calendar Name"
+msgstr "日历名称"
+
+msgid "Calendar plugin update %s is available! <a href='%s'>Please update now</a>"
+msgstr "日历插件更新 %s可获得！<a href='%s'>请现在更新</a>"
+
+msgid "Calendar URL"
+msgstr "日历的网址"
+
+msgid "Calendar url(optional)"
+msgstr "日历网址（可选的）"
+
+msgid "Calendar week view"
+msgstr "日历周视图"
+
+msgid "Calendar Widget links to Page"
+msgstr "日历小部件链接到页面"
+
+msgid "Calendar widget: Selet a page, to which the calendar widget will take the user when clicked.  Usually a page containing the calendarizeit shortcode."
+msgstr "日历小部件：选择一个页面，当点击时日历小部件会把页面呈现给用户。一个页面经常会包含calendarizeit短码"
+
+msgid "Calendarize"
+msgstr "日历"
+
+msgid "Calendarize (Events calendar)"
+msgstr "日历（事件日历）"
+
+msgid "Calendarize (Upcoming Events)"
+msgstr "日历（即将到来的事件）"
+
+msgid "Calendarize %s"
+msgstr "日历 %s"
+
+msgid "Calendarize It"
+msgstr "“记入日历备忘录”"
+
+msgid "Calendarize It version"
+msgstr "“记入日历备忘录”版本"
+
+msgid "Calendarize It!"
+msgstr "“记入日历备忘录”"
+
+msgid "Calendarize it! add-ons"
+msgstr "“记入日历备忘录”！附加软件"
+
+msgid "Calendarize it! Automatic Setup"
+msgstr "“记入日历备忘录”！自动的安装程序"
+
+msgid "Calendarize It! images"
+msgstr "“记入日历备忘录”!图像"
+
+msgid "Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue Details Box (Image and Map Left without Box)"
+msgstr "“记入日历备忘录”!').' - '.__( '自定义事件细节盒和自定义地点细节盒（图像和地图左不包括盒子）"
+
+msgid "Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue Details Box (Image and Map Left)"
+msgstr "“记入日历备忘录”!').' - '.__( '自定义事件细节盒和自定义地点细节盒（图像和地图左）"
+
+msgid "Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue Details Box (Image and Map Right without Box)"
+msgstr "“记入日历备忘录”').' - '.__( '自定义事件细节盒和自定义地点细节盒（图像和地图右侧不包括盒子）"
+
+msgid "Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue Details Box (Image and Map Right)"
+msgstr "“记入日历备忘录”!').' - '.__( '自定义事件细节盒和自定义地点细节盒（图像和地图右）"
+
+msgid "Calendarize it!').' - '.__( 'Default Event Details Box and Default Venue Details Box"
+msgstr "“记入日历备忘录”!').' - '.__( '默认事件细节盒和默认地点细节盒"
+
+msgid "Calendarize it!').' - '.__( 'Organizer Details Box (Image Left)"
+msgstr "“记入日历备忘录”!').' - '.__( '组织者细节盒（图左）"
+
+msgid "Calendarize it!').' - '.__( 'Organizer Details Box (Image Right)"
+msgstr "“记入日历备忘录”!').' - '.__( '组织者细节盒（图右）"
+
+msgid "Calendarize it!').' - '.__( 'Venue Details Box (Map Left)"
+msgstr "“记入日历备忘录”!').' - '.__( '地点细节盒（地图左）"
+
+msgid "Calendarize it!').' - '.__( 'Venue Details Box (Map Right)"
+msgstr "把它记到备忘录上!').' - '.__( '地点细节盒（地图右）"
+
+msgid "Calendarize metabox"
+msgstr "备忘日历元模板"
+
+msgid "Calendarize shortcode"
+msgstr "日历备忘短码"
+
+msgid "Calendarize taxonomies"
+msgstr "日历备忘分类"
+
+msgid "Calendarize taxonomies (Calendar, Organizer, Venues, Addons)can be enabled for other post types.  Check the post types, where you want the taxonomy to be enabled."
+msgstr "日历备忘录分类（日历，组织者，地点，附加组件）可适用于其他文章类型。检查文章类型，你想在哪里启用分类系统"
+
+msgid "Calendarize Templates"
+msgstr "日历备忘模板"
+
+msgid "Calendarize-it"
+msgstr "“记入日历备忘录”"
+
+msgid "Calendarizer metabox can be enabled for other post types.  Check the post types, where you want the calendar metabox to be displayed."
+msgstr "备忘日历元模板可以适用于其他文章类型。检查文章类型，你想在哪里展示日历元模板。"
+
+msgid "Calendars"
+msgstr "日历"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Cause: A third party plugin(or the theme) is crashing in the save_post action hook and not letting the calendar generate required metadata."
+msgstr "原因：第三方插件（或主题）在保存活动项中崩溃并不允许日历生成所需数据变化。"
+
+msgid "CE End Message"
+msgstr "CE端的消息"
+
+msgid "Cell Background"
+msgstr "单元格的背景"
+
+msgid "Center"
+msgstr "中心"
+
+msgid "Center header"
+msgstr "中心标题"
+
+msgid "Change the labels of the buttons in the calendar top controls.  Please observe that this will overwrite localization, so if you are using multiple languages, leave this fields empty."
+msgstr "在日历顶层控制中改变按钮标签。请注意这会超写本地设置，所以如果您正在使用多语言，请置此区域为空。"
+
+msgid "Check calendar visibility"
+msgstr "选中日历可见"
+
+msgid "Check color"
+msgstr "检查颜色"
+
+msgid "Check days that you do NOT want to show."
+msgstr "选中您不想显示的日期。"
+
+msgid "Check months that you do NOT want to show. Pressing prev or next button in calendar will skip to the next available month."
+msgstr "选中您不想显示的月份。按上一页或日历中的下一个按钮会跳到下一个可获取月份。"
+
+msgid "Check no to remove the default taxonomies from the filtering bar."
+msgstr "从筛选栏内移除默认分类，选中否。"
+
+msgid "Check post types for wich you want to enable the Calendarize It! image metaboxes."
+msgstr "选中您想要启用的Calendarize It!图像变化盒的公布类型。"
+
+msgid "Check post types for wich you want to enable the detail box metabox."
+msgstr "选中您想要启用的细节变化盒的公布类型。"
+
+msgid "Check taxonomies that you would like to remove from the backend event list."
+msgstr "选中您想从终端事件列表移除的分类。"
+
+msgid "Check the conditions to test for displaying the shortcode.  Leave empty to display everywhere, included feeds and trackbacks."
+msgstr "检查此条款来检验显示短码。显示所有，包括支持与反馈，请置为空。"
+
+msgid "Check the post type name for wich you want to enable the custom taxonomy."
+msgstr "为您想要启用的自定义分类选中公布类型名称。"
+
+msgid "Check this option if you do not want events to show in search results."
+msgstr "如果您不想让事件显示在搜索结果里，选中此选项。"
+
+msgid "Check this option if you do not want the calendar events to link to a single event page."
+msgstr "如果您不想让日历事件与单一事件页面连接，检查此选项。"
+
+msgid "Check this option to display events from the logged in user."
+msgstr "检查此选项以显示已登录用户的事件。"
+
+msgid "Check this option to display events from the logged in user.  Observe that you need to go to Calendarize It! (menu) -> Options (submenu) -> Events cache (tab) and enable 'Cache by user' (yes)."
+msgstr "检查此选项以显示已登录用户的事件。观察您需要前往“记入日历备忘录” (菜单) -> Options (子菜单) -> Events cache (标签) 并启用 'Cache by user' (yes)."
+
+msgid "Check this option to display recurring instances of the current post.  Expected inside a loop (get_the_ID)."
+msgstr "检查此选项以显示当前发布的重复案例。循环内预期（获取身份）。"
+
+msgid "Check this option to output without detail box html wrappers.  Ignores the label field."
+msgstr "检查此选项输出无 html 细节包装器。忽略标签区。"
+
+msgid "Check to add rel='nofollow' to the website link"
+msgstr "检查以向网页链接添加rel='nofollow'"
+
+msgid "Check to just show the url, no link wrap."
+msgstr "检查仅显示url，无链接包装。"
+
+msgid "Checkmark color"
+msgstr "复选标记颜色"
+
+msgid "Choose a taxonomy and terms to filter events."
+msgstr "筛选事件选择一个分类及条款。"
+
+msgid "Choose color"
+msgstr "选择颜色"
+
+msgid "Choose no if you dont want the event titles to render.  This is to be used in combination with the match background option.  Only applicable to month view."
+msgstr "如果您不想排列事件名，选择否。这可以在结合合适的背景选项使用。只对月视图适用。"
+
+msgid "Choose no if you dont want to use the custom layout that can be set on the event edit page."
+msgstr "如果您不想使用设置在事件编辑页面的自定义布局，选择否。"
+
+msgid "Choose No in sites with too many users so that an open text field is shown in the Upcoming Events Widget settings instead of a dropdon for the author attribute."
+msgstr "在有过多用户的网址内选择否以便于公开文件区域可被显示于即将发生事件部件设置中而不是作者属性的一项dropdon。"
+
+msgid "Choose post types to include in the calendar."
+msgstr "选择公布类型以包含于日历中。"
+
+msgid "Choose post types to include in the list."
+msgstr "选择公布类型以包含于此列表。"
+
+msgid "Choose yes if only want to display upcoming events."
+msgstr "如果您想要显示即将发生事件，选择是。"
+
+msgid "Choose yes if permalinks are not working.  It will attempt an alternative method of adding rewrite rules."
+msgstr "如果永久链接不工作的话选择是。它会试用一个添加重写规则的代替体系。"
+
+msgid "Choose yes if the calendar is rendered but events are not showing.  You can verify the browser console, and check if the ajax dat is returned with a php warning.  If that is the case, turning on this option will try to catch and discard the warning so it doesnt breaks the expected calendar data."
+msgstr "如果日历已递交而事件未显示，选择是。您可以确认浏览控制台，并检查是否php警告的发生被ajax dat 回应。如果是这样，打开此选项会尝试捕捉或放弃警告所以它不会破坏引起的日历数据。"
+
+msgid "Choose yes if you are using another plugin or if the theme loads google maps api in wp-admin."
+msgstr "如果您使用另一插件或主题在wp管理内下载谷歌地图应用程序界面，选择是。"
+
+msgid "Choose yes if you are using another plugin or if the theme loads google maps api."
+msgstr "如果您使用另一插件或主题下载谷歌地图应用程序界面，选择是。"
+
+msgid "Choose yes if you are using the Accordion Upcoming Events widget, and the google map is not showing in the widget content."
+msgstr "如果您正在使用对应的即将发生事件部件，并且谷歌地图未显示在部件内容时，选择是。"
+
+msgid "Choose yes if you do not want the time to be rendered."
+msgstr "如果您不想表示时间，选择是。"
+
+msgid "Choose yes if you only want Calendarize it! scripts to load when required."
+msgstr "如果您需要时想要加载Calendarize it!脚本，选择是。"
+
+msgid "Choose yes if you want the day cell match the background color of the event."
+msgstr "如果您需要白天设置与事件背景色匹配，选择是。"
+
+msgid "Choose yes if you want this plugin scripts loaded in the footer."
+msgstr "如果您想要此插件脚本在页脚加载出来，选择是。"
+
+msgid "Choose yes if you want to make taxonomies hyperlinks.  Example venue will be a link to the venue page."
+msgstr "如果您想制作分类的超链接选择是。案例将成为地点页面的链接。"
+
+msgid "Choose yes if you want to remove past weeks from the Month view.  Only applicable when Upcoming only is also enabled."
+msgstr "如果您想从月视图中移除过去几周的内容选择是。仅启用即将发生的事件时才可用。"
+
+msgid "Choose yes only if the thumbnail metabox is not showing when you edit event.  Usually themes enable this."
+msgstr "当您编辑事件时只要缩略变化盒未显示就选择是。只有主题支持此操作。"
+
+msgid "Choose yes only if you are getting a 404 page when trying to get an event page."
+msgstr "当试图获取事件页面时只要您获取到一个404页面就选择是。"
+
+msgid "Choose yes to add a search field to the calendar filter dialog."
+msgstr "选择 是 向日历筛选目录添加搜索区域。"
+
+msgid "Choose yes to avoid loading the bundled bootstrap."
+msgstr "选择是避免加载捆绑辅助程序。"
+
+msgid "Choose yes to display a debug menu.  This provide technical information that support can use to troubleshoot problems."
+msgstr "选择是以显示调试菜单。这提供支持故障排除的技术信息。"
+
+msgid "Choose yes to enable inserting the 'Month view image' in events that has this image set.  Then 'Month view image' is set in a metabox when editing an event.  The metabox has to be enabled separately on the next option."
+msgstr "选择是以支持在有此图像设置的事件中插入“月视图图像”。然后当编辑事件时“月视图图像”被设置在变化盒中。在下一选项内变化盒可被独立支持。"
+
+msgid "Choose yes to enable the 'Month view image' metabox."
+msgstr "选择是以支持“月视图图像”变化。"
+
+msgid "Choose yes to limit the terms listed under a taxonomy in the taxonomy filter.  For example, lets say that the calendar is configured to only show events from the 'Sports' category, the filter will only display terms that contains events and that are children of the 'Sports' term."
+msgstr "选择是来限制在分类筛选中被列入分类的条款。例如，我们说日历配置为仅显示“体育”分类内的事件，筛选将只会显示包含“体育”事件或体育的子事件的条款。"
+
+msgid "Choose yes to load javascript and css files that are not minified, for easier debugging."
+msgstr "选择是加载 javascript及未被缩小的css文件，更方便调试。"
+
+msgid "Choose yes to only show events with the same taxonomy and term as the loaded page.  Used on venue template content."
+msgstr "选择是在加载页面上仅显示拥有相同的分类和条款的事件。在地点模板内容上使用。"
+
+msgid "Choose yes to only show the first event in a recurring set."
+msgstr "选择是仅显示重复设置中的第一个事件"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Class"
+msgstr "类别"
+
+msgid "Class:"
+msgstr "等级"
+
+msgid "clear"
+msgstr "清除"
+
+msgid "Clear all event colors"
+msgstr "清除所有事件颜色"
+
+msgid "Clear all event colors."
+msgstr "清除所有事件颜色"
+
+msgid "Clear button"
+msgstr "清除按钮"
+
+msgid "Clear Cache"
+msgstr "清除缓存"
+
+msgid "Clear event colors."
+msgstr "清除事件颜色"
+
+msgid "clear value"
+msgstr "清除值"
+
+msgid "Click confirm to continue with the automatic setup process:"
+msgstr "单击确定继续自动安装过程"
+
+msgid "Click links to"
+msgstr "点击链接到"
+
+msgid "Click to clear calendar ajax cache."
+msgstr "点击清除日历 交互式缓存"
+
+msgid "Click to fix"
+msgstr "点击恢复"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close button color"
+msgstr "关闭按钮的颜色"
+
+msgid "Close dialog"
+msgstr "关闭对话框"
+
+msgid "Close Icon"
+msgstr "关闭图标"
+
+msgid "Close icon color"
+msgstr "关闭图标的颜色"
+
+msgid "Close on event title leave"
+msgstr "允许事件标题关闭"
+
+msgid "colon"
+msgstr "冒号"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Color H1"
+msgstr "颜色H1"
+
+msgid "Color H2"
+msgstr "颜色H2"
+
+msgid "Column label"
+msgstr "列标签"
+
+msgid "comma"
+msgstr "逗号"
+
+msgid "Comma separated numeric values.  0 for sunday, 1 for monday, 2 for tuesday, 3 for wednsday, 4 for thursday, 5 for friday, 6 for saturday"
+msgstr "逗号分隔数值，0为周日，1为周一，2为周二，3为周三，4为周四，5为周五，6为周六"
+
+msgid "Comma separated term slug. (Not label)"
+msgstr "逗号分隔条款块"
+
+msgid "Communication with RightHere Version/Updates/DLC service"
+msgstr "和本版本/上传/数据链路控制服务器交流"
+
+msgid "Community Events"
+msgstr "社区事件"
+
+msgid "Community Events URL"
+msgstr "社区事件网址"
+
+msgid "Compatibility fixes"
+msgstr "兼容补丁"
+
+msgid "Conditional Content"
+msgstr "条件内容"
+
+msgid "Conditional Render"
+msgstr "有条件的引用"
+
+msgid "Conditions"
+msgstr "条件"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Connection with RightHere service successful."
+msgstr "成功和RightHere服务器关联"
+
+msgid "Contact Details"
+msgstr "联系方式"
+
+msgid "Container"
+msgstr "容器"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Content bg color"
+msgstr "内容背景色"
+
+msgid "Content font"
+msgstr "内容字体"
+
+msgid "Content size / Image size"
+msgstr "内容大小/图像大小"
+
+msgid "Content to display if conditions are met."
+msgstr "如果条件满足则显示内容"
+
+msgid "Copy feed url to clipboard"
+msgstr "复制输入网址到剪贴板"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Country ISO3166 code"
+msgstr "国家  ISO(国际标准化组织)3166代码"
+
+msgid "Course"
+msgstr "路线"
+
+msgid "Courses"
+msgstr "路线"
+
+msgid "Create a Calendar page with the Calendarize it! shortcode."
+msgstr "创建一个关于备忘日历的日历页面！短码"
+
+msgid "Create Button Background"
+msgstr "创建按钮的背景"
+
+msgid "Create Button Bg"
+msgstr "创建按钮的背景"
+
+msgid "Create Button Hover"
+msgstr "创建按钮悬停"
+
+msgid "Create Event and Venue templates."
+msgstr "创建事件和地点模板"
+
+msgid "CSS Editor"
+msgstr "兼容式编辑器"
+
+msgid "Current day"
+msgstr "当天"
+
+msgid "Current day background"
+msgstr "当天的背景"
+
+msgid "Current event recurring instances"
+msgstr "当前时间循环事例"
+
+msgid "Current pages using the shortcode"
+msgstr "当前页面使用短码"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Custom Days per page(optional)"
+msgstr "每一页的自定义日期（可选择的）"
+
+msgid "Custom Details Box"
+msgstr "自定义详情框"
+
+msgid "Custom Details Boxes"
+msgstr "自定义详情框"
+
+msgid "Custom fields"
+msgstr "自定义域"
+
+msgid "Custom Label"
+msgstr "自定义标记"
+
+msgid "Custom Links"
+msgstr "自定义链接"
+
+msgid "Custom Post Types"
+msgstr "自定义文章类型"
+
+msgid "Custom taxonomies template "
+msgstr "自定义分类模板"
+
+msgid "Custom taxonomies:"
+msgstr "自定义分类"
+
+msgid "Custom template"
+msgstr "自定义模板"
+
+msgid "Custom template ( %s )"
+msgstr "自定义模板 ( %s )"
+
+msgid "Custom:"
+msgstr "自定义："
+
+msgid "Customize date and time formats"
+msgstr "自定义日期和时间格式"
+
+msgid "Customize event fields"
+msgstr "自定义事件域"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date font"
+msgstr "日期字体"
+
+msgid "Date format"
+msgstr "日期格式"
+
+msgid "Date label"
+msgstr "日期标签"
+
+msgid "Date label background"
+msgstr "日期标签背景"
+
+msgid "Date label border"
+msgstr "日期标签边框"
+
+msgid "Date label sides"
+msgstr "日期标签两侧"
+
+msgid "date name, full"
+msgstr "日期名，全写"
+
+msgid "date name, short"
+msgstr "日期名，简写"
+
+msgid "date number"
+msgstr "日期数"
+
+msgid "date number, 2 digits"
+msgstr "日期数，2位数"
+
+msgid "Date range"
+msgstr "日期范围"
+
+msgid "Date range font"
+msgstr "日期范围字体"
+
+msgid "Date shortcodes default format"
+msgstr "日期短码默认格式"
+
+msgid "Date with time format"
+msgstr "日期和时间格式"
+
+msgid "Date/Time"
+msgstr "日期/时间"
+
+msgid "Date/time format"
+msgstr "日期/时刻格式"
+
+msgid "Dates"
+msgstr "日期"
+
+msgid "Datetime format"
+msgstr "日期格式"
+
+msgid "Datetime, date and time format in this tab only applies to the start and end meta fields (start datetime, start date, start time, end datetime, end date, end time).  Because this values are rendered server side they follow the php <a href='http://php.net/manual/en/function.date.php'>date formatting syntax</a>."
+msgstr "Datetime,日期和时间格式选项卡只适用于开始和结束元字段，（开始Datetime，开始日期，开始时刻，结束Datetime，结束日期，结束时刻），因为这些值被服务器端引用，他们遵循 php <a href='http://php.net/manual/en/function.date.php'>date formatting syntax</a>."
+
+msgid "Day"
+msgstr "天"
+
+msgid "Day click behavior"
+msgstr "日点击行为"
+
+msgid "Day font"
+msgstr "日字体"
+
+msgid "Day font shadow"
+msgstr "日字体阴影"
+
+msgid "Day label"
+msgstr "日标签"
+
+msgid "Day names"
+msgstr "日期名"
+
+msgid "Day number"
+msgstr "日数"
+
+msgid "Day view column"
+msgstr "日视图栏"
+
+msgid "Day view title"
+msgstr "日视图标题"
+
+msgid "Day with event"
+msgstr "日事件"
+
+msgid "day(s)"
+msgstr "日期"
+
+msgid "Days ahead to show(optional)"
+msgstr "还未显示的日期（可选择的）"
+
+msgid "Days in the past"
+msgstr "过去的日期"
+
+msgid "days of the month"
+msgstr "月份的天数"
+
+msgid "days of the week"
+msgstr "一周七日"
+
+msgid "ddd"
+msgstr "ddd"
+
+msgid "ddd M/d"
+msgstr "ddd M/d"
+
+msgid "ddd MMMM d, yyyy"
+msgstr "ddd MMMM d, yyyy"
+
+msgid "ddd MMMM d, yyyy h:mm TT"
+msgstr "ddd MMMM d, yyyy h:mm TT"
+
+msgid "dddd M/d"
+msgstr "dddd M/d"
+
+msgid "dddd MMMM d, yyyy"
+msgstr "dddd MMMM d, yyyy"
+
+msgid "dddd MMMM d, yyyy."
+msgstr "dddd MMMM d, yyyy."
+
+msgid "dddd MMMM d, yyyy. h:mmtt"
+msgstr "dddd MMMM d, yyyy. h:mmtt"
+
+msgid "dddd, MMM d, yyyy"
+msgstr "dddd, MMM d, yyyy"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Debug css and javascript"
+msgstr "调试层叠样式表和 java脚本"
+
+msgid "dec"
+msgstr "十二月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default calendar settings"
+msgstr "默认日历设置"
+
+msgid "Default columns"
+msgstr "默认塔器"
+
+msgid "Default day names:"
+msgstr "默认日名称"
+
+msgid "Default Details Boxes"
+msgstr "默认详情框"
+
+msgid "Default event"
+msgstr "默认事件"
+
+msgid "Default event fields"
+msgstr "默认事件域"
+
+msgid "Default font"
+msgstr "默认字体"
+
+msgid "Default font family"
+msgstr "默认字体库"
+
+msgid "Default fonts"
+msgstr "默认字体"
+
+msgid "default format"
+msgstr "默认格式"
+
+msgid "Default layout options"
+msgstr "默认布局选项"
+
+msgid "Default layout options values to use when adding events."
+msgstr "当添加事件时，默认使用布局选项值"
+
+msgid "Default month names:"
+msgstr "默认月名称"
+
+msgid "Default post info fields"
+msgstr "默认邮件信息字段"
+
+msgid "Default short day names:"
+msgstr "默认略写日名称"
+
+msgid "Default short month names:"
+msgstr "默认略写月名称"
+
+msgid "Default Template"
+msgstr "默认模板"
+
+msgid "Default title"
+msgstr "默认标题"
+
+msgid "Default view"
+msgstr "默认视图"
+
+msgid "Defaults to: <b>month,agendaWeek,agendaDay,rhc_event</b>. Also available: basicWeek"
+msgstr "默认为：<b>month,agendaWeek,agendaDay,rhc_event</b>. Also available: basicWeek"
+
+msgid "Delete events"
+msgstr "删除事件"
+
+msgid "Delete others events"
+msgstr "删除其他事件"
+
+msgid "Delete private events"
+msgstr "删除私人的事件"
+
+msgid "Delete published events"
+msgstr "删除已发布事件"
+
+msgid "Descending"
+msgstr "下行的"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Description font"
+msgstr "描述字体"
+
+msgid "Description font shadow"
+msgstr "描述字体阴影"
+
+msgid "Description Line height"
+msgstr "描述行的高度"
+
+msgid "detail"
+msgstr "详情"
+
+msgid "Detail box background"
+msgstr "详细信息框背景"
+
+msgid "Detail box container"
+msgstr "详细信息框容器"
+
+msgid "Detail box image"
+msgstr "详细框图像"
+
+msgid "Detail boxes (default)"
+msgstr "详细信息框(默认)"
+
+msgid "Detailed Event Page Template"
+msgstr "详细的事件页面模板"
+
+msgid "Details box"
+msgstr "详细信息框"
+
+msgid "Details box background"
+msgstr "详细信息框背景"
+
+msgid "Details box image"
+msgstr "详细信息框图像"
+
+msgid "Details for google map"
+msgstr "谷歌地图详情"
+
+msgid "Details Link"
+msgstr "详细信息链接"
+
+msgid "Determines how much time an event can get past midnight without displaying it on that day."
+msgstr "确定没有在白天显示午夜一个事件通过需要多长时间。"
+
+msgid "Determines the number of weeks displayed in the calendar."
+msgstr "确定显示在日历中的周数字"
+
+msgid "Dialog description"
+msgstr "对话框类型"
+
+msgid "Dialog title"
+msgstr "对话框标题"
+
+msgid "Dialog width"
+msgstr "对话框宽度"
+
+msgid "Disable %s taxonomy"
+msgstr "禁用 %s分类"
+
+msgid "Disable Archive Template"
+msgstr "禁用公文模板"
+
+msgid "Disable bootstrap"
+msgstr "禁用辅助程序"
+
+msgid "Disable calendarize taxonomies"
+msgstr "禁用日历备忘分类"
+
+msgid "Disable calendarize templates if you want to use the theme templates.  Observe that meta data like maps, venue and extra info will need to be added manually throught shortcodes."
+msgstr "如果您想使用这个主题模板您需要禁用日历备忘模板，注意，像地图，地点以及额外的信息您将需要通过短码手动添加。"
+
+msgid "Disable comments on all events."
+msgstr "所以事件中的无效注解"
+
+msgid "Disable Event Comments"
+msgstr "无效事件注解"
+
+msgid "Disable event link"
+msgstr "无效事件链接"
+
+msgid "Disable event search"
+msgstr "无效事件检索d"
+
+msgid "Disable Event Template"
+msgstr "无效的事件模板"
+
+msgid "Disable events cache"
+msgstr "无效的加载事件"
+
+msgid "Disable iCal UTC"
+msgstr "禁用互联网日历世界时间"
+
+msgid "Disable linked taxonomy %s"
+msgstr "禁用链接的分类 %s"
+
+msgid "Disable loading google map api"
+msgstr "禁止加载谷歌地图应用界面"
+
+msgid "Disable loading google map api in wp-admin"
+msgstr "在维基浏览中禁止加载谷歌地图应用界面"
+
+msgid "Disable months"
+msgstr "禁用月份"
+
+msgid "Disable print css"
+msgstr "废止的打印样式"
+
+msgid "Disable single character day label"
+msgstr "禁用单个字符的日标签"
+
+msgid "Disable static event list."
+msgstr "废止的静态事件列表"
+
+msgid "Disable taxonomy %s"
+msgstr "禁用分类 %s"
+
+msgid "Disable Taxonomy Template"
+msgstr "禁用的分类模板"
+
+msgid "Disable title link"
+msgstr "废止的标题链接"
+
+msgid "disabled"
+msgstr "被禁用的"
+
+msgid "Display events authored by the user that is logged in."
+msgstr "显示被已登录用户授权的事件"
+
+msgid "Display navigation controls."
+msgstr "显示导航控件"
+
+msgid "Display recurring events."
+msgstr "显示重复事件"
+
+msgid "Divider Bottom Color"
+msgstr "分频器底部的颜色"
+
+msgid "Divider Color"
+msgstr "分频器的颜色"
+
+msgid "Divider Top Color"
+msgstr "分压器顶部的颜色"
+
+msgid "Do not load bundled jQuery UI"
+msgstr "不再负载捆绑jQuery UI"
+
+msgid "Do not show this message again"
+msgstr "不再显示这个信息"
+
+msgid "Donation Dropdown"
+msgstr "捐赠的下拉列表"
+
+msgid "done"
+msgstr "已完成的"
+
+msgid "Door animation"
+msgstr "门动画"
+
+msgid "Door image"
+msgstr "门图像"
+
+msgid "dot"
+msgstr "点"
+
+msgid "Download ICS file"
+msgstr "已下载的共享文件"
+
+msgid "Downloadable content - Calendarize it! for WordPress"
+msgstr "可下载内容 - “记入日历备忘录” 用于WordPress"
+
+msgid "Downloads"
+msgstr "下载"
+
+msgid "downloads."
+msgstr "下载"
+
+msgid "Dropdown default color"
+msgstr "下拉菜单默认颜色"
+
+msgid "Dropdown Filter"
+msgstr "下拉过滤器"
+
+msgid "Dropdown Hover color"
+msgstr "下拉悬停颜色"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit %s"
+msgstr "编辑%s"
+
+msgid "Edit calendar"
+msgstr "编辑日历"
+
+msgid "Edit event"
+msgstr "编辑事件"
+
+msgid "Edit events"
+msgstr "编辑事件"
+
+msgid "Edit Organizer"
+msgstr "编辑组织者"
+
+msgid "Edit others events"
+msgstr "编辑其他事件"
+
+msgid "Edit published events"
+msgstr "编辑已发布事件"
+
+msgid "Edit venue"
+msgstr "编辑地点"
+
+msgid "Editable sections urls"
+msgstr "可编辑部分网址"
+
+msgid "Email"
+msgstr "邮件"
+
+msgid "Email:"
+msgstr "邮件："
+
+msgid "Enable add-ons."
+msgstr "启动附件"
+
+msgid "Enable ajax data shrink"
+msgstr "启动 ajax数据收缩"
+
+msgid "Enable and configure event ajax caching."
+msgstr "启用和配置事件ajax缓存"
+
+msgid "Enable automatic microdata (Event)"
+msgstr "启动自动微数据（事件）"
+
+msgid "Enable cache for external sources"
+msgstr "为外源启动高速缓冲存储器"
+
+msgid "Enable calendar end point"
+msgstr "启用日历终端"
+
+msgid "Enable calendar metabox for other post types."
+msgstr "支持其他公布类型的日历表。"
+
+msgid "Enable calendarize-it taxonomies"
+msgstr "有效日历备忘分类"
+
+msgid "Enable custom details layout"
+msgstr "有效自定义详细布局"
+
+msgid "Enable debug"
+msgstr "允许错误调试"
+
+msgid "Enable icalendar button"
+msgstr "支持日历按钮"
+
+msgid "Enable mouse wheel google map zoom "
+msgstr "支持鼠标滚轮缩放谷歌地图"
+
+msgid "Enable notifications on non options pages."
+msgstr "无选项页面上是有效通知"
+
+msgid "Enable opengraph headers"
+msgstr "有效公开图表标题"
+
+msgid "Enable search field"
+msgstr "有效查找域"
+
+msgid "Enable term link"
+msgstr "有效项链接"
+
+msgid "Enable thumbnail support"
+msgstr "有效缩略图支撑"
+
+msgid "Enable Visual Composer module"
+msgstr "有效可视化设计者模块"
+
+msgid "Enable week numbers"
+msgstr "有效周数"
+
+msgid "Enables displaying week numbers on the calendar views."
+msgstr "使星期数能够日历视图中显示"
+
+msgid "End"
+msgstr "结束"
+
+msgid "End count"
+msgstr "最后计数"
+
+msgid "End date"
+msgstr "截止日期"
+
+msgid "End Date &amp; Time"
+msgstr "截止日期和时间"
+
+msgid "End date(all-day)"
+msgstr "截止日期（一整天）"
+
+msgid "End datetime"
+msgstr "结束日期"
+
+msgid "End repeat"
+msgstr "结束重复"
+
+msgid "End time"
+msgstr "结束时间"
+
+msgid "Error Alert Box"
+msgstr "错误提示框"
+
+msgid "Error trying to create cache table."
+msgstr "有错误试图创建缓存表格"
+
+msgid "Error, left border color"
+msgstr "错误，左边框颜色"
+
+msgid "Event"
+msgstr "事件"
+
+msgid "Event cache is active by default, choose yes to turn off the server side events cache."
+msgstr "在默认情况下事件会高速缓存,选择yes以关闭服务器端事件缓存"
+
+msgid "Event click behavior"
+msgstr "事件点击行为"
+
+msgid "Event color"
+msgstr "事件颜色"
+
+msgid "Event container"
+msgstr "事件容器"
+
+msgid "Event Detail Box Image"
+msgstr "事件详细框图像"
+
+msgid "Event details"
+msgstr "事件详情"
+
+msgid "Event Details Box"
+msgstr "事件详细框"
+
+msgid "Event Details Box Image"
+msgstr "事件详细框图像"
+
+msgid "Event Excerpt"
+msgstr "事件摘录"
+
+msgid "Event Featured Image"
+msgstr "事件特定图像"
+
+msgid "Event fields"
+msgstr "事件域"
+
+msgid "Event Font"
+msgstr "事件字体"
+
+msgid "Event Image"
+msgstr "事件影像"
+
+msgid "Event list"
+msgstr "事件列表"
+
+msgid "Event list layout"
+msgstr "事件列表布局"
+
+msgid "Event list view"
+msgstr "事件列表视图"
+
+msgid "Event list/tooltip image size"
+msgstr "事件列表/提示框图片尺寸"
+
+msgid "Event Page Top Image"
+msgstr "事件页面顶部图像"
+
+msgid "Event popup (click on calendar event)"
+msgstr "事件弹出窗口（点击日历事件）"
+
+msgid "Event post type comments."
+msgstr "事件自定义文章类型注解"
+
+msgid "Event start (YYYY-mm-dd)"
+msgstr "事件开头 (年月日****-**-**)"
+
+msgid "Event taxonomies:"
+msgstr "事件分类："
+
+msgid "Event template does not have any meta data."
+msgstr "没有很多元数据的事件模板"
+
+msgid "Event template meta data"
+msgstr "事件模板元数据"
+
+msgid "Event template not set"
+msgstr "未设置事件模板"
+
+msgid "Event Tickets Box"
+msgstr "事件票框"
+
+msgid "Event time font"
+msgstr "事件时间字体"
+
+msgid "Event time format"
+msgstr "事件时间格式"
+
+msgid "Event Title"
+msgstr "事件标题"
+
+msgid "Event title font"
+msgstr "事件标题字体"
+
+msgid "Event, Venue & Tooltip Details Box Layout"
+msgstr "事件，地点和提示信息详细框布局"
+
+msgid "Events"
+msgstr "事件"
+
+msgid "Events & Venue Detail box"
+msgstr "事件和地点详情框"
+
+msgid "Events ajax"
+msgstr "事件创建交互式 "
+
+msgid "Events archive is listed in the order of publishing, not event date.  Also recurring instances do not show.  Its for sites that what to display events as rendered by the theme."
+msgstr "事件存档被列入发布指令，不是事件日期。重现实例也不会显示出来。它按照主题要求分地址显示事件。"
+
+msgid "Events archive slug"
+msgstr "事件存档类型"
+
+msgid "Events cache"
+msgstr "事件缓存"
+
+msgid "Events calendar"
+msgstr "事件日历"
+
+msgid "Events list"
+msgstr "事件列表"
+
+msgid "Events Map View"
+msgstr "事件视图"
+
+msgid "Events post type slug"
+msgstr "事件公布类型块"
+
+msgid "Events template"
+msgstr "事件模板"
+
+msgid "Every 2 weeks"
+msgstr "每2周"
+
+msgid "Every day"
+msgstr "每天"
+
+msgid "Every month"
+msgstr "每月"
+
+msgid "Every week"
+msgstr "每周"
+
+msgid "Every year"
+msgstr "每年"
+
+msgid "Excerpt"
+msgstr "摘录"
+
+msgid "Exclude"
+msgstr "排除"
+
+msgid "Exclude this date.  Only applicable with recurring events"
+msgstr "排除这个日期，仅适用于重复事件"
+
+msgid "Excluded dates"
+msgstr "排除日期"
+
+msgid "Excluded dates are only applicable when using recurring events."
+msgstr "排除日期仅在使用重复事件时可用"
+
+msgid "Expiration minutes"
+msgstr "过期时间"
+
+msgid "External sources cache"
+msgstr "外源缓存"
+
+msgid "External Sources Expiration minutes"
+msgstr "外源过期时间"
+
+msgid "F j, Y"
+msgstr "F j, Y"
+
+msgid "Facebook"
+msgstr "脸谱网"
+
+msgid "Facebook bg"
+msgstr "脸谱网背景"
+
+msgid "Facebook default color"
+msgstr "脸谱网默认颜色"
+
+msgid "Facebook font"
+msgstr "脸谱网字体"
+
+msgid "Facebook hover"
+msgstr "脸谱网悬停"
+
+msgid "Facebook Hover color"
+msgstr "脸谱网悬停颜色"
+
+msgid "Facebook Icon color"
+msgstr "脸谱网图标的颜色"
+
+msgid "fc_range_set meta data"
+msgstr "fc_range_set 元数据"
+
+msgid "Feature Access"
+msgstr "特色通路"
+
+msgid "feb"
+msgstr "二月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "Field labels"
+msgstr "字段标签"
+
+msgid "Fields"
+msgstr "字段"
+
+msgid "File cache (Experimental)"
+msgstr "文件缓存（实验性的）"
+
+msgid "Filter"
+msgstr "筛选"
+
+msgid "Filter body background"
+msgstr "过滤体背景"
+
+msgid "Filter box"
+msgstr "滤框"
+
+msgid "Filter default color"
+msgstr "过滤器默认颜色"
+
+msgid "Filter Dropdown URL"
+msgstr "URL过滤下拉列表"
+
+msgid "Filter head background"
+msgstr "过滤器标题背景"
+
+msgid "Filter Hover color"
+msgstr "悬停颜色过滤器"
+
+msgid "Filter primary button"
+msgstr "过滤器主要按钮"
+
+msgid "Filter secondary button"
+msgstr "过滤次要按钮"
+
+msgid "Filter tab"
+msgstr "过滤器标签"
+
+msgid "Filter tab (active)"
+msgstr "过滤器标签（有效）"
+
+msgid "Filter tab (inactive)"
+msgstr "过滤器标签（无效）"
+
+msgid "First date in range"
+msgstr "范围内的第一个日期"
+
+msgid "First date in range:  Show only the first repetition of an event in the requested range"
+msgstr "范围内的第一个日期：仅显示要求范围内的一个事件是第一次重复"
+
+msgid "First hour"
+msgstr "第一个小时"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "Fixed title"
+msgstr "固定标题"
+
+msgid "Flat UI Widget"
+msgstr "平的用户界面组件"
+
+msgid "Flat UI widget URL"
+msgstr "平的用户界面组件网址"
+
+msgid "Focus border color"
+msgstr "焦点边框颜色"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Font (Active/Hover/Focus)"
+msgstr "字体（激活/悬停/焦点）"
+
+msgid "Font (Hover)"
+msgstr "字体（悬停）"
+
+msgid "Font color"
+msgstr "字体颜色"
+
+msgid "Font H1"
+msgstr "字体H1"
+
+msgid "Font H2"
+msgstr "字体H2"
+
+msgid "Font Hover"
+msgstr "字体悬浮"
+
+msgid "Font left percentage"
+msgstr "字体左百分比"
+
+msgid "Font shadow"
+msgstr "字体阴影"
+
+msgid "Font top percentage"
+msgstr "最高比例字体"
+
+msgid "Font x"
+msgstr "字体x"
+
+msgid "Font y"
+msgstr "字体y"
+
+msgid "Font(hover)"
+msgstr "字体（悬浮）"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Footer border color"
+msgstr "页脚边框颜色"
+
+msgid "Force ajax install."
+msgstr "禁止ajax安装"
+
+msgid "Force disable browser cache"
+msgstr "禁止无用的浏览器缓存"
+
+msgid "Force disable browser cache."
+msgstr "禁止无用的浏览器缓存"
+
+msgid "Force Google Map scripts output"
+msgstr "推动谷歌地图脚本输出"
+
+msgid "Forced rewrite rules"
+msgstr "强迫性重写规则"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Format:"
+msgstr "格式："
+
+msgid "Format: Y-m-d, specify a starting date.  Example 2016-05-01"
+msgstr "格式：年-月-日，指定起始日期。例如2016年5月1日"
+
+msgid "forward slash"
+msgstr "斜杠"
+
+msgid "Frame color"
+msgstr "框架颜色"
+
+msgid "fri"
+msgstr "星期五"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Friends Button"
+msgstr "好友按键"
+
+msgid "Frontend jQuery UI version"
+msgstr "前端 jQuery UI 版本"
+
+msgid "Full"
+msgstr "已满"
+
+msgid "Fullname Font"
+msgstr "全称字体"
+
+msgid "g:i a"
+msgstr "g:i a"
+
+msgid "General"
+msgstr "一般"
+
+msgid "General settings"
+msgstr "一般设置"
+
+msgid "Get additional free map styles in the Downloads section."
+msgstr "在下载部分获得额外的免费地图样式"
+
+msgid "Get directions"
+msgstr "获取指示"
+
+msgid "Get Feed for iCal (Google Calendar). This is for subscribing to the events in the Calendar. Add this URL to either iCal (Mac) or Google Calendar, or any other calendar that supports iCal Feed."
+msgstr "为iCal（谷歌日历）获取支持。这是为在日历订阅事件。向iCal (Mac)或谷歌日历或其他支持iCal的日历添加此全球资源定位器。"
+
+msgid "Go to date"
+msgstr "转到日期"
+
+msgid "Google address"
+msgstr "谷歌地址"
+
+msgid "Google map"
+msgstr "Google地图"
+
+msgid "Google Map View URL"
+msgstr "谷歌地图视图网址"
+
+msgid "Google Structured Data"
+msgstr "Google结构数据"
+
+msgid "Google+"
+msgstr "谷歌+"
+
+msgid "Google+ bg"
+msgstr "谷歌+背景"
+
+msgid "Google+ font"
+msgstr "谷歌+字体"
+
+msgid "Google+ hover"
+msgstr "谷歌+悬停"
+
+msgid "Grid box"
+msgstr "网格框"
+
+msgid "Grid box background"
+msgstr "网格框背景"
+
+msgid "Grid box color bar"
+msgstr "网格彩色条"
+
+msgid "Grid box description"
+msgstr "网框的描述"
+
+msgid "Grid box title"
+msgstr "网格框标题"
+
+msgid "Grid custom fields"
+msgstr "网格自定义字段"
+
+msgid "Grid details"
+msgstr "网格的细节"
+
+msgid "Grid Gallery View"
+msgstr "网格画廊视图"
+
+msgid "Grid gutter"
+msgstr "网格槽"
+
+msgid "Grid View URL"
+msgstr "网格视图的网址"
+
+msgid "Group end"
+msgstr "群组末端"
+
+msgid "Group Page"
+msgstr "集团网页"
+
+msgid "Group start"
+msgstr "集体开头"
+
+msgid "Groups Teams URL"
+msgstr "组织团队网址"
+
+msgid "h:mm tt"
+msgstr "h:mm tt"
+
+msgid "h:mm{ - h:mm}"
+msgstr "h:mm{ - h:mm}"
+
+msgid "h(:mm)t"
+msgstr "h(:mm)t"
+
+msgid "h(:mm)tt"
+msgstr "h(:mm)tt"
+
+msgid "H1 Font"
+msgstr "H1 字体"
+
+msgid "Half"
+msgstr "一半"
+
+msgid "Half/Half"
+msgstr "一半/一半"
+
+msgid "Header"
+msgstr "标题"
+
+msgid "Header background"
+msgstr "标题背景"
+
+msgid "Header border color"
+msgstr "标题边框颜色"
+
+msgid "Header button (active hovered)"
+msgstr "标题按钮（激活悬停）"
+
+msgid "Header button (active state)"
+msgstr "标题按钮（激活状态）"
+
+msgid "Header button (all states)"
+msgstr "标题按钮（所有状态）"
+
+msgid "Header button (default state)"
+msgstr "标题按钮（默认状态）"
+
+msgid "Header button (disabled hovered)"
+msgstr "标题按钮（禁用悬停）"
+
+msgid "Header button (disabled state)"
+msgstr "标题按钮（禁用状态）"
+
+msgid "Header button (hover state)"
+msgstr "标题按钮（悬停状态）"
+
+msgid "Header button font"
+msgstr "标题顶部字体"
+
+msgid "Header button font shadow"
+msgstr "标题顶部字体阴影"
+
+msgid "Header font"
+msgstr "标题字体"
+
+msgid "Header font (h3)"
+msgstr "标题字体（h3)"
+
+msgid "Header fonts"
+msgstr "标题字体"
+
+msgid "Header format"
+msgstr "标题格式"
+
+msgid "Header height"
+msgstr "标题高度"
+
+msgid "Header icons"
+msgstr "标头图标"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Help Navigation font"
+msgstr "帮助导航字体"
+
+msgid "Help Navigation font(hover,active,focus)"
+msgstr "帮助导航字体（悬浮，激活，焦点）"
+
+msgid "Hidden days"
+msgstr "隐藏的日期"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Hide days from view"
+msgstr "隐藏来自视图的日期"
+
+msgid "Hide time"
+msgstr "隐藏时间"
+
+msgid "Hide widget on no events."
+msgstr "隐藏无项目下的小部件"
+
+msgid "Hierarchical Events"
+msgstr "分层项目"
+
+msgid "Hierarchical filter"
+msgstr "分层过滤"
+
+msgid "Higher priority(3)"
+msgstr " 较高优先级(3)"
+
+msgid "Highlight color"
+msgstr "高亮颜色"
+
+msgid "Hour"
+msgstr "小时"
+
+msgid "hour(s)"
+msgstr "小时"
+
+msgid "hours"
+msgstr "小时"
+
+msgid "hours, 12 hour format"
+msgstr "小时，24小时格式"
+
+msgid "hours, 12 hour format, 2 digits"
+msgstr "小时，24小时格式，2位数"
+
+msgid "hours, 24 hour format"
+msgstr "小时，24小时格式"
+
+msgid "hours, 24 hour format, 2 digits"
+msgstr "小时，24小时格式，2位数"
+
+msgid "Hover border color"
+msgstr "悬停边框颜色"
+
+msgid "Hover color"
+msgstr "悬浮颜色"
+
+msgid "Hover font"
+msgstr "悬停字体"
+
+msgid "HTML Between content and footer"
+msgstr "内容和脚注之间的超文本标记语言"
+
+msgid "HTML Between header and content"
+msgstr "标题和内容之间的超文本标记语言"
+
+msgid "HTML Description"
+msgstr "（HTML）包装器说明"
+
+msgid "HTML wrapper"
+msgstr "（HTML） 包装器"
+
+msgid "iCal Button"
+msgstr "互联网日历按钮"
+
+msgid "iCal Feed"
+msgstr "iCal支持"
+
+msgid "iCal feed URL"
+msgstr "iCal 支持 URL"
+
+msgid "icalendar button"
+msgstr "日程表按钮"
+
+msgid "Icon bg"
+msgstr "图标背景"
+
+msgid "Icon color"
+msgstr "图标颜色"
+
+msgid "Icon color (hover)"
+msgstr "图标颜色（悬停）"
+
+msgid "Icon hover color"
+msgstr "图标悬浮颜色"
+
+msgid "Icon set"
+msgstr "图标集"
+
+msgid "Icons"
+msgstr "图标"
+
+msgid "If an addon is generating php warnings, it may break the downloads section preventing add-on update.  Turn this off, update the addon, and turn this option back on."
+msgstr "如果插件生成了PHP警告，那它可能会使插件下载更新的部分崩溃。请关闭该选项之后再更新插件，更新完毕之后再开启该选项。"
+
+msgid "If disabled, the user can still zoom in or out using the zoom control buttons."
+msgstr "一旦禁用，则用户仍然可以使用缩放按钮对于画面进行放大和缩小。"
+
+msgid "If not autodetected, specify the URL of an event page containing the RSVP box."
+msgstr "如果没有自动检测，请指定包含RSVP框事件页面的网址。"
+
+msgid "If permalinks are active, choose yes to be able to append /calendar/ to the url to load a calendar for that particular post type, example yourdomain.com/events/calendar/ will display the calendar without the need to setup the shortcode on a page."
+msgstr "如果永久固定标识符已经被激活，请选择是可以在该url的随附/日历中加载一个特殊发布类型的日历，举例来说：说包含您的域名.com/events/calendar/的页面可以在无需设置短代码的情况下显示这些内容。"
+
+msgid "If the calendarize menu does not show in the admin menu, use this option to change its position.  For cases where other plugins overwrite Calendarize It! menu position."
+msgstr "对于那些其他插件覆盖了Calendarize It! 菜单位置的插件来说，如果在管理员菜单中没有显示日历化菜单，则使用该选项改变其位置。"
+
+msgid "If the loaded page is a calendar, venue or organizer (taxonomy), only show events from the same taxonomy."
+msgstr "如果加载的页面是日历、地点或组织者（分类），那么仅在相同的分类下显示事件。"
+
+msgid "If used, the shortcode will only display if the user is logged in and have the specific capability."
+msgstr "一旦使用，那么仅在用户已登录或有特殊能力许可时，才会显示短代码。"
+
+msgid "If you already have another plugin adding opengraph headers, you can choose to disable it here."
+msgstr "如果您已经有了其他的添加开头页眉的插件，您可以选择在这里禁用。"
+
+msgid "If you are experiencing issues with the visual composer module, you can turn this option off to disable it."
+msgstr "如果在使用可视化编辑模块时遇到问题，您可以关闭该选项，禁用该功能。"
+
+msgid "If you choose to skip loading the bundled jQuery UI, you need to make sure that the theme or plugin loads it."
+msgstr "如果您选择跳过加载打包的jQuery用户界面，您需要确保主题或插件能够加载该内容。"
+
+msgid "If you choose yes and the event starts showing, it means that the theme or a plugin is not following a standard in regards to register_post_type and flush_rewrite_rules.  Under certain circumstances it could also affecting website performance."
+msgstr "如果您选择是且该事件开始显示，这表示主题或插件没有符合标准的register_post_type and flush_rewrite_rules。在某些情形下，它可能会影响网站性能。"
+
+msgid "If you experience problems with the upcoming events widget after updating, use this option to go back to the original upcoming events widget code."
+msgstr "如果您在更新之后，即将发生事件工具出现问题，请使用该选项返回到原始的即将发生事件工具代码。"
+
+msgid "If you have a page with permalink /events/calendar/ you may need to disable this, as it takes precedence over the page permlink."
+msgstr "如果您有包含永久固定标识符/事件/日历的页面，你可能需用禁用此功能，因为该功能优先于页面的永久固定标识符。"
+
+msgid "If you have overwritten the default custom fields, use this button to restore the original set."
+msgstr "如果您已经重写了默认的自定义字段，请用这个按钮来恢复原始设置"
+
+msgid "If you keep getting the message 'Service not available.' when trying to add a license, switch this to Option 2 to try an alternative."
+msgstr "如果你保持消息”服务不可用。“当您试图添加一个许可证时,请切换至选项2尝试另一个替代选择"
+
+msgid "Ignore WordPress Standard"
+msgstr "忽略 WordPress标准"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Image and image frame"
+msgstr "图像及图像框架"
+
+msgid "Image frame"
+msgstr "图像框架"
+
+msgid "Image height"
+msgstr "图像高度"
+
+msgid "Image Source"
+msgstr "像源"
+
+msgid "Image width"
+msgstr "图像宽度"
+
+msgid "Implemented a pair of post meta data that defined the event range start and end.  Faster than the original query methods."
+msgstr "执行一条被定义了项目开始和结尾的元数据，比传统的查询方法快"
+
+msgid "Improved events query"
+msgstr "改进项目查询"
+
+msgid "In addition to recurring rules you can set arbitrary repeat dates."
+msgstr "除了循环规则以外您可以设置任意重复日期"
+
+msgid "In addition to recurring rules you can set arbitrary repeat dates.  Click accept to save an arbitrary repeat date."
+msgstr "除了重复规则以外你可以设置任意重复日期。单击接受以保存一个任意重复日期"
+
+msgid "In interactive mode, zoom level will adjust if more than one venue is added."
+msgstr "在交互模式中，如果添加了多个地点缩放级别将会调整"
+
+msgid "In month view, some dates from other months are rendered to complete the week.  Choose yes to display events on it, or no to leave them blank."
+msgstr "在月视图中，有些其他月份的日期显示了当周已完成，选择yes则在上面显示事件，选择no就让它保留空白"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "initial"
+msgstr "初始"
+
+msgid "Inner background"
+msgstr "内在背景"
+
+msgid "Input fields"
+msgstr "输入域"
+
+msgid "Input font"
+msgstr "输入字体"
+
+msgid "Input items"
+msgstr "输入项"
+
+msgid "Interactive"
+msgstr "交互式的"
+
+msgid "Invalid item id"
+msgstr "无效的项目地址"
+
+msgid "ISO8601 format"
+msgstr " 国际标准化组织（ISO）8601格式"
+
+msgid "Item"
+msgstr "项目"
+
+msgid "Item Font"
+msgstr "项目字体"
+
+msgid "jan"
+msgstr "一月"
+
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月"
+
+msgid "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月"
+
+msgid "January"
+msgstr "一月"
+
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月"
+
+msgid "January,February,March,April,May,June,July,August,September,October,November,December"
+msgstr "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月"
+
+msgid "Join"
+msgstr "添加"
+
+msgid "Join default color"
+msgstr "添加默认颜色"
+
+msgid "Join Hover color"
+msgstr "添加悬停颜色"
+
+msgid "jQuery UI"
+msgstr "对话框"
+
+msgid "jQuery UI 1.10.3"
+msgstr "对话框1.10.3"
+
+msgid "jQuery UI 1.8.22"
+msgstr "jQuery UI 1.8.22"
+
+msgid "jQuery UI 1.9.0"
+msgstr "jQuery UI 1.9.0"
+
+msgid "jul"
+msgstr "七月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "jun"
+msgstr "六月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Label font"
+msgstr "标签"
+
+msgid "Label font shadow"
+msgstr "标签字体阴影"
+
+msgid "Label:"
+msgstr "标签："
+
+msgid "Labels"
+msgstr "标签"
+
+msgid "Labels font"
+msgstr "标签的字体"
+
+msgid "Large"
+msgstr "大的"
+
+msgid "Larger map"
+msgstr "大地图"
+
+msgid "last"
+msgstr "最后的"
+
+msgid "Latest version (3.1.4)"
+msgstr "最新版本 (3.1.4)"
+
+msgid "Latitude"
+msgstr "纬度"
+
+msgid "Layout Options"
+msgstr "界面选项"
+
+msgid "Layout settings, date format"
+msgstr "界面设置，日期格式"
+
+msgid "Leave 0 for automatic width."
+msgstr "数字0请选择自动宽度"
+
+msgid "Leave automatic an it will render all venues associated to an event if it is outside a venue loop; if inside, it will only render the venue on that iteration.  Or choose an option to force a behavior."
+msgstr "系统会自动运行，如果该事件在地点环以外的地方发生，则系统提供所有相关地点，若果该事件在地点环以内的地方发生，则系统仅会提供事件重复发生的地点。或者您可以选择强制行动的选项。"
+
+msgid "Left"
+msgstr "左边"
+
+msgid "Left border color"
+msgstr "左边距颜色"
+
+msgid "Left header"
+msgstr "左页眉"
+
+msgid "Left width"
+msgstr "左宽"
+
+msgid "Line height"
+msgstr "行高"
+
+msgid "line-through"
+msgstr "行数-从头至尾"
+
+msgid "Link font"
+msgstr "链接字体"
+
+msgid "Link font shadow"
+msgstr "链接字体的阴影"
+
+msgid "Link target"
+msgstr "链接目标"
+
+msgid "Link to calendar url(default)"
+msgstr "链接到日历网址（默认）"
+
+msgid "Link view"
+msgstr "链接视图"
+
+msgid "LinkedIn"
+msgstr "edIn链接"
+
+msgid "LinkedIn bg"
+msgstr "edIn链接背景"
+
+msgid "LinkedIn font"
+msgstr "LinkedIn的字体"
+
+msgid "LinkedIn hover"
+msgstr "LinkedIn悬停"
+
+msgid "Links"
+msgstr "链接"
+
+msgid "Links font"
+msgstr "链接字体"
+
+msgid "Links font (hover)"
+msgstr "链接的字体（悬浮）"
+
+msgid "Links hover"
+msgstr "链接悬停"
+
+msgid "Liquid"
+msgstr "流动资产"
+
+msgid "List of events"
+msgstr "事件列表"
+
+msgid "Load current WordPress jQuery UI"
+msgstr "加载当前的WordPress对话框用户界面"
+
+msgid "Load default event list content template"
+msgstr "加载默认事件列表内容模板"
+
+msgid "Load Dynamic Event Details Box"
+msgstr "负载动态事件详细信息框"
+
+msgid "Load more color"
+msgstr "加载更多颜色"
+
+msgid "Load Scripts and Styles on page id"
+msgstr "页面地址上的加载加载脚本和样式"
+
+msgid "Loaded $wp_rewrite"
+msgstr "加载$wp_rewrite"
+
+msgid "Loaded options"
+msgstr "加载选项"
+
+msgid "Loader"
+msgstr "加载器"
+
+msgid "Loading color"
+msgstr "加载中的颜色"
+
+msgid "Loading method"
+msgstr "加载方式"
+
+msgid "Local events will be saved to files.  Turning this option on will attempt to write to htaccess.  Only available with apache mod rewrite."
+msgstr "本地事件将被保持到文件，打开这个选项将尝试按照分布式配置书写，仅对服务器模式重写有用"
+
+msgid "Local/External sources (feeds)"
+msgstr "本地/外部来源（输入）"
+
+msgid "Logged user"
+msgstr "登录的用户"
+
+msgid "Logged user events"
+msgstr "登录用户事件"
+
+msgid "Logo"
+msgstr "标志"
+
+msgid "Longitud"
+msgstr "经度"
+
+msgid "Main container"
+msgstr "主容器"
+
+msgid "Main date format"
+msgstr "主要日期格式"
+
+msgid "Main settings"
+msgstr "主要设置"
+
+msgid "Main title"
+msgstr "主标题"
+
+msgid "Manage calendars"
+msgstr "管理日程表"
+
+msgid "Manage custom taxonomies (addon)"
+msgstr "管理自定义分类法（插件）"
+
+msgid "Manage organizers"
+msgstr "管理组织者"
+
+msgid "Manage venues"
+msgstr "管理场所"
+
+msgid "Map Min height"
+msgstr "图的最小高度"
+
+msgid "Map style"
+msgstr "地图类型"
+
+msgid "Map View Counter URL"
+msgstr "地图查看计数器网址"
+
+msgid "Maptype"
+msgstr "地图类型"
+
+msgid "mar"
+msgstr "三月"
+
+msgid "March"
+msgstr "三月"
+
+msgid "Marker color"
+msgstr "标识颜色"
+
+msgid "Max description word count"
+msgstr "描述文字字数上限"
+
+msgid "Max displayed events(optional)"
+msgstr "最大显示事件（可选择的）"
+
+msgid "Max number of posts"
+msgstr "邮件的最大数量"
+
+msgid "Max priority(1)"
+msgstr "最大优先权(1)"
+
+msgid "Maximun displayed time"
+msgstr "最小显示时间"
+
+msgid "May"
+msgstr "五月"
+
+msgid "Maybe default color"
+msgstr "可能默认颜色"
+
+msgid "Maybe Hover color"
+msgstr "可能悬停颜色"
+
+msgid "Media settings"
+msgstr "媒体设置"
+
+msgid "Medium"
+msgstr "媒介"
+
+msgid "Member Profile"
+msgstr "成员简介"
+
+msgid "Members page"
+msgstr "成员页面"
+
+msgid "Members URL"
+msgstr "成员网址"
+
+msgid "Menu Font"
+msgstr "菜单字体"
+
+msgid "Menu font (hover)"
+msgstr "菜单字体（悬浮）"
+
+msgid "Menu Position (number)"
+msgstr "菜单位置（号码）"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Meta fields:"
+msgstr "元数据字段"
+
+msgid "Method %s does not exists on renderer"
+msgstr "该方法 %s不存在于渲染程序中"
+
+msgid "Middle box"
+msgstr "中间框"
+
+msgid "Min height"
+msgstr "最低高度"
+
+msgid "Minimun displayed time"
+msgstr "最小显示时间"
+
+msgid "minute(s)"
+msgstr "分钟"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "minutes, 2 digits"
+msgstr "分钟：2位数"
+
+msgid "Missing parameter."
+msgstr "缺失的参数"
+
+msgid "MMM d[ yyyy]{ '&#8212;'[ MMM] d yyyy}"
+msgstr "MMM d[ yyyy]{ '—'[ MMM] d yyyy}"
+
+msgid "MMMM d, yyyy"
+msgstr "MMMM d, yyyy"
+
+msgid "MMMM d, yyyy.  h:mm tt"
+msgstr "MMMM d, yyyy.  h:mm tt"
+
+msgid "MMMM yyyy"
+msgstr "MMMM yyyy"
+
+msgid "Mobile"
+msgstr "非固定的"
+
+msgid "Mobile width trigger size"
+msgstr "触发器尺寸的非固定宽度"
+
+msgid "Modify permalinks"
+msgstr "修改固定链接"
+
+msgid "Modify the layout of events in the archive"
+msgstr "修改存档事件的布局"
+
+msgid "mon"
+msgstr "星期一"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Month font"
+msgstr "月份的字"
+
+msgid "month name, full"
+msgstr "月名，全名"
+
+msgid "month name, short"
+msgstr "月名，略写"
+
+msgid "Month names"
+msgstr "月名"
+
+msgid "month number"
+msgstr "月数"
+
+msgid "month number, 2 digits"
+msgstr "月数：2位数"
+
+msgid "Month view"
+msgstr "月视图"
+
+msgid "Month view image"
+msgstr "月视图图像"
+
+msgid "Month view image metabox"
+msgstr "月视图图像元盒子"
+
+msgid "Month view title"
+msgstr "月视图标题"
+
+msgid "Month View, trim past weeks"
+msgstr "月视图，过去几周"
+
+msgid "month(s)"
+msgstr "月份"
+
+msgid "months"
+msgstr "月份"
+
+msgid "Months ahead to show(optional)"
+msgstr "显示月头（选项）"
+
+msgid "More options"
+msgstr "更多选项"
+
+msgid "Multiple markers"
+msgstr "多个标记"
+
+msgid "My custom value"
+msgstr "我的顾客价值"
+
+msgid "My label"
+msgstr "我的标签"
+
+msgid "Name"
+msgstr "名字"
+
+msgid "Name:"
+msgstr "名字"
+
+msgid "Navigation"
+msgstr "导航"
+
+msgid "never"
+msgstr "从未"
+
+msgid "Never (Not a recurring event)"
+msgstr "从未（不是一个重复事件）"
+
+msgid "Never(Not a recurring event)"
+msgstr "从未（不是一个重复事件）"
+
+msgid "New %s"
+msgstr "新的 %s"
+
+msgid "New calendar"
+msgstr "新日程表"
+
+msgid "New event"
+msgstr "新事件"
+
+msgid "New Organizer"
+msgstr "新组织者"
+
+msgid "New venue"
+msgstr "新地点"
+
+msgid "Next button color"
+msgstr "下一按钮颜色"
+
+msgid "Next Date"
+msgstr "下一个日期"
+
+msgid "Next Date (Date)"
+msgstr "下一个日期（日期）"
+
+msgid "Next Date (Datetimes)"
+msgstr "下一个日期（日期时间）"
+
+msgid "Next Date Times"
+msgstr "下一个日期时间"
+
+msgid "Next Date(Date)"
+msgstr "下一个日期（日期）"
+
+msgid "Next Date(Datetime)"
+msgstr "下一个日期（日期时间）"
+
+msgid "Next day threshold"
+msgstr "次日开始"
+
+msgid "Next events"
+msgstr "下一个事件"
+
+msgid "No"
+msgstr "否"
+
+msgid "No access"
+msgstr "无法访问"
+
+msgid "No action"
+msgstr "没有活动"
+
+msgid "No addons installed.  Go to the Downloads menu to download an addon, then come back to this screen to activate it."
+msgstr "没有安装插件。去下载菜单下载一个插件,然后回到屏幕来激活它"
+
+msgid "No default color"
+msgstr "无默认颜色"
+
+msgid "No event message"
+msgstr "没有事件信息"
+
+msgid "No events found"
+msgstr "未发现事件"
+
+msgid "No events found in trash"
+msgstr "没有在垃圾桶中发现事件"
+
+msgid "No events message"
+msgstr "没有事件信息"
+
+msgid "No events text"
+msgstr "没有事件文本"
+
+msgid "No excluded dates selected.  After setting up recurring events, click on a calendar event, then on the dialog press the exclude button to add the clicked date to the excluded dates list."
+msgstr "没有任何数据被选择排除。在您设置了重复发生事件之后，点击日历事件，然后在对话框中点击排除按钮以添加那些要在数据清单中排除在外的内容。"
+
+msgid "No filters available."
+msgstr "没有过滤器可用"
+
+msgid "No Hover color"
+msgstr "无悬停颜色"
+
+msgid "No image"
+msgstr "无图像"
+
+msgid "No link"
+msgstr "无连接"
+
+msgid "No map"
+msgstr "无地图"
+
+msgid "No options"
+msgstr "无选项"
+
+msgid "No repeat dates set."
+msgstr "没有重复日期设置"
+
+msgid "No upcoming events in this date range"
+msgstr "在这个日期范围内没有将到的事件"
+
+msgid "No, I will manually setup the plugin"
+msgstr "不 ，我将手动安装插件"
+
+msgid "No(default)"
+msgstr "否（默认）"
+
+msgid "none"
+msgstr "无"
+
+msgid "Normal(10/default)"
+msgstr "标准的（10/默认）"
+
+msgid "Not used"
+msgstr "未使用的"
+
+msgid "nov"
+msgstr "十一月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "Number of events"
+msgstr "事件数目"
+
+msgid "Observe that if you use the advanced option, this field is ignored."
+msgstr "注意，如果您使用高级选项，这个领域将被忽略"
+
+msgid "Observe that the default set is only used when creating new events.  Existing events will keep their current custom field layout."
+msgstr "注意，默认设置只在产生新的事件时被用到，当前的事件会保持它们现有的默认设置"
+
+msgid "oct"
+msgstr "十月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "Older events"
+msgstr "大事件"
+
+msgid "On some setups, wordpress is installed in a non-standard way and causes the site_url() function to return a value that is diferent from the real url, causing the browser to reject the ajax.  You need to add rhc_action=get_calendar_events to the query string."
+msgstr "在某些设置中，一些通过非标准方式安装的wordpress将导致site_url() 回复一个与真实url不等的数值，从而使得浏览器拒绝使用ajax。您需要在查询字符串中添加rhc_action=get_calendar_events"
+
+msgid "On some sites, a large number of custom taxonomies makes the backend event list page to load very slow."
+msgstr "在一些网站上，大量的自定义分类法使得后台事件下载很慢"
+
+msgid "On some themes you may need to add additional html so the content is styled correctly by the theme."
+msgstr "在一些主题中您可能需要添加额外的超文本记录语言使内容能被主题正确设计"
+
+msgid "Only applicable inside a detail box."
+msgstr "仅在一个详情盒子中适用"
+
+msgid "Only external sources"
+msgstr "仅外源"
+
+msgid "Only local"
+msgstr "仅本地"
+
+msgid "Only premiere events."
+msgstr "仅首位事件"
+
+msgid "Only related events."
+msgstr "仅相关事件"
+
+msgid "Only set the post ID if you want to bring the detail box of another event.  Leave empty to catch the currently loaded post detail box."
+msgstr "如果您想要引起另一事件的细节盒，只需设置邮件身份。保持为空以捕捉当前已加载的邮件细节盒。"
+
+msgid "Only use this options if you want to use diferent labels from the localized ones, or if the plugin is not providing localization at all."
+msgstr "如果您想要使用来自本地的不同标签，或者这个插件不支持本地化的话，只需使用这个选项"
+
+msgid "Open Graph headers"
+msgstr "打开图表标题"
+
+msgid "Option 2"
+msgstr "选项2"
+
+msgid "Optional alternative class."
+msgstr "可选择的备选等级"
+
+msgid "Optional, display this label in the link instead of the site url."
+msgstr "随意的：这个标签显示在链接中而不是网址上"
+
+msgid "Optional, if not provided will attempt to use address"
+msgstr "随意的：如果没有提供将尝试使用联系地址"
+
+msgid "Optional, specify the google map zoom value (default: 13)"
+msgstr "可选择的：指定google地图缩放值（默认：13）"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Options contains %s records."
+msgstr "选项包含 %s记录"
+
+msgid "Options row count"
+msgstr "选项行计数"
+
+msgid "Order"
+msgstr "其他"
+
+msgid "Organizer"
+msgstr "组织者"
+
+msgid "Organizer Details"
+msgstr "组织者详情"
+
+msgid "Organizer Email"
+msgstr "组织者邮件"
+
+msgid "Organizer fields"
+msgstr "组织者区域"
+
+msgid "Organizer Image"
+msgstr "组织者图像"
+
+msgid "Organizer Loop"
+msgstr "组织者循环"
+
+msgid "Organizer meta"
+msgstr "组织者标签"
+
+msgid "Organizer Name"
+msgstr "组织者姓名"
+
+msgid "Organizer page"
+msgstr "组织单位网页"
+
+msgid "Organizer Page Template"
+msgstr "主办单位页面模板"
+
+msgid "Organizer Phone"
+msgstr "组织者电话"
+
+msgid "Organizer template"
+msgstr "主办单位模板"
+
+msgid "Organizer URL"
+msgstr "组织单位URL"
+
+msgid "Organizer Website"
+msgstr "主办单位网站"
+
+msgid "Organizers"
+msgstr "组织者"
+
+msgid "Organizers slug"
+msgstr "文件整理器铅字条"
+
+msgid "Original"
+msgstr "原件"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Other fields"
+msgstr "其他字段"
+
+msgid "Other integration settings"
+msgstr "其他综合设置"
+
+msgid "Other taxonomy slugs"
+msgstr "其他分类块"
+
+msgid "Outline color"
+msgstr "轮廓线颜色"
+
+msgid "Overlay color"
+msgstr "覆盖的颜色"
+
+msgid "overline"
+msgstr "上划线"
+
+msgid "Page"
+msgstr "页面"
+
+msgid "Page Template"
+msgstr "页面模板"
+
+msgid "Page with login button URL"
+msgstr "有登入按钮的网页"
+
+msgid "Past Event Button"
+msgstr "过去事件按钮"
+
+msgid "Pencil"
+msgstr "铅笔"
+
+msgid "Permalink settings"
+msgstr "固定链接设置"
+
+msgid "Permission (capability)"
+msgstr "许可（性能）"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Phone:"
+msgstr "电话"
+
+msgid "PHP date format(optional):"
+msgstr "PHP 日期格式（可选择的）"
+
+msgid "PHP version"
+msgstr "PHP版本"
+
+msgid "Please observe that if you use the Map Addon, Events Grid Addon, or Community Events Addon, you also need the latest version of the addons for this feature to work."
+msgstr "请注意如果您使用了地图插件、事件网格插件或社区事件插件，您需要保持插件也是最新版本，才能使该功能生效。"
+
+msgid "Please observe that this does NOT modifies the size of the image on screen wich is controlled by the stylesheet.  This is used to determine what image size to use as source."
+msgstr "请注意该操作不会改变屏幕中由风格表控制的图片的大小。该操作被用来确定使用多少尺寸的图片来作为源文件的图片。"
+
+msgid "Please observe that this may not work with ajax based themes."
+msgstr "请注意该功能可能在基于创建交互式的主题中无效。"
+
+msgid "Please observe that this requires that the theme correctly implementes the wp_footer action hook."
+msgstr "请注意本操作需要主题能够正确的执行wp_footer操作钩。"
+
+msgid "Popular %s"
+msgstr "受欢迎：%s"
+
+msgid "Popular Calendar"
+msgstr "受欢迎的日程表"
+
+msgid "Popular Organizers"
+msgstr "受欢迎的组织者"
+
+msgid "Popular Venue"
+msgstr "受欢迎的地点"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Possible values: 0,1,2... 12"
+msgstr "可能的值：0,1,2... 12"
+
+msgid "Post author"
+msgstr "邮件作者"
+
+msgid "Post ID"
+msgstr "邮政地址"
+
+msgid "Post Meta"
+msgstr "元邮件"
+
+msgid "Post meta data"
+msgstr "邮件元数据"
+
+msgid "Post Meta Field"
+msgstr "邮件传递过程"
+
+msgid "Post type"
+msgstr "投递类型"
+
+msgid "Post type to apply: %s"
+msgstr "投递类型申请： %s"
+
+msgid "Postable arguments"
+msgstr "可发布的论据"
+
+msgid "Postal code"
+msgstr "邮政编码"
+
+msgid "Postmeta contains %s records."
+msgstr "发布元包含%s的记录。"
+
+msgid "Postmeta row count"
+msgstr "发布元的行计算"
+
+msgid "Posts & Comments Button"
+msgstr "发帖和评论按钮"
+
+msgid "Posts contains %s records."
+msgstr "帖子包含 %s记录"
+
+msgid "Posts row count"
+msgstr "帖子行计数"
+
+msgid "Pre loader"
+msgstr "预加载"
+
+msgid "Preload data"
+msgstr "预加载数据"
+
+msgid "Premiere"
+msgstr "首映"
+
+msgid "Premiere date"
+msgstr "首映日期"
+
+msgid "Premiere:  The first event in a series."
+msgstr "首位的：一系列事件中的第一个"
+
+msgid "Preview:"
+msgstr "预览"
+
+msgid "Previous button color"
+msgstr "之前按钮颜色"
+
+msgid "Previous events"
+msgstr "先前的事件"
+
+msgid "Problem: When saving an event, it does not show in the calendar and there are no javascript errors."
+msgstr "问题：当保存一个事件的时候，它不会显示在日程表中且没有脚本错误"
+
+msgid "Profile page bottom"
+msgstr "页面底部"
+
+msgid "Profile page middle"
+msgstr "页面中间"
+
+msgid "Profile page top"
+msgstr "页面顶部"
+
+msgid "Profile URL"
+msgstr "页面UR"
+
+msgid "Publish events"
+msgstr "发布事件"
+
+msgid "Published calendar (pages containing calendarizeit shortcode)"
+msgstr "已发布的日历（页面中已包含日历时间短代码）"
+
+msgid "Quantity Background"
+msgstr "量背景"
+
+msgid "Quantity Container"
+msgstr "量容器"
+
+msgid "Rating & Reviews Button"
+msgstr "评级和评论按钮"
+
+msgid "Rating and Review Box"
+msgstr "评级和评论框"
+
+msgid "Rating Box"
+msgstr "评级框"
+
+msgid "Rating Box Button"
+msgstr "评级框按钮"
+
+msgid "Ratings and Review Box"
+msgstr "评级和评论框"
+
+msgid "Ratio"
+msgstr "比例"
+
+msgid "Raw html on redirect"
+msgstr "原始html重定向"
+
+msgid "Raw output"
+msgstr "原始输出"
+
+msgid "Read events"
+msgstr "读取事件"
+
+msgid "Read private events"
+msgstr "读取私人活动"
+
+msgid "Recurring rules"
+msgstr "反复出现的规则"
+
+msgid "Registration api url"
+msgstr "注册服务器网址"
+
+msgid "Related events"
+msgstr "相关事件"
+
+msgid "Remove"
+msgstr "移动"
+
+msgid "Remove Default Featured Event Image"
+msgstr "移动默认特定事件图"
+
+msgid "Remove ended"
+msgstr "移除结束"
+
+msgid "Remove event by"
+msgstr "删除事件"
+
+msgid "Remove Event Detail Box Image"
+msgstr "移动事件细节箱图"
+
+msgid "Remove Event Page Top Image"
+msgstr "移动事件页面顶部图"
+
+msgid "Remove Featured Event Image"
+msgstr "移动特定事件图"
+
+msgid "Remove Month View Image"
+msgstr "移动月视图"
+
+msgid "Render events"
+msgstr "呈现事件"
+
+msgid "Render image in tooltip"
+msgstr "提示框中的呈现图像"
+
+msgid "Repeat"
+msgstr "重复"
+
+msgid "Repeat dates"
+msgstr "重复日期"
+
+msgid "Repeat every"
+msgstr "重复间隔"
+
+msgid "Repeat time"
+msgstr "重复时间"
+
+msgid "Replace the event title with a fixed label."
+msgstr "将事件标题替换为一个固定标签"
+
+msgid "Requires PHP 5.3 or greater.  If PHP requirement is not met, will fallback to version 2.4.4.  Uses a supplementary wp_rhc_events table for faster querying of recurring events"
+msgstr "需要PHP5.3或更高版本。如果不符合PHP要求，则会降到版本2.4.4。请使用wp_rhc_events补充表格来对再次发生的事件进行快速查询。"
+
+msgid "Reset settings"
+msgstr "重置设置"
+
+msgid "Reset to default template"
+msgstr "恢复到默认模式"
+
+msgid "Restore custom fields"
+msgstr "恢复自定义字段"
+
+msgid "Restrict access"
+msgstr "限制访问"
+
+msgid "Reverse order"
+msgstr "倒叙"
+
+msgid "Rewrite rules as returned by $wp_rewrite->rewrite_rules()"
+msgstr "按照被$wp_rewrite->rewrite_rules()返回的重写规则"
+
+msgid "RHC Image"
+msgstr "RHC图像"
+
+msgid "Right"
+msgstr "正确"
+
+msgid "Right header"
+msgstr "右侧页眉"
+
+msgid "Right width"
+msgstr "右宽"
+
+msgid "RSVP Box"
+msgstr "RSVP框"
+
+msgid "RSVP URL"
+msgstr "RSVP URL"
+
+msgid "Sales Ended Background"
+msgstr "销售已截止背景"
+
+msgid "sat"
+msgstr "星期六"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save as default template"
+msgstr "作为默认模板保存"
+
+msgid "Save post priority"
+msgstr "保存后优先"
+
+msgid "Saved options"
+msgstr "保存选项"
+
+msgid "Saved Rewrite rules"
+msgstr "保存改写规则"
+
+msgid "Scripts and styles on demand"
+msgstr "即期脚本和样式"
+
+msgid "Scripts in footer"
+msgstr "页脚脚本"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search %s"
+msgstr "搜索%s"
+
+msgid "Search Calendar"
+msgstr "搜索日程表"
+
+msgid "Search events"
+msgstr "搜索事件"
+
+msgid "Search field"
+msgstr "搜索域"
+
+msgid "Search Organizer"
+msgstr "搜索组织者"
+
+msgid "Search placeholder"
+msgstr "搜索占位符"
+
+msgid "Search Venue"
+msgstr "搜索地点"
+
+msgid "Secondary container(back)"
+msgstr "辅助容器（背面）"
+
+msgid "Select the page you want to use as a template for the Detailed Event Page and Detailed Venue Page."
+msgstr "选择你想要用作详细事件页面和详细地点页面的模板的页面"
+
+msgid "Selected fields will be inserted in order into the format.  For field 1 use %1$s, for field 2 use %2$s, for field 3 use %3$s.  Example: to render a link choose 'Website url' and 'Website label' in the fields, then use the following format:"
+msgstr "选择您准备插入格式的字段。字段1使用%1$s，字段2使用%2$s，字段3使用3$s。举例来说：在字段中选择 '网址' 和 '网址标签\" ，然后使用下面的格式："
+
+msgid "Selecting multiple fields requires that you properly setup a format that contains a placeholder for each of them."
+msgstr "选择多个字段，要求在你正确设置的一种格式中包含他们每一个的一个占位符"
+
+msgid "sep"
+msgstr "九月"
+
+msgid "Separator color"
+msgstr "分离装置的颜色"
+
+msgid "September"
+msgstr "九月"
+
+msgid "Server mode only.  Hides the widget if there are no events."
+msgstr "只是服务器模型，如果没有事件请隐藏这个小窗口"
+
+msgid "Server side"
+msgstr "服务器端"
+
+msgid "Set Default Featured Event Image"
+msgstr "设置默认特定事件"
+
+msgid "Set Event Detail Box Image"
+msgstr "设置事件细节盒子图像"
+
+msgid "Set Event Featured Image"
+msgstr "设置事件特定图像"
+
+msgid "Set Event Page Top Image"
+msgstr "设置事件页面顶部图像"
+
+msgid "Set Month View Image"
+msgstr "设置月视图图像"
+
+msgid "Set permissions by user role. "
+msgstr "通过用户角色设置权限"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Several times"
+msgstr "几次"
+
+msgid "Shadow"
+msgstr "阴影"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Share on Facebook"
+msgstr "在脸书上分享"
+
+msgid "Share on Google+"
+msgstr "在谷歌上分享"
+
+msgid "Share on LinkedIn"
+msgstr "在领英上分享"
+
+msgid "Share on Twitter"
+msgstr "在推特上分享"
+
+msgid "Short day names"
+msgstr "不足日期名"
+
+msgid "Short month names"
+msgstr "不足月份名称"
+
+msgid "Shortcode argument:"
+msgstr "短码提要："
+
+msgid "Shortcode argument: next_day_threshold"
+msgstr "短码提要：下一个-天-临界值"
+
+msgid "Shortcode values:"
+msgstr "短码价值："
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show a loading overlay on the calendar viewport when fetching events"
+msgstr "当获取事件的时候在日历检视口显示所有的加载覆盖图"
+
+msgid "Show all"
+msgstr "显示所有"
+
+msgid "Show all post types in calendar"
+msgstr "在日历上显示所有的帖子类型"
+
+msgid "Show all-day slot"
+msgstr "显示全天位置"
+
+msgid "Show featured image"
+msgstr "显示特色图像"
+
+msgid "Show iCal button"
+msgstr "显示互联网日历按钮"
+
+msgid "Show image"
+msgstr "显示图像"
+
+msgid "Show list of events"
+msgstr "显示事件列表"
+
+msgid "Show loading overlay"
+msgstr "显示加载覆盖图"
+
+msgid "Show multi month events"
+msgstr "显示多月事件"
+
+msgid "Show on hover"
+msgstr "鼠标停留时显示"
+
+msgid "Show other month events"
+msgstr "显示其他月份事件"
+
+msgid "Show same date header"
+msgstr "显示相同日期页眉"
+
+msgid "Show type"
+msgstr "显示类型"
+
+msgid "Show weekend"
+msgstr "显示周末"
+
+msgid "Show weekends"
+msgstr "显示周末"
+
+msgid "Show/Hide Details"
+msgstr "显示/隐藏详细信息"
+
+msgid "Single event (version 2)"
+msgstr "单一事件（版本2）"
+
+msgid "Single event page"
+msgstr "单事件页"
+
+msgid "Single event shows template title instead of event."
+msgstr "单一事件显示的是模板标题而不是事件"
+
+msgid "Single event URL"
+msgstr "单个事件网址"
+
+msgid "Single marker"
+msgstr "单项"
+
+msgid "Single quote"
+msgstr "单引号"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Size H1"
+msgstr "尺寸H1"
+
+msgid "Size H2"
+msgstr "尺寸H2"
+
+msgid "Slide"
+msgstr "幻灯片"
+
+msgid "Slide background"
+msgstr "幻灯片背景"
+
+msgid "Slide color bar"
+msgstr "幻灯片的调色棒"
+
+msgid "Slide custom fields"
+msgstr "幻灯片自定义字段"
+
+msgid "Slide description"
+msgstr "幻灯片描述"
+
+msgid "Slide navigation"
+msgstr "幻灯片导航"
+
+msgid "Slide overlay"
+msgstr "幻灯片叠加"
+
+msgid "Slide title"
+msgstr "幻灯片标题"
+
+msgid "Slot minutes"
+msgstr "箱位分"
+
+msgid "Socail Background"
+msgstr "社会背景"
+
+msgid "Social lightbox"
+msgstr "社会亮点框"
+
+msgid "Social not active bg"
+msgstr "社会未激活背景"
+
+msgid "Social Panels URL"
+msgstr "社交面板的网址"
+
+msgid "Social Sharing Panel"
+msgstr "社会共享的面板"
+
+msgid "Sold Out Background"
+msgstr "背景售出"
+
+msgid "Some themes that load content with ajax, tabs, and sliders break the initial rendering of the calendar.  Choose yes to prevent this.  If not needed the recommended setting is to choose no."
+msgstr "某些加载了包含 ajax、标签和幻灯片内容在内的主题会使初始日历崩溃。选择是以避免该错误。如果您不要用采用推荐的设置，请选择否"
+
+msgid "space"
+msgstr "空间"
+
+msgid "Specific date (Y-m-d)"
+msgstr "具体日期（年月日）"
+
+msgid "Specific date End (Y-m-d)"
+msgstr "具体截止日期（年月日）"
+
+msgid "Specify a post ID if you want to show a list of recurring instances for that particular event.  This is overwritten by the previous option."
+msgstr "制定可以重复显示该特殊事件的收件人ID清单，不同ID之间用逗号隔开。该功能可以被前一个选项覆盖。"
+
+msgid "Specify a text to show if there are no more events."
+msgstr "如果没有更多事件，则指定一个主题显示"
+
+msgid "Specify comma separated meta field names used by the theme to store layout information per post.  This is used if for example the theme allows to configure a sidebar per page, but it is not showing in the event page although it has been configured on the template."
+msgstr "制定一个在每次事件发布时，在保存格式信息的主题所用到的元场名称清单，不同名称之间用逗号隔开。举例外说，如果某个主题允许在页面中配置工具栏，则需要此功能，但是尽管这些内容已经配置在模板中，它们并不会显示在事件页面。"
+
+msgid "Specify comma separated page ids where you wich the calendarize it scripts and styles to be loaded.  Please observe that upcoming events widget needs them also."
+msgstr "制定一个您打算使用日历脚本和并加载各种风格的页面ID清单，不同的ID之间用逗号隔开。请注意临近事件工具也需要用到这些内容。"
+
+msgid "Specify the id of a page that you want to use as model for this venue"
+msgstr "指定你想要在这个地点用作模板的页面地址"
+
+msgid "Specify the jQuery UI version to load in the frontend and backend.  By default it loads 1.9.0 on WP3.5 and higher and 1.8.22 on pre WP3.5"
+msgstr "指定对话框版本在前端和后端负载。默认情况下它在 WP3.5上加载1.9.0和更高，在格式化文本WP3.5上加载1.8.22 "
+
+msgid "Specify the URL of a page containing a calendar set with map view"
+msgstr "请指定包含地图浏览的日历设置的页面网址"
+
+msgid "Specify the URL of a page containing a calendar set with the taxonomy dropdown"
+msgstr "请指定包含下拉分类日历设置的网页地址。"
+
+msgid "Specify the URL of a page containing social panels."
+msgstr "请指定包含社交面板的网页地址。"
+
+msgid "Specify the URL of a page containing the Advent Calendar"
+msgstr "请指定包含日历的网页地址"
+
+msgid "Specify the URL of a page containing the Community Events submit form"
+msgstr "请指定包含社区事件提交表单的网页地址。"
+
+msgid "Specify the URL of a page containing the flatui widget.  Home will be used by default."
+msgstr "请指定包含flatui部件的网页地址。将默认使用主页。"
+
+msgid "Specify the URL of a page containing the Google Grid View"
+msgstr "请指定包含谷歌网格视图的网页地址。"
+
+msgid "Specify the URL of a page containing the map view counter."
+msgstr "请指定包含地图浏览计数器的网页地址。"
+
+msgid "Specify the URL of a page containing the rhc_groups shortcode"
+msgstr "请指定包含 rhc_集团短代码的网页地址。"
+
+msgid "Specify the URL of a page containing the rhc_members shortcode"
+msgstr "请指定包含rhc_成员短代码的网页地址。"
+
+msgid "Specify the URL of a page containing the rhc_profil shortcode"
+msgstr "请指定包含rhc_资料短代码的网页地址。"
+
+msgid "Specify the URL of a page containing the taxonomy event counter widget."
+msgstr "请指定包含分类计数器的网页地址。"
+
+msgid "Specify the URL of a page containing the Upcoming Events widget 'Agenda Like B' model."
+msgstr "请指定包含即将到来事件部件“议程B”模式的网址。"
+
+msgid "Specify the URL of a page containing the Upcoming Events widget 'Agenda Like' model."
+msgstr "请指定包含即将到来事件部件“议程”模式的网址。"
+
+msgid "Specify the URL of a page containing the Upcoming Events widget 'Default' model."
+msgstr "请指定包含即将到来事件部件'默认\"模式的网址。"
+
+msgid "Specify the url of a page where the calendarizeit shortcode have been implemented.  If left blank the editor will try to determine it automatically."
+msgstr "请指定运行短代码的网页地址。如留空，编辑器将试图自动决定。"
+
+msgid "Spinner color"
+msgstr "微调控制项颜色"
+
+msgid "Stack autoload"
+msgstr "叠加自动加载"
+
+msgid "Stack behaviour"
+msgstr "堆积行为"
+
+msgid "Stars color"
+msgstr "星颜色"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Start date"
+msgstr "开始日期"
+
+msgid "Start Date &amp; Time"
+msgstr "开始日期和时间"
+
+msgid "Start date(all-day)"
+msgstr "开始日期（全天的）"
+
+msgid "Start datetime"
+msgstr "开始日期时间"
+
+msgid "Start time"
+msgstr "起始时间"
+
+msgid "Start/end date format"
+msgstr "开始/结束日期格式"
+
+msgid "Start/end date format (All day)"
+msgstr "开始/结束日期格式（全天）"
+
+msgid "State"
+msgstr "国家"
+
+msgid "State/Province/Other"
+msgstr "国家/省份/其他"
+
+msgid "Static"
+msgstr "静态的"
+
+msgid "Street address of this venue"
+msgstr "这个地方的街道地址"
+
+msgid "Style"
+msgstr "风格"
+
+msgid "Sub title"
+msgstr "副标题"
+
+msgid "Submenu font"
+msgstr "子菜单字体"
+
+msgid "Submenu font (hover)"
+msgstr "子菜单字体（悬浮）"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Submit Box"
+msgstr "提交框"
+
+msgid "Submit Box Button"
+msgstr "提交框按钮"
+
+msgid "Submit button"
+msgstr "提交按钮"
+
+msgid "Submit default color"
+msgstr "提交默认颜色"
+
+msgid "Submit Hover color"
+msgstr "提交鼠标悬停颜色"
+
+msgid "Submit taxonomy button"
+msgstr "提交分类按钮"
+
+msgid "Subscription text"
+msgstr "订阅文本"
+
+msgid "Subtitle"
+msgstr "副标题"
+
+msgid "Subtitle font"
+msgstr "副标题字体"
+
+msgid "Success Alert Box"
+msgstr "成功提示框"
+
+msgid "sun"
+msgstr "星期日"
+
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "星期日,星期一,星期二,星期三,星期四,星期五,星期六"
+
+msgid "Sun,Mon,Tue,Wed,Thu,Fri,Sat"
+msgstr "星期日,星期一,星期二,星期三,星期四,星期五,星期六"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "星期日,星期一,星期二,星期三,星期四,星期五,星期六"
+
+msgid "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+msgstr "星期日,星期一,星期二,星期三,星期四,星期五,星期六"
+
+msgid "Suppress filters"
+msgstr "抑制过滤器"
+
+msgid "Tab font"
+msgstr "标签字体"
+
+msgid "Target"
+msgstr "目标"
+
+msgid "Taxonomies are links"
+msgstr "分类标准是链接"
+
+msgid "Taxonomy"
+msgstr "分类法"
+
+msgid "Taxonomy bar filter"
+msgstr "分类法禁止渗入"
+
+msgid "Taxonomy dropdown"
+msgstr "分类下拉列表"
+
+msgid "Taxonomy Event Counter URL"
+msgstr "分类事件计数器网址"
+
+msgid "Taxonomy field:"
+msgstr "分类字段"
+
+msgid "Taxonomy fields"
+msgstr "分类字段"
+
+msgid "Taxonomy Loop"
+msgstr "分类循环"
+
+msgid "Taxonomy meta"
+msgstr "分类变换"
+
+msgid "Taxonomy Page Template"
+msgstr "分类页面模板"
+
+msgid "Taxonomy template"
+msgstr "分类模板"
+
+msgid "Taxonomy:"
+msgstr "分类法"
+
+msgid "Telephone"
+msgstr "电话"
+
+msgid "Template"
+msgstr "模板"
+
+msgid "Template content"
+msgstr "模板内容"
+
+msgid "Template Integration"
+msgstr "模板整合"
+
+msgid "Template page id (optional)"
+msgstr "模板网页地址（可选择）"
+
+msgid "Template path"
+msgstr "模板路径"
+
+msgid "Template refers to the main element holder, by default it is: &lt;span%1$s&gt;&lt;/span&gt;"
+msgstr "模板引用主振子固定器，其默认形式为： <span%1$s></span>"
+
+msgid "Template Settings"
+msgstr "模板设置"
+
+msgid "Templates"
+msgstr "模板"
+
+msgid "Term Name"
+msgstr "项目名称"
+
+msgid "Terms"
+msgstr "项目"
+
+msgid "Text"
+msgstr "文"
+
+msgid "Text color"
+msgstr "文本颜色"
+
+msgid "Text decoration"
+msgstr "文本装饰"
+
+msgid "Text for info windows"
+msgstr "信息窗口文本"
+
+msgid "Text shadow"
+msgstr "文字阴影"
+
+msgid "The current calendarize settings require that you specify the repeat date time."
+msgstr "当前的备忘日历设置要求您指定重复出现日期的时间"
+
+msgid "The description of the organizer, will be used in the organizer page content."
+msgstr "组织者的描述，将被运用于整个组织者页面"
+
+msgid "The description of the venue, will be used in the venue page content."
+msgstr "场地描述将被运用于场地页面内容中"
+
+msgid "The elements inner html gets replaced with the actual fields value, using the format field."
+msgstr "运用格式字段，将基本原理内部超文本标记语言替换为实际字段值"
+
+msgid "The fields below are only for the developers in order to debug potential problems. Switch the <b>Enable debug</b> to <b>No</b>​ in the <b>Options > Troubleshooting tab</b>."
+msgstr "下面的字段仅为开发人员调试潜在问题而设，切换< b >能调试< / b > 本次< b >没有< / b > < b >选项> < / b >故障排除选项卡。"
+
+msgid "The first set of data in a calendar view will be preloaded.  Choose no if you do not want to preload events by default."
+msgstr "日历视图中的第一组数据将会被加载，如果你不想加载被默认的加载事件请选择no"
+
+msgid "The Term Name"
+msgstr "条款名称"
+
+msgid "The text color and color background of all events will be cleared.  This action includes custom post types that have been calendarized."
+msgstr "所有事件的文本颜色和彩色本背景都将被清除，该操作包括已被设为日历备忘的自定义提交类型"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "Theme integration"
+msgstr "主题综合"
+
+msgid "Theme issues"
+msgstr "主题问题"
+
+msgid "Theme meta fields"
+msgstr "主题变化域"
+
+msgid "There are no additional Post Types to enable."
+msgstr "没有额外的文章类型可启用"
+
+msgid "This action cannot be undone!"
+msgstr "该操作无法消除"
+
+msgid "This action cannot be undone!  Confirm to remove all event font color and background color."
+msgstr "该操作无法消除！确认删除所有事件的字体颜色和背景颜色"
+
+msgid "This applies to theme integration version 2.  Turn this option on if the single event page shows the template page title, instead of the event title"
+msgstr "此选项适用于主题集成版本2，如果单一事件页面显示模板页面标题而不是事件标题，请打开这个选项"
+
+msgid "This is an all day event."
+msgstr "这是一个全天性事件"
+
+msgid "This is only used on template version 1."
+msgstr "这仅仅用于模板版本1"
+
+msgid "This operation cannot be undone. All the events custom field layout will be replaced!"
+msgstr "此操作不能撤销。所有事件的自定义字段布局都将被取代"
+
+msgid "This operation may take a while to complete."
+msgstr "该操作可能需要花费一段时间才能完成"
+
+msgid "This option is currently not available."
+msgstr "当前此选项无效"
+
+msgid "This option may fix issues where sharing buttons are not showing on the event page."
+msgstr "在共享按钮没有显示在活动页面上的情况下，这个选项可以解决这个问题。"
+
+msgid "This option was added specifically for partial compatibility with the qtranslate plugin.  Turning it on may break third party plugins that modify event content.  The qtranslate slug plugin is also need for further compatibility."
+msgstr "该选项的添加是专门为了翻译插件的部分兼容性而进行的。开启该选项，可能会导致修改事件内容的第三方插件崩溃。为了进一步的兼容性，还将需要翻译插件块。"
+
+msgid "This option was originally created for IIS hosted sites that have problem downloading DLC."
+msgstr "这个选项最初是为有下载数据链路问题的因特网信息服务器托管网站创建的"
+
+msgid "This option will apply and overwrite the custom field layout with the default one, on ALL events."
+msgstr "这个选项将在所有的事件中适用和覆盖默认的自定义设置"
+
+msgid "This shortcode requires that the latest version of 'Ajax events query version.' is enabled."
+msgstr "这个短码所需的'创建交互式事件查询版本\"的最新版本已激活"
+
+msgid "This will overwrite all calendarize date and recurring date settings."
+msgstr "将重写所有备忘日历的日期和反复出现日期的设置"
+
+msgid "This will remove all calendarize date and recurring date settings."
+msgstr "这将删除所有的备忘日历和取消对反复出现日期的设置"
+
+msgid "This will replace the existing default fields with the layout set on this page for all boxes."
+msgstr "这将取代当前页面上位所有盒子设置的默认设置"
+
+msgid "This will restore the default template.  Any customization will be lost on all boxes."
+msgstr "将恢复默认模板，所有盒子里的定制化服务都将消失"
+
+msgid "thu"
+msgstr "星期四"
+
+msgid "Thumbnail"
+msgstr "缩略图"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Time font"
+msgstr "时间字体"
+
+msgid "Time format"
+msgstr "时间格式"
+
+msgid "Time Interval"
+msgstr "时间间隔"
+
+msgid "Tip and background color"
+msgstr "提示和背景颜色"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Title font"
+msgstr "标题字体"
+
+msgid "Title format"
+msgstr "标题格式"
+
+msgid "Title line height"
+msgstr "标题行的高度"
+
+msgid "Title top margin"
+msgstr "标题顶边"
+
+msgid "today"
+msgstr "今天"
+
+msgid "TODO"
+msgstr "待办事项"
+
+msgid "Tooltip"
+msgstr "提示框"
+
+msgid "Tooltip Background"
+msgstr "工具提示背景色"
+
+msgid "Tooltip behaviour"
+msgstr "提示行为"
+
+msgid "Tooltip custom fields"
+msgstr "工具提示自定义字段"
+
+msgid "Tooltip Details"
+msgstr "提示信息"
+
+msgid "Tooltip fonts"
+msgstr "提示字体"
+
+msgid "Tooltip links target"
+msgstr "提示信息链接目标"
+
+msgid "Tooltip shadow"
+msgstr "工具提示的阴影"
+
+msgid "Tooltip width"
+msgstr "工具提示的宽度"
+
+msgid "Top Border color"
+msgstr "上方边框颜色"
+
+msgid "Top box"
+msgstr "顶框"
+
+msgid "Top Container"
+msgstr "顶端容器"
+
+msgid "Top image shortcode"
+msgstr "顶级影像短码"
+
+msgid "Top margin"
+msgstr "顶边"
+
+msgid "Top Rating Text"
+msgstr "最高评级的文本"
+
+msgid "Top width"
+msgstr "顶宽"
+
+msgid "Troubleshooting"
+msgstr "发现并修理故障"
+
+msgid "tue"
+msgstr "星期二"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Turn on if for some special usage you require that events post type are hierarchical.  Observe that on large sets of data this may exhaust memory in the backend."
+msgstr "如果出于特殊用途，您要求事件发布类型按层级进行，请开启该选项。请注意如果数据太多，则可能大量消耗系统内存。"
+
+msgid "Turn this option ON if you are getting the error message 'There was an error extracting the bundled resources' when downloading addons."
+msgstr "当您下载插件时，如果您收到错误信息“解压打包资源时出错”，请开启此选项。"
+
+msgid "Turn this option on only if the community events addon dropdowns, or the map view dropdowns are not opening.  You may also try the scripts in footer option."
+msgstr "请您仅仅在社区事件插件下拉菜单和地图视图下拉菜单没有打开时，开启该选项。您也可以选择页脚选项的脚本。"
+
+msgid "Turned off by default.  Choose yes if you have plugins or addons that may modify the content of events based on what user is logged in.  This increases the size of the cache, so only choose yes if needed."
+msgstr "该选项默认为关闭。如果您已经拥有一些可以根据所登录的用户对于事件内容进行修改的插件或附件内容，请选择YES。但是该操作会增加缓存的大小，因此请仅仅在必要时选择YES。"
+
+msgid "Turning this option will reset the internal ajax version so that it re-installs needed tables and re-generate event recurring dates."
+msgstr "开启该选项之后会重置内部ajax版本，系统将重新安装所需的表格，重新生成时间发生的日期。"
+
+msgid "Twitter"
+msgstr "推特"
+
+msgid "Twitter bg"
+msgstr "推特背景"
+
+msgid "Twitter default color"
+msgstr "推特默认颜色"
+
+msgid "Twitter font"
+msgstr "推特字体"
+
+msgid "Twitter hover"
+msgstr "推特鼠标悬停"
+
+msgid "Twitter Hover color"
+msgstr "推特鼠标悬停颜色"
+
+msgid "Twitter Icon color"
+msgstr "推特图标颜色"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type:"
+msgstr "类型"
+
+msgid "UI Elements"
+msgstr "用户界面元素"
+
+msgid "underline"
+msgstr "下划线"
+
+msgid "Unknown function %s"
+msgstr "未知参量%s"
+
+msgid "Up to version 2.4.4 ical dates where set in local time.  Latest version default converts dtstart, dtend, rdate and exrdate to UTC depending on the configured offset in WordPress settings.  Choose yes to disable converting dates."
+msgstr "截止到2.4.4版本之前，ical日期都设置为当地时间。在最新版本中，系统默认将根据WordPress设置中已配置好的抵消设置来转换起始日期,、结束日期、r日期和exr日期。选择YES可以禁用日期转换。"
+
+msgid "Upcoming dates"
+msgstr "即将到来的日期"
+
+msgid "Upcoming events"
+msgstr "即将到来的事件"
+
+msgid "Upcoming Events Agenda Like B URL"
+msgstr "类似B网址的即将到来事件议程"
+
+msgid "Upcoming Events Agenda Like URL"
+msgstr "类似网址的即将到来事件议程"
+
+msgid "Upcoming Events Default URL"
+msgstr "即将到来事件默认网址"
+
+msgid "Upcoming events widget"
+msgstr "即将来临的事件微件"
+
+msgid "Upcoming only"
+msgstr "即将到来的只有"
+
+msgid "Upcoming only (all views)"
+msgstr "即将到来的只有（所有视图）"
+
+msgid "Upcomming Event Button"
+msgstr "即将到来事件按钮"
+
+msgid "Update %s"
+msgstr "更新 %s"
+
+msgid "Update calendar"
+msgstr "更新日历"
+
+msgid "Update Organizer"
+msgstr "更新组织者"
+
+msgid "Update venue"
+msgstr "更新场地"
+
+msgid "Update, left border color"
+msgstr "更新，右边框颜色"
+
+msgid "Upgrading bugs"
+msgstr "升级错误"
+
+msgid "URL of a organizer page.  If left blank the editor will try to determine it automatically."
+msgstr "组织者页面网址。如留空，编辑器将自动选择。"
+
+msgid "URL of a single event page.  If left blank the editor will try to determine it automatically."
+msgstr "单事件页面网址。如留空，编辑器将自动选择。"
+
+msgid "URL of a venue page.  If left blank the editor will try to determine it automatically."
+msgstr "地点页的网址。如留空，编辑器将自动选择。"
+
+msgid "Url to an image to display at the organizer category page"
+msgstr "URL链接到一张图片，该图片显示在以组织者分类的页面中"
+
+msgid "Url to an image to display at the venue category page"
+msgstr "链接到一张图片，该图片显示在以地点分类的页面中"
+
+msgid "Use author dropdown in settings."
+msgstr "在设置中使用作者下拉菜单"
+
+msgid "Use original upcoming events widget."
+msgstr "使用原始的临近事件小工具"
+
+msgid "Use rel='nofollow' for link:"
+msgstr "使用rel='nofollow'用于链接："
+
+msgid "Use this option to automatically add Calendarize It! single page elements, you can still control display with the Layout options in the post edit screen."
+msgstr "使用该选项来自动添加“记入日历备忘录！”的单页要素，同时在发布编辑界面，您还可以通过格式选项来控制它的显示。"
+
+msgid "Use this options if you want to disable some of the calendarize-it built in taxonomies."
+msgstr "如果您想要禁“记入日历备忘录”中内置的一些分类，请使用该选项。"
+
+msgid "Use uploads as temp folder"
+msgstr "使用上传文件夹作为临时文件夹"
+
+msgid "Value font"
+msgstr "值字体"
+
+msgid "Value font shadow"
+msgstr "值字体阴影"
+
+msgid "Value:"
+msgstr "价值"
+
+msgid "Values (links)"
+msgstr "值（链接）"
+
+msgid "Values (normal)"
+msgstr "值（一般）"
+
+msgid "Values font"
+msgstr "值字体"
+
+msgid "Values link font"
+msgstr "值链接字体"
+
+msgid "Variable"
+msgstr "可变的"
+
+msgid "Venue"
+msgstr "会场"
+
+msgid "Venue details"
+msgstr "会场细节"
+
+msgid "Venue Details Box"
+msgstr "会场细节盒"
+
+msgid "Venue Details Box Map"
+msgstr "会场细节箱图"
+
+msgid "Venue fields"
+msgstr "场地领域"
+
+msgid "Venue Image"
+msgstr "场地概念"
+
+msgid "Venue Loop"
+msgstr "场地循环"
+
+msgid "Venue Map"
+msgstr "场内地图"
+
+msgid "Venue meta"
+msgstr "场内后设"
+
+msgid "Venue Name"
+msgstr "会场名"
+
+msgid "Venue page"
+msgstr "地点页"
+
+msgid "Venue Page Template"
+msgstr "地点页模板"
+
+msgid "Venue template"
+msgstr "会场模板"
+
+msgid "Venue URL"
+msgstr "地点网址"
+
+msgid "Venue Website"
+msgstr "地点网站"
+
+msgid "Venues"
+msgstr "场地"
+
+msgid "Venues slug"
+msgstr "会场块"
+
+msgid "Version 2.4.4"
+msgstr "版本 2.4.4"
+
+msgid "Version 3.1.4 ajax query"
+msgstr "版本3.1.4 ajax查询"
+
+msgid "Vertical label"
+msgstr "垂直标签"
+
+msgid "Vertical label font"
+msgstr "垂直标签字体"
+
+msgid "View"
+msgstr "查看"
+
+msgid "View background"
+msgstr "视图背景"
+
+msgid "View default color"
+msgstr "查看默认颜色"
+
+msgid "View event"
+msgstr "查看事件"
+
+msgid "View Google Map"
+msgstr "查看谷歌地图"
+
+msgid "View Hover color"
+msgstr "查看悬停颜色"
+
+msgid "Visual calendar slug"
+msgstr "视觉压塞"
+
+msgid "Visual Composer"
+msgstr "图像设计者"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Website label"
+msgstr "网站标签"
+
+msgid "Website url"
+msgstr "网址"
+
+msgid "Website url nofollow behavior"
+msgstr "网址链接属性行为"
+
+msgid "Website:"
+msgstr "网站"
+
+msgid "wed"
+msgstr "星期三"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Week"
+msgstr "星期"
+
+msgid "Week mode"
+msgstr "周模式"
+
+msgid "Week number"
+msgstr "周数"
+
+msgid "Week number label"
+msgstr "周数标签"
+
+msgid "week of year"
+msgstr "全年的第几周"
+
+msgid "Week start"
+msgstr "起始周"
+
+msgid "Week view column"
+msgstr "周视图专栏"
+
+msgid "Week view title"
+msgstr "周视图标题"
+
+msgid "week(s)"
+msgstr "星期"
+
+msgid "When a visitor does not have access to a page, the Raw html content will be sent to the browser.  This can be html, javascript (propery encapsulated with script tags), etc."
+msgstr "当一个访客没有访问一个网页，原始的HTML内容将被发送到浏览器。这可以是HTML、JavaScript（脚本标签封装性），等等。"
+
+msgid "When printing a page with a calendar, by default only the calendar will be printed.  Check this option to disable print css."
+msgstr "当打印一页日历时，在默认情况下只有日历会被打印出来。检查选项禁止打印层叠样式表"
+
+msgid "When the calendar object is smaller than the value set, mobile layout will be displayed instead of the regular calendar layout.  This does not apply to calendar widgets."
+msgstr "当日历对象小于设置值,移动布局将会取代常规的日历布局被显示出来。这并不适用于日历小工具"
+
+msgid "When this option is set to yes, microdata will automatically be added to an event."
+msgstr "当此选项设置为“是”，微数据将自动被添加到一个事件"
+
+msgid "Widget Date box"
+msgstr "日期框插件"
+
+msgid "Widget Date box Background"
+msgstr "日期框背景"
+
+msgid "Widget Date box Day"
+msgstr "天数框部件"
+
+msgid "Widget Date box Month"
+msgstr "月份日期框部件"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Width bottom"
+msgstr "底部宽度"
+
+msgid "Width top"
+msgstr "顶部宽度 "
+
+msgid "Width:"
+msgstr "宽度"
+
+msgid "WordPress version"
+msgstr "WordPress版本"
+
+msgid "WP 4.1 cannot delete events"
+msgstr "WP 4.1无法删除项目"
+
+msgid "WP 4.4 taxonomy metadata dissappeared."
+msgstr "WP 4.4分类元数据消失了"
+
+msgid "Write <b>comma separated</b> and <b>no space</b> labels on each setting in this section"
+msgstr "在这一部分的每一个设置中，输入<b>comma separated</b> and <b>no space</b>的标签。"
+
+msgid "Write an author user_login to display events from that author only"
+msgstr "输入一个作者user_login以单独显示该作者提交的事件。"
+
+msgid "Write comma separated shortcode arguments that you would like to make available for overwritting through the URL query."
+msgstr "您可以制定一个可以通过URL查询来覆盖的短代码清单，不同短代码之间以逗号隔开。"
+
+msgid "Year"
+msgstr "年"
+
+msgid "year, 2 digits"
+msgstr "年，2位数"
+
+msgid "year, 4 digits"
+msgstr "年，4位数"
+
+msgid "year(s)"
+msgstr "年"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes default color"
+msgstr "确定默认颜色"
+
+msgid "Yes hover color"
+msgstr "确定悬停颜色"
+
+msgid "You can also write the year only, or the year and the month.  Example 2012-06 to get events from june 6."
+msgstr "您可以只输入年份，或是输入年份和月份。例如输入2012-06以获得从6月6日之后发生的事件。"
+
+msgid "You can use this field for custom content.  Or leave empty and drag existing elements here."
+msgstr "您可以使用该字段的自定义内容，或者拖动这里现存的要素保留空白"
+
+msgid "You cannot edit this post."
+msgstr "您无法编辑这个邮件"
+
+msgid "You have not installed the English Help for Calendarize it! Please go to "
+msgstr "您还没有为备忘录安装英文帮助！请去安装"
+
+msgid "You only need to set the post id if you want to bring the date of a diferent event."
+msgstr "如果您想要使用不同事件的日期，您只需要设置您的信箱ID。"
+
+msgid "You only need to set the post id if you want to bring the map of a diferent event."
+msgstr "如果您想要带走一个不同事件的地图，你只需要设置一下您的邮政地址"
+
+msgid "You will need to manually add the [rhc_post_info] shortcode."
+msgstr "您需要手动添加 [rhc_post_info] 短吗"
+
+msgid "You will need to manually add the shortcode."
+msgstr "您将需要手动添加短码"
+
+msgid "Zip Code"
+msgstr "邮编"
+
+msgid "Zoom"
+msgstr "缩放"

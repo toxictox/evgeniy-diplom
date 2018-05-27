@@ -1,0 +1,5282 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Project-Id-Version: rhc\n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+msgid "_blank"
+msgstr ""
+
+msgid "_blank new window or tab"
+msgstr ""
+
+msgid "_parent"
+msgstr ""
+
+msgid "_self"
+msgstr ""
+
+msgid "_self same window or tab"
+msgstr ""
+
+msgid "_top"
+msgstr ""
+
+msgid "--any--"
+msgstr ""
+
+msgid "--choose--"
+msgstr ""
+
+msgid "--no options--"
+msgstr ""
+
+msgid "--none--"
+msgstr ""
+
+msgid ".htaccess content"
+msgstr ""
+
+msgid "*Overwrites event taxonomies filter."
+msgstr ""
+
+msgid "%s content columns. Holder proportion: %s"
+msgstr ""
+
+msgid "%s database table exists. Contains %s records."
+msgstr ""
+
+msgid "%s database table not found."
+msgstr ""
+
+msgid ""
+"%s if you would prefer the theme to render the content of events in archive."
+msgstr ""
+
+msgid "%s or %s"
+msgstr ""
+
+msgid "%s page Template"
+msgstr ""
+
+msgid "%s( %s )"
+msgstr ""
+
+msgid "<b>Cause:</b>  Another script is trying to redirect the user on login"
+msgstr ""
+
+msgid ""
+"<b>comma separated</b> and <b>no space</b> labels on each setting in section"
+msgstr ""
+
+msgid ""
+"<b>Custom Days per page:</b>  By default when clicking next or previous, the "
+"view will go to the next month, behaving in a similar way to the month "
+"view.  You can specify the number of days to advance with this option."
+msgstr ""
+
+msgid ""
+"<b>Days ahead:</b>  Similar to months ahead, but allows specifying days "
+"intead of months.  This option overwrites the months option."
+msgstr ""
+
+msgid ""
+"<b>Max displayed events:</b>  Optionally limit the number of events "
+"displayed."
+msgstr ""
+
+msgid ""
+"<b>Months ahead:</b>  By default the events view show up to one month of "
+"upcoming events.  Use this option to show more events."
+msgstr ""
+
+msgid ""
+"<b>Remove ended:</b> Remove event if it has ended.  Event end date is "
+"compared against the time in the client side."
+msgstr ""
+
+msgid "<b>Reverse order:</b>  choose yes to invert the order of events"
+msgstr ""
+
+msgid ""
+"<b>Show multi month events:</b> By default long spanning events that started "
+"on a diferent month will not be displayed in the event list.  Check yes to "
+"show them."
+msgstr ""
+
+msgid ""
+"<b>Show same date header:</b>  choose yes to show a label with the date "
+"before events on the same date."
+msgstr ""
+
+msgid ""
+"<b>Stack autoload:</b>Automatically fetch and stack the next group of events"
+msgstr ""
+
+msgid ""
+"<b>Stack behaviour:</b>When clicking Next, the view will not be cleared, "
+"instead new events will stack."
+msgstr ""
+
+msgid ""
+"<b>Upcoming only:</b>  choose yes if you only want to display upcoming "
+"events."
+msgstr ""
+
+msgid "<i>Technical:</i> This is stored in the local site options."
+msgstr ""
+
+msgid "1/2 content - 1/2 Image"
+msgstr ""
+
+msgid "1/3 - 2/3"
+msgstr ""
+
+msgid "1/3 content - 2/3 Image"
+msgstr ""
+
+msgid "1/4 - 3/4"
+msgstr ""
+
+msgid "1/4 content - 3/4 Image"
+msgstr ""
+
+msgid "1st"
+msgstr ""
+
+msgid "2/3 - 1/3"
+msgstr ""
+
+msgid "2/3 content - 1/3 Image"
+msgstr ""
+
+msgid ""
+"2015 RightHere LLC. Trademarks and brands are the property of their "
+"respective owners."
+msgstr ""
+
+msgid "2nd"
+msgstr ""
+
+msgid "3/4 - 1/4"
+msgstr ""
+
+msgid "3/4 content - 1/4 Image"
+msgstr ""
+
+msgid "3rd"
+msgstr ""
+
+msgid "4th"
+msgstr ""
+
+msgid "5th"
+msgstr ""
+
+msgid "A duplicate of this addon/plugin is already active."
+msgstr ""
+
+msgid ""
+"a short label that identifies this export code and click on Export to get "
+"the site settings.  You can later use this code to restore by uploading the "
+"file in the Import settings section of this tab."
+msgstr ""
+
+msgid ""
+"a small description so you can identify this settings and press <i>Save  It "
+"will be listed on the Saved settings list."
+msgstr ""
+
+msgid ""
+"A static list of events is rendered in a noscript tag for people browsing "
+"the calendar without javascript.  This makes the events visible to search "
+"enginges too."
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add %s"
+msgstr ""
+
+msgid "Add a Custom Details Box"
+msgstr ""
+
+msgid "Add a Organizer Image"
+msgstr ""
+
+msgid "Add a Organizer Website field"
+msgstr ""
+
+msgid "Add a Venue Image"
+msgstr ""
+
+msgid "Add a Venue Map"
+msgstr ""
+
+msgid "Add an Event Image"
+msgstr ""
+
+msgid "Add calendar"
+msgstr ""
+
+msgid "Add comma separated taxonomy slugs to remove from the filter bar."
+msgstr ""
+
+msgid "Add comment..."
+msgstr ""
+
+msgid "Add Conditional Content"
+msgstr ""
+
+msgid "Add Cutom Label"
+msgstr ""
+
+msgid "Add End Date and Time field"
+msgstr ""
+
+msgid "Add End Date field"
+msgstr ""
+
+msgid "Add End Time field"
+msgstr ""
+
+msgid "Add Event Details Box"
+msgstr ""
+
+msgid "Add Event Excerpt"
+msgstr ""
+
+msgid "Add Event Title"
+msgstr ""
+
+msgid "Add iCal Button"
+msgstr ""
+
+msgid "Add license"
+msgstr ""
+
+msgid "Add Loop Shortcode"
+msgstr ""
+
+msgid "Add new event"
+msgstr ""
+
+msgid "Add Organizer"
+msgstr ""
+
+msgid "Add Organizer Meta field"
+msgstr ""
+
+msgid "Add Post Event Meta Data field"
+msgstr ""
+
+msgid "Add show type"
+msgstr ""
+
+msgid "Add Start Date and Time field"
+msgstr ""
+
+msgid "Add Start Date field"
+msgstr ""
+
+msgid "Add Start Time field"
+msgstr ""
+
+msgid "Add Template content"
+msgstr ""
+
+msgid "Add to your calendar"
+msgstr ""
+
+msgid "Add Upcoming Events List"
+msgstr ""
+
+msgid "Add venue"
+msgstr ""
+
+msgid "Add Venue Details Box"
+msgstr ""
+
+msgid "Add Venue Meta field"
+msgstr ""
+
+msgid "Add Venue Website field"
+msgstr ""
+
+msgid "Add-ons"
+msgstr ""
+
+msgid ""
+"adding the initial event simply click on any date in order to add the repeat "
+"date."
+msgstr ""
+
+msgid ""
+"addition to recurring rules you can set arbitrary repeat dates.  Click to "
+"save an arbitrary repeat date."
+msgstr ""
+
+msgid "Additional info layout"
+msgstr ""
+
+msgid ""
+"addons installed.  Go to the Downloads menu to download an addon, then back "
+"to this screen to activate it."
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Address:"
+msgstr ""
+
+msgid "Adjust media settings"
+msgstr ""
+
+msgid "Adjust template settings"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Advanced Settings"
+msgstr ""
+
+msgid ""
+"After adding the initial event simply click on any date in order to add the "
+"arbitrary repeat date."
+msgstr ""
+
+msgid ""
+"After upgrading to WP 4.1, as an admin you cannot edit or trash events "
+"created by other users before the upgrade."
+msgstr ""
+
+msgid ""
+"After upgrading to WP 4.4, taxonomy metadata have dissappeared.  Example "
+"venue and organizer details are empty."
+msgstr ""
+
+msgid "Agenda"
+msgstr ""
+
+msgid "Agenda day"
+msgstr ""
+
+msgid "Agenda Like"
+msgstr ""
+
+msgid "Agenda Like B"
+msgstr ""
+
+msgid "Agenda view (week and day view)"
+msgstr ""
+
+msgid "Agenda views"
+msgstr ""
+
+msgid "Agenda week"
+msgstr ""
+
+msgid ""
+"ahead:</b>  By default the events view show up to one month of events.  Use "
+"this option to show more events."
+msgstr ""
+
+msgid "Ajax"
+msgstr ""
+
+msgid "Ajax based templates and sliders"
+msgstr ""
+
+msgid "Ajax catch php warnings."
+msgstr ""
+
+msgid ""
+"Ajax data shrink is a new feature introduced on version 2.7.4, it reduces "
+"the ajax data size.  Choose no if you want to disable this feature."
+msgstr ""
+
+msgid "Ajax events query version."
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid "All %s"
+msgstr ""
+
+msgid "All calendars"
+msgstr ""
+
+msgid "All day"
+msgstr ""
+
+msgid "All organizers"
+msgstr ""
+
+msgid "All show types"
+msgstr ""
+
+msgid "All venues"
+msgstr ""
+
+msgid "All views"
+msgstr ""
+
+msgid "all-day"
+msgstr ""
+
+msgid "all-day label"
+msgstr ""
+
+msgid "Allday group"
+msgstr ""
+
+msgid ""
+"allows us to verify your purchase and provide support to those who have We "
+"will also automatically notify you when updates are available. are free to "
+"download if you have purchased this once. If you have about this, please "
+"contact us at %s."
+msgstr ""
+
+msgid "any time"
+msgstr ""
+
+msgid "Any user"
+msgstr ""
+
+msgid "API Server returned an unrecognized format."
+msgstr ""
+
+msgid "Api url"
+msgstr ""
+
+msgid "Apply ALL default"
+msgstr ""
+
+msgid "Apply Default"
+msgstr ""
+
+msgid "Apply default Dynamic Tooltip"
+msgstr ""
+
+msgid "Apply default Event Detail Box"
+msgstr ""
+
+msgid "Apply default to all events"
+msgstr ""
+
+msgid "Apply default Venue Detail Box"
+msgstr ""
+
+msgid "Apply filters"
+msgstr ""
+
+msgid "Apply the_content filter to the Event page content"
+msgstr ""
+
+msgid "apr"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "Arbitrary repeat dates"
+msgstr ""
+
+msgid "Archive content template"
+msgstr ""
+
+msgid "Archive/Blog layout settings"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Aspect ratio"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "At event end"
+msgstr ""
+
+msgid "Attending Status"
+msgstr ""
+
+msgid "aug"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Automatic Calendar content"
+msgstr ""
+
+msgid "Automatic settings backup"
+msgstr ""
+
+msgid "Avarage Text"
+msgstr ""
+
+msgid "average"
+msgstr ""
+
+msgid "Axis format (Also affects day view)"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Back background"
+msgstr ""
+
+msgid "Back Container"
+msgstr ""
+
+msgid "Back Container background"
+msgstr ""
+
+msgid "Back default color"
+msgstr ""
+
+msgid "Back hover color"
+msgstr ""
+
+msgid "Backend Event List Taxonomies"
+msgstr ""
+
+msgid "Backend jQuery UI version"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Background matches event color"
+msgstr ""
+
+msgid "Backup my current settings locally."
+msgstr ""
+
+msgid "Bar background"
+msgstr ""
+
+msgid "Bar bg color"
+msgstr ""
+
+msgid "Bar color"
+msgstr ""
+
+msgid "Bar Text"
+msgstr ""
+
+msgid "Be the first to rate and review"
+msgstr ""
+
+msgid "Bg, border and tip color"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Border"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Border style"
+msgstr ""
+
+msgid "Both local and external sources"
+msgstr ""
+
+msgid "Bottom width"
+msgstr ""
+
+msgid "Box shadow"
+msgstr ""
+
+msgid "Brief description"
+msgstr ""
+
+msgid "Bubble"
+msgstr ""
+
+msgid "Bubble bg"
+msgstr ""
+
+msgid "Bundle is empty."
+msgstr ""
+
+msgid "Bundles"
+msgstr ""
+
+msgid "Business directory"
+msgstr ""
+
+msgid "Business directory taxonomies"
+msgstr ""
+
+msgid "Button background"
+msgstr ""
+
+msgid "Button Calendar"
+msgstr ""
+
+msgid "Button color"
+msgstr ""
+
+msgid "Button color hover"
+msgstr ""
+
+msgid "Button color open"
+msgstr ""
+
+msgid "Button day"
+msgstr ""
+
+msgid "Button event"
+msgstr ""
+
+msgid "Button label"
+msgstr ""
+
+msgid "Button labels"
+msgstr ""
+
+msgid "Button month"
+msgstr ""
+
+msgid "Button next"
+msgstr ""
+
+msgid "Button next year"
+msgstr ""
+
+msgid "Button previous"
+msgstr ""
+
+msgid "Button previous year"
+msgstr ""
+
+msgid "Button today"
+msgstr ""
+
+msgid "Button week"
+msgstr ""
+
+msgid "Buttons"
+msgstr ""
+
+msgid "Buy now"
+msgstr ""
+
+msgid "by count"
+msgstr ""
+
+msgid "by date"
+msgstr ""
+
+msgid ""
+"By default allday events are rendered ordered by title.  Choose color to "
+"group by color, or by order to use the menu order from the edit event screen."
+msgstr ""
+
+msgid ""
+"By default set to 10080 (1 week).  Represents how long to wait before a "
+"cached event query is expired."
+msgstr ""
+
+msgid ""
+"By default set to 120 (2 hours).  If set too hight, it will take a while do "
+"detect new events."
+msgstr ""
+
+msgid ""
+"By default the calendarizeit shortcode only displays one custom post type "
+"(events by default), and you need to set the post_type value to show a "
+"diferent post type.  Choose yes if you want to display all enabled post "
+"types by default."
+msgstr ""
+
+msgid "By event color"
+msgstr ""
+
+msgid "By event end"
+msgstr ""
+
+msgid "By menu order"
+msgstr ""
+
+msgid "By title(default)"
+msgstr ""
+
+msgid "Cache by user"
+msgstr ""
+
+msgid ""
+"cache is active by default, choose yes to turn off the server side cache."
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Calendar button (filter)"
+msgstr ""
+
+msgid "Calendar category slug"
+msgstr ""
+
+msgid "Calendar day view"
+msgstr ""
+
+msgid "Calendar event list view"
+msgstr ""
+
+msgid "Calendar event list view(Extended details)"
+msgstr ""
+
+msgid "Calendar First Day"
+msgstr ""
+
+msgid "Calendar frame"
+msgstr ""
+
+msgid "Calendar header"
+msgstr ""
+
+msgid "Calendar labels"
+msgstr ""
+
+msgid "Calendar Loop"
+msgstr ""
+
+msgid "Calendar month view"
+msgstr ""
+
+msgid "Calendar Name"
+msgstr ""
+
+msgid ""
+"Calendar plugin update %s is available! <a href='%s'>Please update now</a>"
+msgstr ""
+
+msgid "Calendar URL"
+msgstr ""
+
+msgid "Calendar url(optional)"
+msgstr ""
+
+msgid "Calendar view"
+msgstr ""
+
+msgid "Calendar week view"
+msgstr ""
+
+msgid "Calendar Widget links to Page"
+msgstr ""
+
+msgid ""
+"Calendar widget: Selet a page, to which the calendar widget will take the "
+"user when clicked.  Usually a page containing the calendarizeit shortcode."
+msgstr ""
+
+msgid "Calendarize"
+msgstr ""
+
+msgid "Calendarize (Events calendar)"
+msgstr ""
+
+msgid "Calendarize (Upcoming Events)"
+msgstr ""
+
+msgid "Calendarize (Upcoming Posts)"
+msgstr ""
+
+msgid "Calendarize %s"
+msgstr ""
+
+msgid "Calendarize It"
+msgstr ""
+
+msgid "Calendarize It version"
+msgstr ""
+
+msgid "Calendarize It!"
+msgstr ""
+
+msgid "Calendarize it! add-ons"
+msgstr ""
+
+msgid "Calendarize it! Automatic Setup"
+msgstr ""
+
+msgid "Calendarize It! images"
+msgstr ""
+
+msgid ""
+"Calendarize It! update %s is available! <a href='%s'>Please update now</a>"
+msgstr ""
+
+msgid ""
+"Calendarize It! version 2.4.4 the events query was optimized.  If you "
+"experiencing problems with events that should load but are not loading yes "
+"to use the original ajax."
+msgstr ""
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Left without Box)"
+msgstr ""
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Left)"
+msgstr ""
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Right without Box)"
+msgstr ""
+
+msgid ""
+"Calendarize it!').' - '.__( 'Custom Event Details Box and Custom Venue "
+"Details Box (Image and Map Right)"
+msgstr ""
+
+msgid ""
+"Calendarize it!').' - '.__( 'Default Event Details Box and Default Venue "
+"Details Box"
+msgstr ""
+
+msgid "Calendarize it!').' - '.__( 'Organizer Details Box (Image Left)"
+msgstr ""
+
+msgid "Calendarize it!').' - '.__( 'Organizer Details Box (Image Right)"
+msgstr ""
+
+msgid "Calendarize it!').' - '.__( 'Venue Details Box (Map Left)"
+msgstr ""
+
+msgid "Calendarize it!').' - '.__( 'Venue Details Box (Map Right)"
+msgstr ""
+
+msgid "Calendarize metabox"
+msgstr ""
+
+msgid "Calendarize shortcode"
+msgstr ""
+
+msgid "Calendarize taxonomies"
+msgstr ""
+
+msgid ""
+"Calendarize taxonomies (Calendar, Organizer, Venues, Addons)can be enabled "
+"for other post types.  Check the post types, where you want the taxonomy to "
+"be enabled."
+msgstr ""
+
+msgid "Calendarize templates"
+msgstr ""
+
+msgid ""
+"Calendarize templates if you want to use the theme templates.  that meta "
+"data like maps, venue and extra info will need to be added throught "
+"shortcodes."
+msgstr ""
+
+msgid ""
+"Calendarize uses its own template file by default.  You can use the "
+"following options to disable the calendarize templates, and let the theme "
+"handle the layout."
+msgstr ""
+
+msgid "Calendarize-it"
+msgstr ""
+
+msgid ""
+"Calendarizer metabox can be enabled for other post types.  Check the post "
+"types, where you want the calendar metabox to be displayed."
+msgstr ""
+
+msgid "Calendars"
+msgstr ""
+
+msgid ""
+"can also write the year only, or the year and the month.  Example to get "
+"events from june 6."
+msgstr ""
+
+msgid ""
+"can be added by plugin add-ons or updates.  If you restore a bundle, on the "
+"bundle content, it can overwrite part of the current or all of them.  Make a "
+"backup of your settings before proceding."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Capacity"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid ""
+"Cause: A third party plugin(or the theme) is crashing in the save_post "
+"action hook and not letting the calendar generate required metadata."
+msgstr ""
+
+msgid "Cell Background"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Center header"
+msgstr ""
+
+msgid "Change status RSVP"
+msgstr ""
+
+msgid ""
+"Change the labels of the buttons in the calendar top controls.  Please "
+"observe that this will overwrite localization, so if you are using multiple "
+"languages, leave this fields empty."
+msgstr ""
+
+msgid "Check calendar visibility"
+msgstr ""
+
+msgid "Check days that you do NOT want to show."
+msgstr ""
+
+msgid ""
+"Check external taxonomies that you would like to use with Calendarize It! "
+"events.  Observe that if this taxonomies where added by other plugins, and "
+"you turn off this plugins, they will also be disabled for Calendarize It! "
+"events."
+msgstr ""
+
+msgid ""
+"Check months that you do NOT want to show. Pressing prev or next button in "
+"calendar will skip to the next available month."
+msgstr ""
+
+msgid "Check no to remove the default taxonomies from the filtering bar."
+msgstr ""
+
+msgid ""
+"Check post types for wich you want to enable the Calendarize It! image "
+"metaboxes."
+msgstr ""
+
+msgid "Check post types for wich you want to enable the detail box metabox."
+msgstr ""
+
+msgid "Check taxonomies that you do not want to show in the filter box."
+msgstr ""
+
+msgid ""
+"Check taxonomies that you would like to remove from the backend event list."
+msgstr ""
+
+msgid ""
+"Check the conditions to test for displaying the shortcode.  Leave empty to "
+"display everywhere, included feeds and trackbacks."
+msgstr ""
+
+msgid ""
+"Check the post type name for wich you want to enable the custom taxonomy."
+msgstr ""
+
+msgid "Check this option if you do not want events to show in search results."
+msgstr ""
+
+msgid ""
+"Check this option if you do not want the calendar events to link to a single "
+"event page."
+msgstr ""
+
+msgid "Check this option to display events from the logged in user."
+msgstr ""
+
+msgid ""
+"Check this option to display events from the logged in user.  Observe that "
+"you need to go to Calendarize It! (menu) -> Options (submenu) -> Events "
+"cache (tab) and enable 'Cache by user' (yes)."
+msgstr ""
+
+msgid ""
+"Check this option to display recurring instances of the current post.  "
+"Expected inside a loop (get_the_ID)."
+msgstr ""
+
+msgid ""
+"Check this option to output without detail box html wrappers.  Ignores the "
+"label field."
+msgstr ""
+
+msgid "Check to add rel='nofollow' to the website link"
+msgstr ""
+
+msgid "Check to just show the url, no link wrap."
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Choose a file exported with the Export settings option on this tab"
+msgstr ""
+
+msgid "Choose a taxonomy and terms to filter events."
+msgstr ""
+
+msgid "Choose color"
+msgstr ""
+
+msgid ""
+"Choose no if you dont want the event titles to render.  This is to be used "
+"in combination with the match background option.  Only applicable to month "
+"view."
+msgstr ""
+
+msgid ""
+"Choose no if you dont want to use the custom layout that can be set on the "
+"event edit page."
+msgstr ""
+
+msgid ""
+"Choose No in sites with too many users so that an open text field is shown "
+"in the Upcoming Events Widget settings instead of a dropdon for the author "
+"attribute."
+msgstr ""
+
+msgid "Choose post types to include in the calendar."
+msgstr ""
+
+msgid "Choose post types to include in the list."
+msgstr ""
+
+msgid "Choose the default ui-theme to be used"
+msgstr ""
+
+msgid "Choose yes if only want to display upcoming events."
+msgstr ""
+
+msgid ""
+"Choose yes if permalinks are not working.  It will attempt an alternative "
+"method of adding rewrite rules."
+msgstr ""
+
+msgid ""
+"Choose yes if the calendar is rendered but events are not showing.  You can "
+"verify the browser console, and check if the ajax dat is returned with a php "
+"warning.  If that is the case, turning on this option will try to catch and "
+"discard the warning so it doesnt breaks the expected calendar data."
+msgstr ""
+
+msgid ""
+"Choose yes if unwanted content is rendered in the venuebox or any other "
+"taxonomy related field."
+msgstr ""
+
+msgid ""
+"Choose yes if you are using another plugin or if the theme loads google maps "
+"api in wp-admin."
+msgstr ""
+
+msgid ""
+"Choose yes if you are using another plugin or if the theme loads google maps "
+"api."
+msgstr ""
+
+msgid ""
+"Choose yes if you are using the Accordion Upcoming Events widget, and the "
+"google map is not showing in the widget content."
+msgstr ""
+
+msgid "Choose yes if you do not want the time to be rendered."
+msgstr ""
+
+msgid ""
+"Choose yes if you only want Calendarize it! scripts to load when required."
+msgstr ""
+
+msgid ""
+"Choose yes if you want the day cell match the background color of the event."
+msgstr ""
+
+msgid "Choose yes if you want this plugin scripts loaded in the footer."
+msgstr ""
+
+msgid ""
+"Choose yes if you want to make taxonomies hyperlinks.  Example venue will be "
+"a link to the venue page."
+msgstr ""
+
+msgid ""
+"Choose yes if you want to remove past weeks from the Month view.  Only "
+"applicable when Upcoming only is also enabled."
+msgstr ""
+
+msgid ""
+"Choose yes only if the thumbnail metabox is not showing when you edit "
+"event.  Usually themes enable this."
+msgstr ""
+
+msgid ""
+"Choose yes only if you are getting a 404 page when trying to get an event "
+"page."
+msgstr ""
+
+msgid "Choose yes to add a search field to the calendar filter dialog."
+msgstr ""
+
+msgid "Choose yes to avoid loading the bundled bootstrap."
+msgstr ""
+
+msgid ""
+"Choose yes to display a debug menu.  This provide technical information that "
+"support can use to troubleshoot problems."
+msgstr ""
+
+msgid ""
+"Choose yes to enable inserting the 'Month view image' in events that has "
+"this image set.  Then 'Month view image' is set in a metabox when editing an "
+"event.  The metabox has to be enabled separately on the next option."
+msgstr ""
+
+msgid "Choose yes to enable the 'Month view image' metabox."
+msgstr ""
+
+msgid "Choose yes to enable the Month view image metabox."
+msgstr ""
+
+msgid ""
+"Choose yes to limit the terms listed under a taxonomy in the taxonomy "
+"filter.  For example, lets say that the calendar is configured to only show "
+"events from the 'Sports' category, the filter will only display terms that "
+"contains events and that are children of the 'Sports' term."
+msgstr ""
+
+msgid ""
+"Choose yes to load javascript and css files that are not minified, for "
+"easier debugging."
+msgstr ""
+
+msgid ""
+"Choose yes to only show events with the same taxonomy and term as the loaded "
+"page.  Used on venue template content."
+msgstr ""
+
+msgid "Choose yes to only show the first event in a recurring set."
+msgstr ""
+
+msgid ""
+"Choose yes to remove al wp_login hooks prior to performing the ajax login"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Class"
+msgstr ""
+
+msgid "Class:"
+msgstr ""
+
+msgid "clear"
+msgstr ""
+
+msgid "Clear all event colors"
+msgstr ""
+
+msgid "Clear all event colors."
+msgstr ""
+
+msgid "Clear Cache"
+msgstr ""
+
+msgid "Clear event colors."
+msgstr ""
+
+msgid "clear value"
+msgstr ""
+
+msgid "Click confirm to continue with the automatic setup process:"
+msgstr ""
+
+msgid "Click links to"
+msgstr ""
+
+msgid "Click to clear calendar ajax cache."
+msgstr ""
+
+msgid "Click to fix"
+msgstr ""
+
+msgid "Click to restore bundle"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close button color"
+msgstr ""
+
+msgid "Close dialog"
+msgstr ""
+
+msgid "Close on event title leave"
+msgstr ""
+
+msgid "Close Ratings and Reviews"
+msgstr ""
+
+msgid "colon"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Column label"
+msgstr ""
+
+msgid "comma"
+msgstr ""
+
+msgid ""
+"comma separated meta field names used by the theme to store layout per "
+"post.  This is used if for example the theme allows to a sidebar per page, "
+"but it is not showing in the event page it has been configured on the "
+"template."
+msgstr ""
+
+msgid ""
+"Comma separated numeric values.  0 for sunday, 1 for monday, 2 for tuesday, "
+"3 for wednsday, 4 for thursday, 5 for friday, 6 for saturday"
+msgstr ""
+
+msgid ""
+"comma separated page ids where you wich the Calendarize it scripts styles to "
+"be loaded.  Please observe that upcoming events widget needs also."
+msgstr ""
+
+msgid ""
+"comma separated shortcode arguments that you would like to make for "
+"overwritting through the URL query."
+msgstr ""
+
+msgid "Comma separated term slug. (Not label)"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Communication with RightHere Version/Updates/DLC service"
+msgstr ""
+
+msgid "Compatibility fixes"
+msgstr ""
+
+msgid "Conditional content"
+msgstr ""
+
+msgid "Conditional Render"
+msgstr ""
+
+msgid "Conditions"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Connect with Facebook"
+msgstr ""
+
+msgid "Connect with Twitter"
+msgstr ""
+
+msgid "Connection with RightHere service successful."
+msgstr ""
+
+msgid "Contact Details"
+msgstr ""
+
+msgid "Container"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Content bg color"
+msgstr ""
+
+msgid "Content downloaded and installed."
+msgstr ""
+
+msgid "Content font"
+msgstr ""
+
+msgid "Content size / Image size"
+msgstr ""
+
+msgid "Content to display if conditions are met."
+msgstr ""
+
+msgid "Copy feed url to clipboard"
+msgstr ""
+
+msgid "Could not create temporary file"
+msgstr ""
+
+msgid "Could not read the imported code, please verify and try again."
+msgstr ""
+
+msgid "Could not save uploaded file."
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "country"
+msgid_plural "countries"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Country ISO3166 code"
+msgstr ""
+
+msgid "Course"
+msgstr ""
+
+msgid "Courses"
+msgstr ""
+
+msgid "Create a Calendar page with the Calendarize it! shortcode."
+msgstr ""
+
+msgid "Create Event and Venue templates."
+msgstr ""
+
+msgid "CSS Editor"
+msgstr ""
+
+msgid "current Calendarize settings require that you specify the repeat date "
+msgstr ""
+
+msgid "Current day"
+msgstr ""
+
+msgid "Current event recurring instances"
+msgstr ""
+
+msgid "Current pages using the shortcode"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Days per page(optional)"
+msgstr ""
+
+msgid "Custom Details Box"
+msgstr ""
+
+msgid "Custom Details Boxes"
+msgstr ""
+
+msgid "Custom fields"
+msgstr ""
+
+msgid "Custom interval"
+msgstr ""
+
+msgid "Custom Label"
+msgstr ""
+
+msgid "Custom Post Types"
+msgstr ""
+
+msgid "Custom taxonomies template "
+msgstr ""
+
+msgid "Custom taxonomies:"
+msgstr ""
+
+msgid "Custom template"
+msgstr ""
+
+msgid "Custom template ( %s )"
+msgstr ""
+
+msgid "Custom:"
+msgstr ""
+
+msgid "Customize date and time formats"
+msgstr ""
+
+msgid "Customize event fields"
+msgstr ""
+
+msgid "Customize shortcode output"
+msgstr ""
+
+msgid "Customize the ouput of the <b>[organizer]</b> shortcode."
+msgstr ""
+
+msgid "Customize the ouput of the <b>[venue]</b> shortcode."
+msgstr ""
+
+msgid ""
+"data shrink is a new feature introduced on version 2.7.4, it reduces ajax "
+"data size.  Choose no if you want to disable this feature."
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid ""
+"date and time format in this tab only applies to the start and end fields "
+"(start datetime, start date, start time, end datetime, end date, time).  "
+"Because this values are rendered server side they follow the php href=http://"
+"php.net/manual/en/function.date.php>date formatting "
+msgstr ""
+
+msgid "Date Font"
+msgstr ""
+
+msgid "Date format"
+msgstr ""
+
+msgid "Date label"
+msgstr ""
+
+msgid "Date label background"
+msgstr ""
+
+msgid "Date label border"
+msgstr ""
+
+msgid "Date label sides"
+msgstr ""
+
+msgid "date name, full"
+msgstr ""
+
+msgid "date name, short"
+msgstr ""
+
+msgid "date number"
+msgstr ""
+
+msgid "date number, 2 digits"
+msgstr ""
+
+msgid "Date shortcodes default format"
+msgstr ""
+
+msgid "Date with time format"
+msgstr ""
+
+msgid "Date/Time"
+msgstr ""
+
+msgid "Date/time format"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Datetime format"
+msgstr ""
+
+msgid ""
+"Datetime, date and time format in this tab only applies to the start and end "
+"meta fields (start datetime, start date, start time, end datetime, end date, "
+"end time).  Because this values are rendered server side they follow the php "
+"<a href='http://php.net/manual/en/function.date.php'>date formatting syntax</"
+"a>."
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Day font"
+msgstr ""
+
+msgid "Day label"
+msgstr ""
+
+msgid "Day names"
+msgstr ""
+
+msgid "Day number"
+msgstr ""
+
+msgid "Day view column"
+msgstr ""
+
+msgid "Day view title"
+msgstr ""
+
+msgid "day(s)"
+msgstr ""
+
+msgid "Days ahead to show(optional)"
+msgstr ""
+
+msgid "Days in the past"
+msgstr ""
+
+msgid "days of the month"
+msgstr ""
+
+msgid "days of the week"
+msgstr ""
+
+msgid "ddd"
+msgstr ""
+
+msgid "ddd M/d"
+msgstr ""
+
+msgid "ddd MMMM d, yyyy"
+msgstr ""
+
+msgid "ddd MMMM d, yyyy h:mm TT"
+msgstr ""
+
+msgid "dddd M/d"
+msgstr ""
+
+msgid "dddd MMMM d, yyyy"
+msgstr ""
+
+msgid "dddd MMMM d, yyyy."
+msgstr ""
+
+msgid "dddd MMMM d, yyyy. h:mmtt"
+msgstr ""
+
+msgid "dddd, MMM d, yyyy"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Debug css and javascript"
+msgstr ""
+
+msgid "dec"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "Default calendar settings"
+msgstr ""
+
+msgid "Default columns"
+msgstr ""
+
+msgid "Default day names:"
+msgstr ""
+
+msgid "Default Details Boxes"
+msgstr ""
+
+msgid "Default event fields"
+msgstr ""
+
+msgid "default format"
+msgstr ""
+
+msgid "Default layout options"
+msgstr ""
+
+msgid "Default layout options values to use when adding events."
+msgstr ""
+
+msgid "Default month names:"
+msgstr ""
+
+msgid "Default post info fields"
+msgstr ""
+
+msgid ""
+"default set to 10080 (1 week).  Represents how long to wait before a event "
+"query is expired."
+msgstr ""
+
+msgid "Default short day names:"
+msgstr ""
+
+msgid "Default short month names:"
+msgstr ""
+
+msgid "Default Template"
+msgstr ""
+
+msgid ""
+"default the Calendarizeit shortcode only displays one custom post type by "
+"default), and you need to set the post_type value to show a post type.  "
+"Choose yes if you want to display all enabled post by default."
+msgstr ""
+
+msgid "Default view"
+msgstr ""
+
+msgid ""
+"Defaults to: <b>month,agendaWeek,agendaDay,rhc_event</b>. Also available: "
+"basicWeek"
+msgstr ""
+
+msgid "Delete events"
+msgstr ""
+
+msgid "Delete others events"
+msgstr ""
+
+msgid "Delete private events"
+msgstr ""
+
+msgid "Delete published events"
+msgstr ""
+
+msgid "Delete RSVP"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description font"
+msgstr ""
+
+msgid ""
+"description of the organizer, will be used in the organizer page content."
+msgstr ""
+
+msgid "detail"
+msgstr ""
+
+msgid "Detail box background"
+msgstr ""
+
+msgid "Detail box container"
+msgstr ""
+
+msgid "Detail box image"
+msgstr ""
+
+msgid "Detail boxes (default)"
+msgstr ""
+
+msgid "Detailed Event Page Template"
+msgstr ""
+
+msgid "Details box"
+msgstr ""
+
+msgid "Details box background"
+msgstr ""
+
+msgid "Details box image"
+msgstr ""
+
+msgid "Details for google map"
+msgstr ""
+
+msgid ""
+"Determines how much time an event can get past midnight without displaying "
+"it on that day."
+msgstr ""
+
+msgid "Determines the number of weeks displayed in the calendar."
+msgstr ""
+
+msgid "Dialog description"
+msgstr ""
+
+msgid "Dialog title"
+msgstr ""
+
+msgid "Dialog width"
+msgstr ""
+
+msgid "Disable %s taxonomy"
+msgstr ""
+
+msgid "Disable Archive Template"
+msgstr ""
+
+msgid "Disable bootstrap"
+msgstr ""
+
+msgid "Disable calendarize taxonomies"
+msgstr ""
+
+msgid ""
+"Disable calendarize templates if you want to use the theme templates.  "
+"Observe that meta data like maps, venue and extra info will need to be added "
+"manually throught shortcodes."
+msgstr ""
+
+msgid "Disable event link"
+msgstr ""
+
+msgid "Disable event search"
+msgstr ""
+
+msgid "Disable Event Template"
+msgstr ""
+
+msgid "Disable events cache"
+msgstr ""
+
+msgid "Disable iCal UTC"
+msgstr ""
+
+msgid "Disable linked taxonomy %s"
+msgstr ""
+
+msgid "Disable loading google map api"
+msgstr ""
+
+msgid "Disable loading google map api in wp-admin"
+msgstr ""
+
+msgid "Disable months"
+msgstr ""
+
+msgid "Disable print css"
+msgstr ""
+
+msgid "Disable static event list."
+msgstr ""
+
+msgid "Disable taxonomy %s"
+msgstr ""
+
+msgid "Disable Taxonomy Template"
+msgstr ""
+
+msgid "Disable title link"
+msgstr ""
+
+msgid "disabled"
+msgstr ""
+
+msgid "disabled, the user can still zoom in or out using the zoom control "
+msgstr ""
+
+msgid "Display events authored by the user that is logged in."
+msgstr ""
+
+msgid "Display navigation controls."
+msgstr ""
+
+msgid "Display recurring events."
+msgstr ""
+
+msgid "displayed events:</b>  Optionally limit the number of events "
+msgstr ""
+
+msgid "Do not load bundled jQuery UI"
+msgstr ""
+
+msgid "Do not show this message again"
+msgstr ""
+
+msgid "done"
+msgstr ""
+
+msgid "dot"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download ICS"
+msgstr ""
+
+msgid "Download ICS file"
+msgstr ""
+
+msgid "Downloadable content - Calendarize it! for WordPress"
+msgstr ""
+
+msgid "Downloaded"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "downloads."
+msgstr ""
+
+msgid "Dropdown default color"
+msgstr ""
+
+msgid "Dropdown Hover color"
+msgstr ""
+
+msgid ""
+"Dynamic Event Details Box:</b> Choose yes to load the custom event which is "
+"configured on the Event Details metabox."
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit %s"
+msgstr ""
+
+msgid "Edit calendar"
+msgstr ""
+
+msgid "Edit event"
+msgstr ""
+
+msgid "Edit events"
+msgstr ""
+
+msgid "Edit Organizer"
+msgstr ""
+
+msgid "Edit others events"
+msgstr ""
+
+msgid "Edit published events"
+msgstr ""
+
+msgid "Edit show type"
+msgstr ""
+
+msgid "Edit venue"
+msgstr ""
+
+msgid "Editable sections urls"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email:"
+msgstr ""
+
+msgid "Enable add-ons."
+msgstr ""
+
+msgid "Enable Ads by Calendarize It! Map Filter"
+msgstr ""
+
+msgid "Enable Ads by Geolocation radius"
+msgstr ""
+
+msgid "Enable Ads by single page taxonomies match"
+msgstr ""
+
+msgid "Enable Ads by Taxonomy page"
+msgstr ""
+
+msgid "Enable ajax data shrink"
+msgstr ""
+
+msgid "Enable and configure event ajax caching."
+msgstr ""
+
+msgid "Enable automatic microdata (Event)"
+msgstr ""
+
+msgid "Enable cache for external sources"
+msgstr ""
+
+msgid "Enable calendar end point"
+msgstr ""
+
+msgid "Enable calendar metabox for other post types."
+msgstr ""
+
+msgid "Enable calendarize-it taxonomies"
+msgstr ""
+
+msgid "Enable custom details layout"
+msgstr ""
+
+msgid "Enable debug"
+msgstr ""
+
+msgid "Enable icalendar button"
+msgstr ""
+
+msgid "Enable mouse wheel google map zoom "
+msgstr ""
+
+msgid "Enable notifications on non options pages."
+msgstr ""
+
+msgid "Enable opengraph headers"
+msgstr ""
+
+msgid "Enable post content for banner"
+msgstr ""
+
+msgid "Enable search field"
+msgstr ""
+
+msgid "Enable term link"
+msgstr ""
+
+msgid "Enable thumbnail support"
+msgstr ""
+
+msgid "Enable Visual Composer module"
+msgstr ""
+
+msgid "Enable week numbers"
+msgstr ""
+
+msgid "Enables displaying week numbers on the calendar views."
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "End count"
+msgstr ""
+
+msgid "End date"
+msgstr ""
+
+msgid "End Date &amp; Time"
+msgstr ""
+
+msgid "End date(all-day)"
+msgstr ""
+
+msgid "End datetime"
+msgstr ""
+
+msgid "End repeat"
+msgstr ""
+
+msgid "End time"
+msgstr ""
+
+msgid "Ending hour"
+msgstr ""
+
+msgid ""
+"enter your License Key in the Options Panel to get access to the free and "
+"premium paid add-ons."
+msgstr ""
+
+msgid "Error Alert Box"
+msgstr ""
+
+msgid "Error saving options."
+msgstr ""
+
+msgid "Error trying to create cache table."
+msgstr ""
+
+msgid "event"
+msgstr ""
+
+msgid "Event & Venue Details Box Layout"
+msgstr ""
+
+msgid ""
+"Event cache is active by default, choose yes to turn off the server side "
+"events cache."
+msgstr ""
+
+msgid "Event click behavior"
+msgstr ""
+
+msgid "Event container"
+msgstr ""
+
+msgid "Event content layout"
+msgstr ""
+
+msgid "Event Detail Box Image"
+msgstr ""
+
+msgid "Event Details"
+msgstr ""
+
+msgid "Event Details Box"
+msgstr ""
+
+msgid "Event Details Box Image"
+msgstr ""
+
+msgid "Event Excerpt"
+msgstr ""
+
+msgid "Event Featured Image"
+msgstr ""
+
+msgid "Event fields"
+msgstr ""
+
+msgid "Event Font"
+msgstr ""
+
+msgid "Event Image"
+msgstr ""
+
+msgid "Event list"
+msgstr ""
+
+msgid "Event list layout"
+msgstr ""
+
+msgid "Event list view"
+msgstr ""
+
+msgid "Event list/tooltip image size"
+msgstr ""
+
+msgid "Event Page Top Image"
+msgstr ""
+
+msgid "Event popup (click on calendar event)"
+msgstr ""
+
+msgid "Event start (YYYY-mm-dd)"
+msgstr ""
+
+msgid "Event taxonomies:"
+msgstr ""
+
+msgid "Event template does not have any meta data."
+msgstr ""
+
+msgid "Event template meta data"
+msgstr ""
+
+msgid "Event template not set"
+msgstr ""
+
+msgid "Event time font"
+msgstr ""
+
+msgid "Event time format"
+msgstr ""
+
+msgid "Event title"
+msgstr ""
+
+msgid "Event title font"
+msgstr ""
+
+msgid "Event, Venue & Tooltip Details Box Layout"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Events & Venue Detail box"
+msgstr ""
+
+msgid "Events ajax"
+msgstr ""
+
+msgid ""
+"Events archive is listed in the order of publishing, not event date.  Also "
+"recurring instances do not show.  Its for sites that what to display events "
+"as rendered by the theme."
+msgstr ""
+
+msgid "Events archive slug"
+msgstr ""
+
+msgid "Events cache"
+msgstr ""
+
+msgid "Events calendar"
+msgstr ""
+
+msgid "Events list"
+msgstr ""
+
+msgid "Events Map View"
+msgstr ""
+
+msgid "Events post type slug"
+msgstr ""
+
+msgid "Events template"
+msgstr ""
+
+msgid "Every 2 weeks"
+msgstr ""
+
+msgid "Every day"
+msgstr ""
+
+msgid "Every month"
+msgstr ""
+
+msgid "Every week"
+msgstr ""
+
+msgid "Every year"
+msgstr ""
+
+msgid "Except"
+msgstr ""
+
+msgid "Excerpt"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Exclude this date.  Only applicable with recurring events"
+msgstr ""
+
+msgid "Excluded dates"
+msgstr ""
+
+msgid "Excluded dates are only applicable when using recurring events."
+msgstr ""
+
+msgid ""
+"excluded dates selected.  After setting up recurring events, click on a "
+"event, then on the dialog press the exclude button to add the date to the "
+"excluded dates list."
+msgstr ""
+
+msgid "Expiration minutes"
+msgstr ""
+
+msgid "Export settings"
+msgstr ""
+
+msgid "Export settings:"
+msgstr ""
+
+msgid "External sources cache"
+msgstr ""
+
+msgid "External Sources Expiration minutes"
+msgstr ""
+
+msgid "F j, Y"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Facebook default color"
+msgstr ""
+
+msgid "Facebook Hover color"
+msgstr ""
+
+msgid "Facebook Icon color"
+msgstr ""
+
+msgid "fc_range_set meta data"
+msgstr ""
+
+msgid "Feature Access"
+msgstr ""
+
+msgid "feb"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid ""
+"February, March, April, May, June, July, August, September, November, "
+"December"
+msgstr ""
+
+msgid ""
+"Feed for iCal (Google Calendar). This is for subscribing to the events the "
+"Calendar. Add this URL to either iCal (Mac) or Google Calendar, or other "
+"calendar that supports iCal Feed."
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "File cache (Experimental)"
+msgstr ""
+
+msgid "File has an invalid extension, it should be one of %s"
+msgstr ""
+
+msgid "File is empty"
+msgstr ""
+
+msgid "File is too large"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter body background"
+msgstr ""
+
+msgid "Filter box"
+msgstr ""
+
+msgid "Filter default color"
+msgstr ""
+
+msgid "Filter Events"
+msgstr ""
+
+msgid "Filter head background"
+msgstr ""
+
+msgid "Filter Hover color"
+msgstr ""
+
+msgid "Filter primary button"
+msgstr ""
+
+msgid "Filter secondary button"
+msgstr ""
+
+msgid "Filter tab"
+msgstr ""
+
+msgid "First date in range"
+msgstr ""
+
+msgid ""
+"First date in range:  Show only the first repetition of an event in the "
+"requested range"
+msgstr ""
+
+msgid "First hour"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Fixed title"
+msgstr ""
+
+msgid "Focus border color"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Font color"
+msgstr ""
+
+msgid "Font shadow"
+msgstr ""
+
+msgid "Font x"
+msgstr ""
+
+msgid "Font y"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Force ajax install."
+msgstr ""
+
+msgid "Force disable browser cache"
+msgstr ""
+
+msgid "Force disable browser cache."
+msgstr ""
+
+msgid "Force Google Map scripts output"
+msgstr ""
+
+msgid "Forced rewrite rules"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Format:"
+msgstr ""
+
+msgid "forward slash"
+msgstr ""
+
+msgid "Frame color"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid ""
+"From Calendarize It! version 2.4.4 the events query was optimized.  If you "
+"are experiencing problems with events that should load but are not loading "
+"choose yes to use the original ajax."
+msgstr ""
+
+msgid "Frontend jQuery UI version"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "g:i a"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "General settings"
+msgstr ""
+
+msgid "Get additional free map styles in the Downloads section."
+msgstr ""
+
+msgid "Get directions"
+msgstr ""
+
+msgid ""
+"Get Feed for iCal (Google Calendar). This is for subscribing to the events "
+"in the Calendar. Add this URL to either iCal (Mac) or Google Calendar, or "
+"any other calendar that supports iCal Feed."
+msgstr ""
+
+msgid ""
+"Get Feed for iCal (Google Calendar). This is for subscring to the events in "
+"the Calendar. Add this URL to either iCal (Mac) or Google Calendar, or any "
+"other calendar that supports iCal Feed."
+msgstr ""
+
+msgid "Getting content length is not supported."
+msgstr ""
+
+msgid "Google address"
+msgstr ""
+
+msgid "Google map"
+msgstr ""
+
+msgid "Google Map View URL"
+msgstr ""
+
+msgid "Google Structured Data"
+msgstr ""
+
+msgid "Group end"
+msgstr ""
+
+msgid "Group start"
+msgstr ""
+
+msgid "h:mm tt"
+msgstr ""
+
+msgid "h:mm{ - h:mm}"
+msgstr ""
+
+msgid "h(:mm)t"
+msgstr ""
+
+msgid "h(:mm)tt"
+msgstr ""
+
+msgid "Half"
+msgstr ""
+
+msgid "Half/Half"
+msgstr ""
+
+msgid "have not installed the English Help for Calendarize it! Please go to "
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Header button (active state)"
+msgstr ""
+
+msgid "Header button (default state)"
+msgstr ""
+
+msgid "Header button font"
+msgstr ""
+
+msgid "Header button font shadow"
+msgstr ""
+
+msgid "Header font"
+msgstr ""
+
+msgid "Header icons"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Hidden days"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Hide days from view"
+msgstr ""
+
+msgid "Hide time"
+msgstr ""
+
+msgid "Hierarchical Events"
+msgstr ""
+
+msgid "Hierarchical filter"
+msgstr ""
+
+msgid "Higher priority(3)"
+msgstr ""
+
+msgid "Highlight color"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "hour(s)"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "hours, 12 hour format"
+msgstr ""
+
+msgid "hours, 12 hour format, 2 digits"
+msgstr ""
+
+msgid "hours, 24 hour format"
+msgstr ""
+
+msgid "hours, 24 hour format, 2 digits"
+msgstr ""
+
+msgid "Hover border color"
+msgstr ""
+
+msgid "HTML Between content and footer"
+msgstr ""
+
+msgid "HTML Between header and content"
+msgstr ""
+
+msgid "HTML Description"
+msgstr ""
+
+msgid "HTML wrapper"
+msgstr ""
+
+msgid "iCal Button"
+msgstr ""
+
+msgid "iCal Feed"
+msgstr ""
+
+msgid "iCal feed URL"
+msgstr ""
+
+msgid "icalendar button"
+msgstr ""
+
+msgid "Icon bg"
+msgstr ""
+
+msgid "Icon color"
+msgstr ""
+
+msgid ""
+"If an addon is generating php warnings, it may break the downloads section "
+"preventing add-on update.  Turn this off, update the addon, and turn this "
+"option back on."
+msgstr ""
+
+msgid ""
+"If disabled, the user can still zoom in or out using the zoom control "
+"buttons."
+msgstr ""
+
+msgid ""
+"If not autodetected, specify the URL of an event page containing the RSVP "
+"box."
+msgstr ""
+
+msgid ""
+"If permalinks are active, choose yes to be able to append /calendar/ to the "
+"url to load a calendar for that particular post type, example yourdomain.com/"
+"events/calendar/ will display the calendar without the need to setup the "
+"shortcode on a page."
+msgstr ""
+
+msgid ""
+"If the calendarize menu does not show in the admin menu, use this option to "
+"change its position.  For cases where other plugins overwrite Calendarize "
+"It! menu position."
+msgstr ""
+
+msgid ""
+"If the loaded page is a calendar, venue or organizer (taxonomy), only show "
+"events from the same taxonomy."
+msgstr ""
+
+msgid ""
+"If used, the shortcode will only display if the user is logged in and have "
+"the specific capability."
+msgstr ""
+
+msgid ""
+"If you already have another plugin adding opengraph headers, you can choose "
+"to disable it here."
+msgstr ""
+
+msgid ""
+"If you are experiencing issues with the visual composer module, you can turn "
+"this option off to disable it."
+msgstr ""
+
+msgid ""
+"If you choose to skip loading the bundled jQuery UI, you need to make sure "
+"that the theme or plugin loads it."
+msgstr ""
+
+msgid ""
+"If you choose yes and the event starts showing, it means that the theme or a "
+"plugin is not following a standard in regards to register_post_type and "
+"flush_rewrite_rules.  Under certain circumstances it could also affecting "
+"website performance."
+msgstr ""
+
+msgid ""
+"If you experience problems with the upcoming events widget after updating, "
+"use this option to go back to the original upcoming events widget code."
+msgstr ""
+
+msgid ""
+"If you have a page with permalink /events/calendar/ you may need to disable "
+"this, as it takes precedence over the page permlink."
+msgstr ""
+
+msgid ""
+"If you have overwritten the default custom fields, use this button to "
+"restore the original set."
+msgstr ""
+
+msgid ""
+"If you keep getting the message 'Service not available.' when trying to add "
+"a license, switch this to Option 2 to try an alternative."
+msgstr ""
+
+msgid "if you only want premiere events displayed. (the first date on events)"
+msgstr ""
+
+msgid "Ignore WordPress Standard"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image and image frame"
+msgstr ""
+
+msgid "Image frame"
+msgstr ""
+
+msgid "Image height"
+msgstr ""
+
+msgid "Image Source"
+msgstr ""
+
+msgid "Image width"
+msgstr ""
+
+msgid ""
+"Implemented a pair of post meta data that defined the event range start and "
+"end.  Faster than the original query methods."
+msgstr ""
+
+msgid "Import settings"
+msgstr ""
+
+msgid "Import settings:"
+msgstr ""
+
+msgid ""
+"imported code does not belong to this group of settings.  Import code %s"
+msgstr ""
+
+msgid ""
+"imported code does not belong to this plugin/theme.  Import code id: %s,"
+msgstr ""
+
+msgid "Improved events query"
+msgstr ""
+
+msgid "In addition to recurring rules you can set arbitrary repeat dates."
+msgstr ""
+
+msgid ""
+"In addition to recurring rules you can set arbitrary repeat dates.  Click "
+"accept to save an arbitrary repeat date."
+msgstr ""
+
+msgid ""
+"In interactive mode, zoom level will adjust if more than one venue is added."
+msgstr ""
+
+msgid ""
+"In month view, some dates from other months are rendered to complete the "
+"week.  Choose yes to display events on it, or no to leave them blank."
+msgstr ""
+
+msgid "increase post_max_size and upload_max_filesize to %s"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Inner background"
+msgstr ""
+
+msgid "Input fields"
+msgstr ""
+
+msgid "Input items"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Interactive"
+msgstr ""
+
+msgid "Invalid item id"
+msgstr ""
+
+msgid "Invalid response format."
+msgstr ""
+
+msgid ""
+"is no downloadable content at this time.  You must register %s before can "
+"actually see available downloadable content. For more information on to "
+"register %s, please go the Options menu and the License tab."
+msgstr ""
+
+msgid "ISO8601 format"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Item name not specified"
+msgstr ""
+
+msgid "Item Purchase Code:"
+msgstr ""
+
+msgid "Item Purchase Key"
+msgstr ""
+
+msgid "jan"
+msgstr ""
+
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+msgid "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+msgid ""
+"January,February,March,April,May,June,July,August,September,October,November,"
+"December"
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Join default color"
+msgstr ""
+
+msgid "Join Hover color"
+msgstr ""
+
+msgid "jQuery UI"
+msgstr ""
+
+msgid "jQuery UI 1.10.3"
+msgstr ""
+
+msgid "jQuery UI 1.8.22"
+msgstr ""
+
+msgid "jQuery UI 1.9.0"
+msgstr ""
+
+msgid "jul"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "jun"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Label:"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Labels font"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Larger map"
+msgstr ""
+
+msgid "last"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Latest version (3.1.4)"
+msgstr ""
+
+msgid "Latitude"
+msgstr ""
+
+msgid "Layout Options"
+msgstr ""
+
+msgid "Layout settings, date format"
+msgstr ""
+
+msgid "Leave 0 for automatic width."
+msgstr ""
+
+msgid ""
+"Leave automatic an it will render all venues associated to an event if it is "
+"outside a venue loop; if inside, it will only render the venue on that "
+"iteration.  Or choose an option to force a behavior."
+msgstr ""
+
+msgid "Leave empty for the default styles."
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Left header"
+msgstr ""
+
+msgid "Left width"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "License already added."
+msgstr ""
+
+msgid "License key"
+msgstr ""
+
+msgid "License not specified"
+msgstr ""
+
+msgid "Line height"
+msgstr ""
+
+msgid "Link target"
+msgstr ""
+
+msgid "Link url"
+msgstr ""
+
+msgid "Link view"
+msgstr ""
+
+msgid "LinkedIn"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Links font"
+msgstr ""
+
+msgid "Links hover"
+msgstr ""
+
+msgid "Liquid"
+msgstr ""
+
+msgid "List of events"
+msgstr ""
+
+msgid "Load current WordPress jQuery UI"
+msgstr ""
+
+msgid "Load default event content template"
+msgstr ""
+
+msgid "Load default event list content template"
+msgstr ""
+
+msgid "Load default organizer template"
+msgstr ""
+
+msgid "Load default venue template"
+msgstr ""
+
+msgid "Load Dynamic Event Details Box"
+msgstr ""
+
+msgid "Load Scripts and Styles on page id"
+msgstr ""
+
+msgid "Loaded $wp_rewrite"
+msgstr ""
+
+msgid "Loaded options"
+msgstr ""
+
+msgid "Loading method"
+msgstr ""
+
+msgid ""
+"Local events will be saved to files.  Turning this option on will attempt to "
+"write to htaccess.  Only available with apache mod rewrite."
+msgstr ""
+
+msgid "Local/External sources (feeds)"
+msgstr ""
+
+msgid "Logged user"
+msgstr ""
+
+msgid "Logged user events"
+msgstr ""
+
+msgid "Longitud"
+msgstr ""
+
+msgid "Main date format"
+msgstr ""
+
+msgid "Main settings"
+msgstr ""
+
+msgid "Main title"
+msgstr ""
+
+msgid "Manage calendars"
+msgstr ""
+
+msgid "Manage custom taxonomies (addon)"
+msgstr ""
+
+msgid "Manage organizers"
+msgstr ""
+
+msgid "Manage venues"
+msgstr ""
+
+msgid "Map style"
+msgstr ""
+
+msgid "Maptype"
+msgstr ""
+
+msgid "mar"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "Max description word count"
+msgstr ""
+
+msgid "Max displayed events(optional)"
+msgstr ""
+
+msgid "Max number of posts"
+msgstr ""
+
+msgid "Max priority(1)"
+msgstr ""
+
+msgid "Maximun displayed time"
+msgstr ""
+
+msgid "may"
+msgstr ""
+
+msgid "Maybe default color"
+msgstr ""
+
+msgid "Maybe Hover color"
+msgstr ""
+
+msgid "Media settings"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Menu Position (number)"
+msgstr ""
+
+msgid "Meta fields:"
+msgstr ""
+
+msgid ""
+"metabox can be enabled for other post types.  Check the post where you want "
+"the Calendar metabox to be displayed."
+msgstr ""
+
+msgid "Method %s does not exists on renderer"
+msgstr ""
+
+msgid "Minimun displayed time"
+msgstr ""
+
+msgid "minute(s)"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "minutes, 2 digits"
+msgstr ""
+
+msgid "Missing parameter"
+msgstr ""
+
+msgid "Missing parameter."
+msgstr ""
+
+msgid "MMM d[ yyyy]{ '&#8212;'[ MMM] d yyyy}"
+msgstr ""
+
+msgid "MMMM d, yyyy"
+msgstr ""
+
+msgid "MMMM d, yyyy.  h:mm tt"
+msgstr ""
+
+msgid "MMMM yyyy"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Mobile width trigger size"
+msgstr ""
+
+msgid "Modify permalinks"
+msgstr ""
+
+msgid "Modify the layout of events in the archive"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Month font"
+msgstr ""
+
+msgid "month name, full"
+msgstr ""
+
+msgid "month name, short"
+msgstr ""
+
+msgid "Month names"
+msgstr ""
+
+msgid "month number"
+msgstr ""
+
+msgid "month number, 2 digits"
+msgstr ""
+
+msgid "Month view"
+msgstr ""
+
+msgid "Month view image"
+msgstr ""
+
+msgid "Month view image metabox"
+msgstr ""
+
+msgid "Month view title"
+msgstr ""
+
+msgid "Month View, trim past weeks"
+msgstr ""
+
+msgid "month(s)"
+msgstr ""
+
+msgid "months"
+msgstr ""
+
+msgid "Months ahead to show(optional)"
+msgstr ""
+
+msgid ""
+"months that you do NOT want to show. Pressing prev or next button in will "
+"skip to the next available month."
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid ""
+"multi month events:</b> By default long spanning events that started a "
+"diferent month will not be displayed in the event list.  Check yes to them."
+msgstr ""
+
+msgid "Multiple markers"
+msgstr ""
+
+msgid "My custom value"
+msgstr ""
+
+msgid "My label"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "never"
+msgstr ""
+
+msgid "Never (Not a recurring event)"
+msgstr ""
+
+msgid "Never(Not a recurring event)"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New %s"
+msgstr ""
+
+msgid "New calendar"
+msgstr ""
+
+msgid "New event"
+msgstr ""
+
+msgid "New Organizer"
+msgstr ""
+
+msgid "New show type"
+msgstr ""
+
+msgid "New venue"
+msgstr ""
+
+msgid "Next button color"
+msgstr ""
+
+msgid "Next day threshold"
+msgstr ""
+
+msgid "Next events"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No access"
+msgstr ""
+
+msgid "No access.  You dont have permission to perform this action."
+msgstr ""
+
+msgid "No action"
+msgstr ""
+
+msgid ""
+"No addons installed.  Go to the Downloads menu to download an addon, then "
+"come back to this screen to activate it."
+msgstr ""
+
+msgid "No default color"
+msgstr ""
+
+msgid "No event message"
+msgstr ""
+
+msgid "No events found"
+msgstr ""
+
+msgid "No events found in trash"
+msgstr ""
+
+msgid "No events message"
+msgstr ""
+
+msgid "No events text"
+msgstr ""
+
+msgid ""
+"No excluded dates selected.  After setting up recurring events, click on a "
+"calendar event, then on the dialog press the exclude button to add the "
+"clicked date to the excluded dates list."
+msgstr ""
+
+msgid "No files were uploaded."
+msgstr ""
+
+msgid "No filters available."
+msgstr ""
+
+msgid "No Hover color"
+msgstr ""
+
+msgid ""
+"no if you dont want to use the custom layout that can be set on the edit "
+"page."
+msgstr ""
+
+msgid "No image"
+msgstr ""
+
+msgid "No link"
+msgstr ""
+
+msgid "No options"
+msgstr ""
+
+msgid "No post id"
+msgstr ""
+
+msgid "No rading found"
+msgstr ""
+
+msgid "No repeat dates set."
+msgstr ""
+
+msgid "No upcoming events in this date range"
+msgstr ""
+
+msgid "No, I will manually setup the plugin"
+msgstr ""
+
+msgid "Normal(10/default)"
+msgstr ""
+
+msgid "Not used"
+msgstr ""
+
+msgid "Nothing to remove."
+msgstr ""
+
+msgid "Notification service is not available."
+msgstr ""
+
+msgid "nov"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid ""
+"number label</b>: By default it is W, this is the label shown on week column "
+"in month view.  In agenda views it is shown in the top left "
+msgstr ""
+
+msgid "Number of events"
+msgstr ""
+
+msgid "Observe that if you use the advanced option, this field is ignored."
+msgstr ""
+
+msgid ""
+"Observe that the default set is only used when creating new events.  "
+"Existing events will keep their current custom field layout."
+msgstr ""
+
+msgid ""
+"observe that this does NOT modifies the size of the image on screen is "
+"controlled by the stylesheet.  This is used to determine what image to use "
+"as source."
+msgstr ""
+
+msgid ""
+"observe that this will NOT export images or any other attachments, the "
+"configuration values like image url or attachment paths."
+msgstr ""
+
+msgid "oct"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid ""
+"off by default.  Choose yes if you have plugins or addons that may the "
+"content of events based on what user is logged in.  This the size of the "
+"cache, so only choose yes if needed."
+msgstr ""
+
+msgid "Older events"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid ""
+"On some setups, wordpress is installed in a non-standard way and causes the "
+"site_url() function to return a value that is diferent from the real url, "
+"causing the browser to reject the ajax.  You need to add "
+"rhc_action=get_calendar_events to the query string."
+msgstr ""
+
+msgid ""
+"On some sites, a large number of custom taxonomies makes the backend event "
+"list page to load very slow."
+msgstr ""
+
+msgid ""
+"On some themes you may need to add additional html so the content is styled "
+"correctly by the theme."
+msgstr ""
+
+msgid "Only applicable inside a detail box."
+msgstr ""
+
+msgid "Only external sources"
+msgstr ""
+
+msgid "Only local"
+msgstr ""
+
+msgid "Only premiere events."
+msgstr ""
+
+msgid "Only related events."
+msgstr ""
+
+msgid ""
+"Only set the post ID if you want to bring the detail box of another event.  "
+"Leave empty to catch the currently loaded post detail box."
+msgstr ""
+
+msgid ""
+"Only use this options if you want to use diferent labels from the localized "
+"ones, or if the plugin is not providing localization at all."
+msgstr ""
+
+msgid "only:</b>  choose yes if you only want to display upcoming "
+msgstr ""
+
+msgid "Open all"
+msgstr ""
+
+msgid "Open Graph headers"
+msgstr ""
+
+msgid "operation cannot be undone. All the events custom field layout will be "
+msgstr ""
+
+msgid "Operation completed"
+msgstr ""
+
+msgid "Option 2"
+msgstr ""
+
+msgid ""
+"option will apply and overwrite the custom field layout with the one, on ALL "
+"events."
+msgstr ""
+
+msgid "Optional alternative class."
+msgstr ""
+
+msgid "Optional, display this label in the link instead of the site url."
+msgstr ""
+
+msgid "Optional, if not provided will attempt to use address"
+msgstr ""
+
+msgid ""
+"Optional, if not provided will build the google address using the regular "
+"adrress, city, zip, state and country fields previously filled."
+msgstr ""
+
+msgid "Optional, specify the google map zoom value (default: 13)"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Options contains %s records."
+msgstr ""
+
+msgid "Options panel version %s"
+msgstr ""
+
+msgid "Options row count"
+msgstr ""
+
+msgid "Options updated."
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Organizer"
+msgstr ""
+
+msgid "Organizer Details"
+msgstr ""
+
+msgid "Organizer Email"
+msgstr ""
+
+msgid "Organizer fields"
+msgstr ""
+
+msgid "Organizer Image"
+msgstr ""
+
+msgid "Organizer layout"
+msgstr ""
+
+msgid "Organizer Loop"
+msgstr ""
+
+msgid "Organizer Meta"
+msgstr ""
+
+msgid "Organizer Name"
+msgstr ""
+
+msgid "Organizer page"
+msgstr ""
+
+msgid "Organizer Page Template"
+msgstr ""
+
+msgid "Organizer Phone"
+msgstr ""
+
+msgid "Organizer template"
+msgstr ""
+
+msgid "Organizer URL"
+msgstr ""
+
+msgid "Organizer Website"
+msgstr ""
+
+msgid "Organizers"
+msgstr ""
+
+msgid "Organizers slug"
+msgstr ""
+
+msgid "Original"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Other fields"
+msgstr ""
+
+msgid "Other integration settings"
+msgstr ""
+
+msgid "Other taxonomy slugs"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Page Template"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid "Permalink settings"
+msgstr ""
+
+msgid ""
+"permalinks are active, choose yes to be able to append /Calendar/ to the to "
+"load a Calendar for that particular post type, example yourdomain.com/will "
+"display the Calendar without the need to setup the on a page."
+msgstr ""
+
+msgid "Permission (capability)"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Phone:"
+msgstr ""
+
+msgid "PHP date format(optional):"
+msgstr ""
+
+msgid "PHP version"
+msgstr ""
+
+msgid "Please add a main license key before adding an addon license key."
+msgstr ""
+
+msgid "Please enter a valid email"
+msgstr ""
+
+msgid "Please enter your information"
+msgstr ""
+
+msgid "Please fill in your first name"
+msgstr ""
+
+msgid "Please fill in your last name"
+msgstr ""
+
+msgid ""
+"Please observe that if you use the Map Addon, Events Grid Addon, or "
+"Community Events Addon, you also need the latest version of the addons for "
+"this feature to work."
+msgstr ""
+
+msgid ""
+"Please observe that this does NOT modifies the size of the image on screen "
+"wich is controlled by the stylesheet.  This is used to determine what image "
+"size to use as source."
+msgstr ""
+
+msgid "Please observe that this may not work with ajax based themes."
+msgstr ""
+
+msgid ""
+"Please observe that this requires that the theme correctly implementes the "
+"wp_footer action hook."
+msgstr ""
+
+msgid "Please rate this event"
+msgstr ""
+
+msgid "Please register the product before downloading content."
+msgstr ""
+
+msgid "Please specify a label for this settings."
+msgstr ""
+
+msgid "Please update now"
+msgstr ""
+
+msgid "Please write a brief description for this export code."
+msgstr ""
+
+msgid "Plugin Add-ons"
+msgstr ""
+
+msgid "Plugin bundled content"
+msgstr ""
+
+msgid "Plugin error.  Missing argument."
+msgstr ""
+
+msgid "Plugin is latest version."
+msgstr ""
+
+msgid "Plugin is no longer available."
+msgstr ""
+
+msgid "Plugin Options Panel"
+msgstr ""
+
+msgid "Plugin settings error.  Missing plugin code."
+msgstr ""
+
+msgid "Plugin update %s is available!"
+msgstr ""
+
+msgid "plugin update %s is available! <a href=\\%s>Please update now</a>"
+msgstr ""
+
+msgid "Popular %s"
+msgstr ""
+
+msgid "Popular Calendar"
+msgstr ""
+
+msgid "Popular Organizers"
+msgstr ""
+
+msgid "Popular Show types"
+msgstr ""
+
+msgid "Popular Venue"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Possible values: 0,1,2... 12"
+msgstr ""
+
+msgid "Post ID"
+msgstr ""
+
+msgid "Post Meta"
+msgstr ""
+
+msgid "Post meta data"
+msgstr ""
+
+msgid "Post Meta Field"
+msgstr ""
+
+msgid "Post type"
+msgstr ""
+
+msgid "Post type to apply: %s"
+msgstr ""
+
+msgid "Postable arguments"
+msgstr ""
+
+msgid "Postal code"
+msgstr ""
+
+msgid "Postmeta contains %s records."
+msgstr ""
+
+msgid "Postmeta row count"
+msgstr ""
+
+msgid "Posts contains %s records."
+msgstr ""
+
+msgid "Posts row count"
+msgstr ""
+
+msgid "Preload data"
+msgstr ""
+
+msgid "Premiere"
+msgstr ""
+
+msgid "Premiere date"
+msgstr ""
+
+msgid "Premiere:  The first event in a series."
+msgstr ""
+
+msgid "Preview:"
+msgstr ""
+
+msgid "Previous button color"
+msgstr ""
+
+msgid "Previous events"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid ""
+"printing a page with a Calendar, by default only the Calendar will be  Check "
+"this option to disable print css."
+msgstr ""
+
+msgid ""
+"Problem: When saving an event, it does not show in the calendar and there "
+"are no javascript errors."
+msgstr ""
+
+msgid "Product License"
+msgstr ""
+
+msgid "Publish events"
+msgstr ""
+
+msgid "Published calendar (pages containing calendarizeit shortcode)"
+msgstr ""
+
+msgid "Purchased"
+msgstr ""
+
+msgid "Rating and Review Box"
+msgstr ""
+
+msgid "Rating Box"
+msgstr ""
+
+msgid "Rating Box Button"
+msgstr ""
+
+msgid "Ratings and Review Box"
+msgstr ""
+
+msgid "Ratio"
+msgstr ""
+
+msgid "Raw output"
+msgstr ""
+
+msgid "Read events"
+msgstr ""
+
+msgid "Read List"
+msgstr ""
+
+msgid "Read private events"
+msgstr ""
+
+msgid "Recurring rules"
+msgstr ""
+
+msgid "Registration api url"
+msgstr ""
+
+msgid "Related events"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Default Featured Event Image"
+msgstr ""
+
+msgid "Remove ended"
+msgstr ""
+
+msgid "Remove event by"
+msgstr ""
+
+msgid "Remove Event Detail Box Image"
+msgstr ""
+
+msgid "Remove Event Page Top Image"
+msgstr ""
+
+msgid "Remove Featured Event Image"
+msgstr ""
+
+msgid "Remove Month View Image"
+msgstr ""
+
+msgid "Render events"
+msgstr ""
+
+msgid "Render image in tooltip"
+msgstr ""
+
+msgid "Repeat"
+msgstr ""
+
+msgid "Repeat dates"
+msgstr ""
+
+msgid "Repeat every"
+msgstr ""
+
+msgid "Repeat time"
+msgstr ""
+
+msgid "Replace the event title with a fixed label."
+msgstr ""
+
+msgid ""
+"Requires PHP 5.3 or greater.  If PHP requirement is not met, will fallback "
+"to version 2.4.4.  Uses a supplementary wp_rhc_events table for faster "
+"querying of recurring events"
+msgstr ""
+
+msgid "Reset settings"
+msgstr ""
+
+msgid "Reset to default template"
+msgstr ""
+
+msgid "Restore bundle:"
+msgstr ""
+
+msgid "Restore custom fields"
+msgstr ""
+
+msgid "Restore the current options to this settings."
+msgstr ""
+
+msgid "Restored %s:%s"
+msgstr ""
+
+msgid "Restrict access"
+msgstr ""
+
+msgid "Reverse order"
+msgstr ""
+
+msgid "Reviews and Ratings"
+msgstr ""
+
+msgid "Rewrite rules as returned by $wp_rewrite->rewrite_rules()"
+msgstr ""
+
+msgid "RHC Image"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Right header"
+msgstr ""
+
+msgid "Right width"
+msgstr ""
+
+msgid "RSVP Box"
+msgstr ""
+
+msgid "RSVP URL"
+msgstr ""
+
+msgid ""
+"same date header:</b>  choose yes to show a label with the date events on "
+"the same date."
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save all"
+msgstr ""
+
+msgid "Save as default template"
+msgstr ""
+
+msgid "Save post priority"
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "Save settings backup"
+msgstr ""
+
+msgid "Saved options"
+msgstr ""
+
+msgid "Saved Rewrite rules"
+msgstr ""
+
+msgid "Saved setting not found"
+msgstr ""
+
+msgid "Saved settings"
+msgstr ""
+
+msgid "Saved settings and downloaded content"
+msgstr ""
+
+msgid "Scripts and styles on demand"
+msgstr ""
+
+msgid "Scripts in footer"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search %s"
+msgstr ""
+
+msgid "Search Calendar"
+msgstr ""
+
+msgid "Search events"
+msgstr ""
+
+msgid "Search field"
+msgstr ""
+
+msgid "Search Organizer"
+msgstr ""
+
+msgid "Search placeholder"
+msgstr ""
+
+msgid "Search Show types"
+msgstr ""
+
+msgid "Search Venue"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid ""
+"Select the page you want to use as a template for the Detailed Event Page "
+"and Detailed Venue Page."
+msgstr ""
+
+msgid ""
+"Selected fields will be inserted in order into the format.  For field 1 use "
+"%1$s, for field 2 use %2$s, for field 3 use %3$s.  Example: to render a link "
+"choose 'Website url' and 'Website label' in the fields, then use the "
+"following format:"
+msgstr ""
+
+msgid ""
+"Selecting multiple fields requires that you properly setup a format that "
+"contains a placeholder for each of them."
+msgstr ""
+
+msgid "sep"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "Server error. Upload directory isn't writable."
+msgstr ""
+
+msgid "Server side"
+msgstr ""
+
+msgid "Service is unavailable, please try again later."
+msgstr ""
+
+msgid "Service not available."
+msgstr ""
+
+msgid "Set Default Featured Event Image"
+msgstr ""
+
+msgid "Set Event Detail Box Image"
+msgstr ""
+
+msgid "Set Event Featrued Image"
+msgstr ""
+
+msgid "Set Event Featured Image"
+msgstr ""
+
+msgid "Set Event Page Top Image"
+msgstr ""
+
+msgid "Set Month View Image"
+msgstr ""
+
+msgid "Set permissions by user role. "
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings backup"
+msgstr ""
+
+msgid "Settings backup:"
+msgstr ""
+
+msgid "Settings import and export"
+msgstr ""
+
+msgid "Several times"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Share on Facebook"
+msgstr ""
+
+msgid "Share on Google+"
+msgstr ""
+
+msgid "Share on LinkedIn"
+msgstr ""
+
+msgid "Share on Twitter"
+msgstr ""
+
+msgid "Short day names"
+msgstr ""
+
+msgid "Short month names"
+msgstr ""
+
+msgid "Shortcode argument:"
+msgstr ""
+
+msgid "Shortcode argument: next_day_threshold"
+msgstr ""
+
+msgid "Shortcode templates"
+msgstr ""
+
+msgid "Shortcode values:"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show a loading overlay on the calendar viewport when fetching events"
+msgstr ""
+
+msgid "show all"
+msgstr ""
+
+msgid "Show all post types in calendar"
+msgstr ""
+
+msgid "Show all-day slot"
+msgstr ""
+
+msgid "Show featured image"
+msgstr ""
+
+msgid "Show iCal button"
+msgstr ""
+
+msgid "Show image"
+msgstr ""
+
+msgid "Show loading overlay"
+msgstr ""
+
+msgid "Show more"
+msgstr ""
+
+msgid "Show multi month events"
+msgstr ""
+
+msgid "Show on hover"
+msgstr ""
+
+msgid "Show other month events"
+msgstr ""
+
+msgid "Show previous"
+msgstr ""
+
+msgid "Show same date header"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
+msgid "Show weekend"
+msgstr ""
+
+msgid "Show weekends"
+msgstr ""
+
+msgid "Single event (version 2)"
+msgstr ""
+
+msgid "Single event page"
+msgstr ""
+
+msgid "Single event shows template title instead of event."
+msgstr ""
+
+msgid "Single event URL"
+msgstr ""
+
+msgid "Single marker"
+msgstr ""
+
+msgid "Single quote"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Slot minutes"
+msgstr ""
+
+msgid "Social Panels URL"
+msgstr ""
+
+msgid "Social Sharing Panel"
+msgstr ""
+
+msgid ""
+"some setups, wordpress is installed in a non-standard way and causes the "
+"function to return a value that is diferent from the real url, the browser "
+"to reject the ajax.  You need to add to the query string."
+msgstr ""
+
+msgid ""
+"Some themes that load content with ajax, tabs, and sliders break the initial "
+"rendering of the calendar.  Choose yes to prevent this.  If not needed the "
+"recommended setting is to choose no."
+msgstr ""
+
+msgid ""
+"some themes you may need to add additional html so the content is styled by "
+"the theme."
+msgstr ""
+
+msgid "Sorry, but this feature is disabled in the demo!"
+msgstr ""
+
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "Specific date (Y-m-d)"
+msgstr ""
+
+msgid "Specific date End (Y-m-d)"
+msgstr ""
+
+msgid "Specific taxonomy:"
+msgstr ""
+
+msgid ""
+"Specify a post ID if you want to show a list of recurring instances for that "
+"particular event.  This is overwritten by the previous option."
+msgstr ""
+
+msgid "Specify a text to show if there are no more events."
+msgstr ""
+
+msgid ""
+"Specify comma separated meta field names used by the theme to store layout "
+"information per post.  This is used if for example the theme allows to "
+"configure a sidebar per page, but it is not showing in the event page "
+"although it has been configured on the template."
+msgstr ""
+
+msgid ""
+"Specify comma separated page ids where you wich the calendarize it scripts "
+"and styles to be loaded.  Please observe that upcoming events widget needs "
+"them also."
+msgstr ""
+
+msgid "Specify the id of a page that you want to use as model for this venue"
+msgstr ""
+
+msgid ""
+"Specify the jQuery UI version to load in the frontend and backend.  By "
+"default it loads 1.9.0 on WP3.5 and higher and 1.8.22 on pre WP3.5"
+msgstr ""
+
+msgid "Specify the URL of a page containing a calendar set with map view"
+msgstr ""
+
+msgid "Specify the URL of a page containing social panels."
+msgstr ""
+
+msgid ""
+"Specify the URL of a page containing the Upcoming Events widget 'Agenda Like "
+"B' model."
+msgstr ""
+
+msgid ""
+"Specify the URL of a page containing the Upcoming Events widget 'Agenda "
+"Like' model."
+msgstr ""
+
+msgid ""
+"Specify the URL of a page containing the Upcoming Events widget 'Default' "
+"model."
+msgstr ""
+
+msgid ""
+"Specify the url of a page where the calendarizeit shortcode have been "
+"implemented.  If left blank the editor will try to determine it "
+"automatically."
+msgstr ""
+
+msgid "Stack autoload"
+msgstr ""
+
+msgid "Stack behaviour"
+msgstr ""
+
+msgid "Stars color"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+msgid "Start Date &amp; Time"
+msgstr ""
+
+msgid "Start date(all-day)"
+msgstr ""
+
+msgid "Start datetime"
+msgstr ""
+
+msgid "Start time"
+msgstr ""
+
+msgid "Start/end date format"
+msgstr ""
+
+msgid "Start/end date format (All day)"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "state"
+msgid_plural "states"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "State/Provice/Other"
+msgstr ""
+
+msgid "State/Province/Other"
+msgstr ""
+
+msgid "Static"
+msgstr ""
+
+msgid "Street address of this venue"
+msgstr ""
+
+msgid "Sub title"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Submit Box"
+msgstr ""
+
+msgid "Submit Box Button"
+msgstr ""
+
+msgid "Submit default color"
+msgstr ""
+
+msgid "Submit Hover color"
+msgstr ""
+
+msgid "Submit Rating"
+msgstr ""
+
+msgid "Submit Rating and Review"
+msgstr ""
+
+msgid "Subscription text"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "Success Alert Box"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+msgid "Sun,Mon,Tue,Wed,Thu,Fri,Sat"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+msgid "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+msgstr ""
+
+msgid "Suppress filters"
+msgstr ""
+
+msgid "Tab font"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Taxonomies are links"
+msgstr ""
+
+msgid "Taxonomy"
+msgstr ""
+
+msgid "Taxonomy bar filter"
+msgstr ""
+
+msgid "Taxonomy field:"
+msgstr ""
+
+msgid "Taxonomy fields"
+msgstr ""
+
+msgid "Taxonomy loop"
+msgstr ""
+
+msgid "Taxonomy meta"
+msgstr ""
+
+msgid "Taxonomy Page Template"
+msgstr ""
+
+msgid "Taxonomy template"
+msgstr ""
+
+msgid "Taxonomy:"
+msgstr ""
+
+msgid "Telephone"
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Template content"
+msgstr ""
+
+msgid "Template Integration"
+msgstr ""
+
+msgid "Template page id (optional)"
+msgstr ""
+
+msgid "Template path"
+msgstr ""
+
+msgid ""
+"Template refers to the main element holder, by default it is: &lt;span"
+"%1$s&gt;&lt;/span&gt;"
+msgstr ""
+
+msgid "Template settings"
+msgstr ""
+
+msgid "Templates"
+msgstr ""
+
+msgid "Term Name"
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Text decoration"
+msgstr ""
+
+msgid "Text for info windows"
+msgstr ""
+
+msgid "Text shadow"
+msgstr ""
+
+msgid "Thank you for <span id='display_big_count'>0</span> rating"
+msgstr ""
+
+msgid "Thank you for <span id='display_big_count'>0</span> ratings"
+msgstr ""
+
+msgid "Thank you for your rating [NAME]."
+msgstr ""
+
+msgid ""
+"that the default set is only used when creating new events.  events will "
+"keep their current custom field layout."
+msgstr ""
+
+msgid "the Backup options if you want to save your current settings "
+msgstr ""
+
+msgid ""
+"the Calendar object is smaller than the value set, mobile layout will "
+"displayed instead of the regular Calendar layout.  This does not apply to "
+"widgets."
+msgstr ""
+
+msgid ""
+"The current calendarize settings require that you specify the repeat date "
+"time."
+msgstr ""
+
+msgid ""
+"The description of the organizer, will be used in the organizer page content."
+msgstr ""
+
+msgid "The description of the venue, will be used in the venue page content."
+msgstr ""
+
+msgid ""
+"The elements inner html gets replaced with the actual fields value, using "
+"the format field."
+msgstr ""
+
+msgid ""
+"The first set of data in a calendar view will be preloaded.  Choose no if "
+"you do not want to preload events by default."
+msgstr ""
+
+msgid ""
+"the jQuery UI version to load in the frontend and backend.  By it loads "
+"1.9.0 on WP3.5 and higher and 1.8.22 on pre WP3.5"
+msgstr ""
+
+msgid ""
+"the labels of the buttons in the Calendar top controls.  Please that this "
+"will overwrite localization, so if you are using multiple leave this fields "
+"empty."
+msgstr ""
+
+msgid ""
+"the latest available version.  Version 1 is the original template provided "
+"for back compatibility on sites that have already their Calendar templates "
+"but want to update the plugin. "
+msgstr ""
+
+msgid ""
+"the loaded page is a Calendar, venue or organizer (taxonomy), only show from "
+"the same taxonomy."
+msgstr ""
+
+msgid ""
+"the page you want to use as a template for the Detailed Event Page Detailed "
+"Venue Page."
+msgstr ""
+
+msgid "the post type name for wich you want to enable the custom taxonomy."
+msgstr ""
+
+msgid "The settings on this code are the same as the current settings."
+msgstr ""
+
+msgid "The Term Name"
+msgstr ""
+
+msgid ""
+"The text color and color background of all events will be cleared.  This "
+"action includes custom post types that have been calendarized."
+msgstr ""
+
+msgid "The upload was cancelled, or server error encountered"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Theme integration"
+msgstr ""
+
+msgid "Theme issues"
+msgstr ""
+
+msgid "Theme meta fields"
+msgstr ""
+
+msgid ""
+"themes that load content with ajax, tabs, and sliders break the initial of "
+"the Calendar.  Choose yes to prevent this.  If not needed the setting is to "
+"choose no."
+msgstr ""
+
+msgid "There are no additional Post Types to enable."
+msgstr ""
+
+msgid "There are no saved settings."
+msgstr ""
+
+msgid "There was an error extracting the bundled resources."
+msgstr ""
+
+msgid "There was an error importing the content."
+msgstr ""
+
+msgid "There was an error saving the settings, please try again."
+msgstr ""
+
+msgid "This action cannot be undone!"
+msgstr ""
+
+msgid ""
+"This action cannot be undone!  Confirm to remove all event font color and "
+"background color."
+msgstr ""
+
+msgid ""
+"This applies to theme integration version 2.  Turn this option on if the "
+"single event page shows the template page title, instead of the event title"
+msgstr ""
+
+msgid "This is an all day event."
+msgstr ""
+
+msgid ""
+"this is associated with plugins or themes that append content to a like "
+"sharing bars or forms."
+msgstr ""
+
+msgid "This is only used on template version 1."
+msgstr ""
+
+msgid ""
+"This operation cannot be undone. All the events custom field layout will be "
+"replaced!"
+msgstr ""
+
+msgid "This operation may take a while to complete."
+msgstr ""
+
+msgid ""
+"this option if you do not want the Calendar events to link to a single page."
+msgstr ""
+
+msgid "This option is currently not available."
+msgstr ""
+
+msgid ""
+"This option may fix issues where sharing buttons are not showing on the "
+"event page."
+msgstr ""
+
+msgid ""
+"This option was added specifically for partial compatibility with the "
+"qtranslate plugin.  Turning it on may break third party plugins that modify "
+"event content.  The qtranslate slug plugin is also need for further "
+"compatibility."
+msgstr ""
+
+msgid ""
+"This option was originally created for IIS hosted sites that have problem "
+"downloading DLC."
+msgstr ""
+
+msgid ""
+"This option will apply and overwrite the custom field layout with the "
+"default one, on ALL events."
+msgstr ""
+
+msgid ""
+"this options if you want to disable some of the Calendarize-it built in "
+msgstr ""
+
+msgid ""
+"This shortcode requires that the latest version of 'Ajax events query "
+"version.' is enabled."
+msgstr ""
+
+msgid "This will overwrite all calendarize date and recurring date settings."
+msgstr ""
+
+msgid "This will permanently remove this settings."
+msgstr ""
+
+msgid "This will remove all calendarize date and recurring date settings."
+msgstr ""
+
+msgid ""
+"This will replace the existing default fields with the layout set on this "
+"page for all boxes."
+msgstr ""
+
+msgid ""
+"This will restore the default template.  Any customization will be lost on "
+"all boxes."
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Time font"
+msgstr ""
+
+msgid "Time format"
+msgstr ""
+
+msgid "Tip and background color"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title font"
+msgstr ""
+
+msgid "Title format"
+msgstr ""
+
+msgid "Title line height"
+msgstr ""
+
+msgid "Title link target"
+msgstr ""
+
+msgid "Title top margin"
+msgstr ""
+
+msgid ""
+"to Codecanyon and click My Account at the top, then click Downloads, and "
+"click the <strong>License Certificate link</strong>."
+msgstr ""
+
+msgid ""
+"to version 2.4.4 ical dates where set in local time.  Latest version "
+"converts dtstart, dtend, rdate and exrdate to UTC depending on the offset in "
+"WordPress settings.  Choose yes to disable converting "
+msgstr ""
+
+msgid "to: <b>month,agendaWeek,agendaDay,rhc_event</b>. Also available: "
+msgstr ""
+
+msgid "today"
+msgstr ""
+
+msgid "TODO"
+msgstr ""
+
+msgid "Tooltip"
+msgstr ""
+
+msgid "Tooltip behaviour"
+msgstr ""
+
+msgid "Tooltip Details"
+msgstr ""
+
+msgid "Tooltip fonts"
+msgstr ""
+
+msgid "Tooltip links target"
+msgstr ""
+
+msgid "Top container"
+msgstr ""
+
+msgid "Top image shortcode"
+msgstr ""
+
+msgid "Top Rating Text"
+msgstr ""
+
+msgid "Top width"
+msgstr ""
+
+msgid "Troubleshooting"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Tuestday"
+msgstr "Tuesday"
+
+msgid ""
+"Turn on if for some special usage you require that events post type are "
+"hierarchical.  Observe that on large sets of data this may exhaust memory in "
+"the backend."
+msgstr ""
+
+msgid ""
+"Turn this option ON if you are getting the error message 'There was an error "
+"extracting the bundled resources' when downloading addons."
+msgstr ""
+
+msgid ""
+"Turned off by default.  Choose yes if you have plugins or addons that may "
+"modify the content of events based on what user is logged in.  This "
+"increases the size of the cache, so only choose yes if needed."
+msgstr ""
+
+msgid ""
+"Turning this option will reset the internal ajax version so that it re-"
+"installs needed tables and re-generate event recurring dates."
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Twitter default color"
+msgstr ""
+
+msgid "Twitter Hover color"
+msgstr ""
+
+msgid "Twitter Icon color"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Unable to create directory %s"
+msgstr ""
+
+msgid "Unable to read bundle file"
+msgstr ""
+
+msgid "Unhandled content type, update plugin or theme to latest version."
+msgstr ""
+
+msgid "Unknown error while processing. Please reload and try again."
+msgstr ""
+
+msgid "Unknown function %s"
+msgstr ""
+
+msgid "Unwanted content in venuebox"
+msgstr ""
+
+msgid ""
+"Up to version 2.4.4 ical dates where set in local time.  Latest version "
+"default converts dtstart, dtend, rdate and exrdate to UTC depending on the "
+"configured offset in WordPress settings.  Choose yes to disable converting "
+"dates."
+msgstr ""
+
+msgid "Upcoming events"
+msgstr ""
+
+msgid "Upcoming Events Agenda Like B URL"
+msgstr ""
+
+msgid "Upcoming Events Agenda Like URL"
+msgstr ""
+
+msgid "Upcoming Events Default URL"
+msgstr ""
+
+msgid "Upcoming events widget"
+msgstr ""
+
+msgid "Upcoming only"
+msgstr ""
+
+msgid "Upcoming only (all views)"
+msgstr ""
+
+msgid "Update %s"
+msgstr ""
+
+msgid "Update calendar"
+msgstr ""
+
+msgid "Update Organizer"
+msgstr ""
+
+msgid "Update show type"
+msgstr ""
+
+msgid "Update venue"
+msgstr ""
+
+msgid "Upgrading bugs"
+msgstr ""
+
+msgid ""
+"URL of a organizer page.  If left blank the editor will try to determine it "
+"automatically."
+msgstr ""
+
+msgid ""
+"URL of a single event page.  If left blank the editor will try to determine "
+"it automatically."
+msgstr ""
+
+msgid ""
+"URL of a venue page.  If left blank the editor will try to determine it "
+"automatically."
+msgstr ""
+
+msgid "Url to an image to display at the organizer category page"
+msgstr ""
+
+msgid "Url to an image to display at the venue category page"
+msgstr ""
+
+msgid "Use author dropdown in settings."
+msgstr ""
+
+msgid "Use built-in archive content filter"
+msgstr ""
+
+msgid "Use original ajax events query."
+msgstr ""
+
+msgid "Use original upcoming events widget."
+msgstr ""
+
+msgid "Use rel='nofollow' for link:"
+msgstr ""
+
+msgid ""
+"Use this option to automatically add Calendarize It! single page elements, "
+"you can still control display with the Layout options in the post edit "
+"screen."
+msgstr ""
+
+msgid ""
+"Use this options if you want to disable some of the calendarize-it built in "
+"taxonomies."
+msgstr ""
+
+msgid ""
+"use this options if you want to use diferent labels from the localized or if "
+"the plugin is not providing localization at all."
+msgstr ""
+
+msgid "Use uploads as temp folder"
+msgstr ""
+
+msgid "Used templates"
+msgstr ""
+
+msgid ""
+"Usually this is associated with plugins or themes that append content to a "
+"post, like sharing bars or forms."
+msgstr ""
+
+msgid "Validate empty fields"
+msgstr ""
+
+msgid "Value:"
+msgstr ""
+
+msgid "Values (links)"
+msgstr ""
+
+msgid "Values (normal)"
+msgstr ""
+
+msgid "Values font"
+msgstr ""
+
+msgid "Values link font"
+msgstr ""
+
+msgid "Variable"
+msgstr ""
+
+msgid "Venue"
+msgstr ""
+
+msgid "Venue and Organizer Page Template"
+msgstr ""
+
+msgid "Venue Details"
+msgstr ""
+
+msgid "Venue Details Box"
+msgstr ""
+
+msgid "Venue Details Box Map"
+msgstr ""
+
+msgid "Venue fields"
+msgstr ""
+
+msgid "Venue Image"
+msgstr ""
+
+msgid "Venue layout"
+msgstr ""
+
+msgid "Venue Loop"
+msgstr ""
+
+msgid "Venue Map"
+msgstr ""
+
+msgid "Venue Meta"
+msgstr ""
+
+msgid "Venue Name"
+msgstr ""
+
+msgid "Venue page"
+msgstr ""
+
+msgid "Venue Page Template"
+msgstr ""
+
+msgid "Venue template"
+msgstr ""
+
+msgid "Venue URL"
+msgstr ""
+
+msgid "Venue Website"
+msgstr ""
+
+msgid "Venues"
+msgstr ""
+
+msgid "Venues slug"
+msgstr ""
+
+msgid "Venues template"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Version 2.4.4"
+msgstr ""
+
+msgid "Version 3.1.4 ajax query"
+msgstr ""
+
+msgid "Vertical label"
+msgstr ""
+
+msgid "Vertical label font"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View background"
+msgstr ""
+
+msgid "View default color"
+msgstr ""
+
+msgid "View event"
+msgstr ""
+
+msgid "View Google Map"
+msgstr ""
+
+msgid "View Hover color"
+msgstr ""
+
+msgid "View Ratings and Reviews"
+msgstr ""
+
+msgid "Visit site"
+msgstr ""
+
+msgid "Visual calendar slug"
+msgstr ""
+
+msgid "Visual Composer"
+msgstr ""
+
+msgid ""
+"was a communication error with the RightHere server. Contact support support."
+"righthere.com about payment %s.  Error message: %s"
+msgstr ""
+
+msgid "was an error saving a backup of the current settings, please try again."
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Website label"
+msgstr ""
+
+msgid "Website url"
+msgstr ""
+
+msgid "Website url nofollow behavior"
+msgstr ""
+
+msgid "Website:"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Wednsday"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Week mode"
+msgstr ""
+
+msgid "Week number"
+msgstr ""
+
+msgid "Week number label"
+msgstr ""
+
+msgid "week of year"
+msgstr ""
+
+msgid "Week start"
+msgstr ""
+
+msgid "Week view column"
+msgstr ""
+
+msgid "Week view title"
+msgstr ""
+
+msgid "week(s)"
+msgstr ""
+
+msgid ""
+"When printing a page with a calendar, by default only the calendar will be "
+"printed.  Check this option to disable print css."
+msgstr ""
+
+msgid ""
+"When the calendar object is smaller than the value set, mobile layout will "
+"be displayed instead of the regular calendar layout.  This does not apply to "
+"calendar widgets."
+msgstr ""
+
+msgid ""
+"When this option is set to yes, microdata will automatically be added to an "
+"event."
+msgstr ""
+
+msgid ""
+"When using the map view as a business directory, check the taxonomies that "
+"you would like to enable as taxonomies for the venue.  This will add an "
+"option on the venue edit page to choose taxonomies to filter the businesses "
+"displayed on the map."
+msgstr ""
+
+msgid "Widget Date box"
+msgstr ""
+
+msgid "Widget Date box Background"
+msgstr ""
+
+msgid "Widget Date box Day"
+msgstr ""
+
+msgid "Widget Date box Month"
+msgstr ""
+
+msgid ""
+"widget: Selet a page, to which the Calendar widget will take the when "
+"clicked.  Usually a page containing the Calendarizeit shortcode."
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid ""
+"will replace the existing default fields with the layout set on this for all "
+"boxes."
+msgstr ""
+
+msgid ""
+"will restore the default template.  Any customization will be lost on boxes."
+msgstr ""
+
+msgid "WordPress version"
+msgstr ""
+
+msgid "WP 4.1 cannot delete events"
+msgstr ""
+
+msgid "WP 4.4 taxonomy metadata dissappeared."
+msgstr ""
+
+msgid ""
+"Write <b>comma separated</b> and <b>no space</b> labels on each setting in "
+"this section"
+msgstr ""
+
+msgid "Write an author user_login to display events from that author only"
+msgstr ""
+
+msgid ""
+"Write comma separated shortcode arguments that you would like to make "
+"available for overwritting through the URL query."
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "year, 2 digits"
+msgstr ""
+
+msgid "year, 4 digits"
+msgstr ""
+
+msgid "year(s)"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yes default color"
+msgstr ""
+
+msgid "Yes hover color"
+msgstr ""
+
+msgid ""
+"yes if permalinks are not working.  It will attempt an alternative of adding "
+"rewrite rules."
+msgstr ""
+
+msgid ""
+"yes if the Calendar is rendered but events are not showing.  You can the "
+"browser console, and check if the ajax dat is returned with a php  If that "
+"is the case, turning on this option will try to catch and the warning so it "
+"doesnt breaks the expected Calendar data."
+msgstr ""
+
+msgid ""
+"yes if unwanted content is rendered in the venuebox or any other related "
+"field."
+msgstr ""
+
+msgid "yes if you are using another plugin or if the theme loads google maps "
+msgstr ""
+
+msgid "yes if you want the day cell match the background color of the event."
+msgstr ""
+
+msgid ""
+"yes if you want to make taxonomies hyperlinks.  Example venue will be link "
+"to the venue page."
+msgstr ""
+
+msgid ""
+"yes only if the thumbnail metabox is not showing when you edit  Usually "
+"themes enable this."
+msgstr ""
+
+msgid "yes only if you are getting a 404 page when trying to get an event "
+msgstr ""
+
+msgid ""
+"yes to display a debug menu.  This provide technical information that can "
+"use to troubleshoot problems."
+msgstr ""
+
+msgid ""
+"yes to enable inserting the Month view image in events that has image set.  "
+"Then Month view image is set in a metabox when editing event.  The metabox "
+"has to be enabled separately on the next option."
+msgstr ""
+
+msgid "You are not allowed to edit user roles."
+msgstr ""
+
+msgid ""
+"You can also write the year only, or the year and the month.  Example "
+"2012-06 to get events from june 6."
+msgstr ""
+
+msgid ""
+"You can use this field for custom content.  Or leave empty and drag existing "
+"elements here."
+msgstr ""
+
+msgid "You cannot edit this post."
+msgstr ""
+
+msgid ""
+"you choose to skip loading the bundled jQuery UI, you need to make sure the "
+"theme or plugin loads it."
+msgstr ""
+
+msgid ""
+"you choose yes and the event starts showing, it means that the theme or a is "
+"not following a standard in regards to register_post_type and  Under certain "
+"circumstances it could also affecting performance."
+msgstr ""
+
+msgid ""
+"you experience problems with the upcoming events widget after updating, this "
+"option to go back to the original upcoming events widget code."
+msgstr ""
+
+msgid ""
+"you have a page with permalink /events/Calendar/ you may need to disable as "
+"it takes precedence over the page permlink."
+msgstr ""
+
+msgid ""
+"You have not installed the English Help for Calendarize it! Please go to "
+msgstr ""
+
+msgid ""
+"you have overwritten the default custom fields, use this button to the "
+"original set."
+msgstr ""
+
+msgid ""
+"you keep getting the message Service not available. when trying to a "
+"license, switch this to Option 2 to try an alternative."
+msgstr ""
+
+msgid ""
+"You only need to set the post id if you want to bring the date of a diferent "
+"event."
+msgstr ""
+
+msgid ""
+"You only need to set the post id if you want to bring the map of a diferent "
+"event."
+msgstr ""
+
+msgid "You will find the code in there and it will look something like this:"
+msgstr ""
+
+msgid "You will need to manually add the [post_info] shortcode."
+msgstr ""
+
+msgid "You will need to manually add the [rhc_post_info] shortcode."
+msgstr ""
+
+msgid "You will need to manually add the shortcode."
+msgstr ""
+
+msgid "Your email have already been used"
+msgstr ""
+
+msgid "your license key before you can purchase add-ons or download free add-"
+msgstr ""
+
+msgid "Your purchase code can be found in your license Certificate file."
+msgstr ""
+
+msgid "Zip Code"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
